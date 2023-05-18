@@ -1,0 +1,39 @@
+const fs = require('fs');
+const path = require('path');
+
+const audioDir = path.join(__dirname, 'assets', 'audio');
+const outputFile = path.join(__dirname, 'src', 'audiomap.js');
+
+const generateAudioMap = () => {
+  const genders = ['male', 'female'];
+  let imports = '';
+  let mappings = 'const audiomap = {\n';
+
+  for (const gender of genders) {
+    const genderDir = path.join(audioDir, gender);
+
+    const categories = fs.readdirSync(genderDir);
+    for (const category of categories) {
+      const categoryDir = path.join(genderDir, category);
+
+      const files = fs.readdirSync(categoryDir);
+      for (const file of files) {
+        const filePath = path.join(categoryDir, file);
+        const fileName = path.parse(file).name;
+        const variableName = `${gender}_${category}_${fileName}`.replace(/[-]/g, '_');
+        const assetPath = `./assets/audio/${gender}/${category}/${file}`;
+
+        imports += `import ${variableName} from '${assetPath}';\n`;
+        mappings += `  '${gender}/${category}/${fileName}': ${variableName},\n`;
+      }
+    }
+  }
+
+  mappings += '};\n';
+  const exportLine = 'export default audiomap;\n';
+
+  const outputContent = `${imports}\n${mappings}\n${exportLine}`;
+  fs.writeFileSync(outputFile, outputContent);
+};
+
+generateAudioMap();

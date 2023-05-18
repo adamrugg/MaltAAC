@@ -1,0 +1,4475 @@
+<s> jien irrid niekol tuffieħa </s>
+<s> jien irrid niekol banana </s>
+<s> jien irrid niekol ftit għeneb </s>
+<s> jien irrid niekol ħawħa </s>
+<s> jien irrid niekol larinġa </s>
+<s> jien irrid niekol lanġasa </s>
+<s> jien irrid niekol ftit frawli </s>
+<s> jien irrid niekol ftit frott </s>
+<s> jien irrid niekol biċċa dulliegħa </s>
+<s> jien irrid niekol biċċa bettieħa </s>
+<s> jien irrid niekol biċċa ħobż bil- butir u perżut </s>
+<s> jien irrid niekol biċċa ħobż bil- butir u ġobon </s>
+<s> jien irrid niekol biċċa ħobż bil- perżut u ġobon </s>
+<s> jien irrid niekol biċċa ħobż bil- butir </s>
+<s> jien irrid niekol biċċa ħobż biż- żejt </s>
+<s> jien irrid niekol biċċa kejk </s>
+<s> jien irrid niekol gallettina </s>
+<s> jien irrid niekol ftit galletti </s>
+<s> jien irrid niekol ftit gallettini </s>
+<s> jien irrid niekol biċċa ċikkulata </s>
+<s> jien irrid niekol ftit ċikkulatini </s>
+<s> jien irrid niekol ftit ħelu </s>
+<s> jien irrid niekol yogurt </s>
+<s> jien irrid niekol skutella ċereali </s>
+<s> jien irrid niekol ġelat </s>
+<s> jien irrid niekol platt spagetti </s>
+<s> jien irrid niekol platt spagetti biz- zalza </s>
+<s> jien irrid niekol platt spagetti biz- zalza ħamra </s>
+<s> jien irrid niekol platt għaġin </s>
+<s> jien irrid niekol platt għaġin biz- zalza </s>
+<s> jien irrid niekol platt għaġin biz- zalza ħamra </s>
+<s> jien irrid niekol platt ross </s>
+<s> jien irrid niekol platt soppa </s>
+<s> jien irrid niekol hamburger </s>
+<s> jien irrid niekol pizza </s>
+<s> jien irrid niekol biċċa pizza </s>
+<s> jien irrid niekol biċċa tiġieġa </s>
+<s> jien irrid niekol biċċa laħam </s>
+<s> jien irrid niekol biċċa ħuta </s>
+<s> jien irrid niekol bajda </s>
+<s> jien irrid niekol pastizz </s>
+<s> jien irrid niekol pastizz tal- piżelli </s>
+<s> jien irrid niekol pastizz tal- irkotta </s>
+<s> jien ma rridx niekol tuffieħa </s>
+<s> jien ma rridx niekol banana </s>
+<s> jien ma rridx niekol ftit għeneb </s>
+<s> jien ma rridx niekol ħawħa </s>
+<s> jien ma rridx niekol larinġa </s>
+<s> jien ma rridx niekol lanġasa </s>
+<s> jien ma rridx niekol ftit frawli </s>
+<s> jien ma rridx niekol ftit frott </s>
+<s> jien ma rridx niekol biċċa dulliegħa </s>
+<s> jien ma rridx niekol biċċa bettieħa </s>
+<s> jien ma rridx niekol biċċa ħobż bil- butir u perżut </s>
+<s> jien ma rridx niekol biċċa ħobż bil- butir u ġobon </s>
+<s> jien ma rridx niekol biċċa ħobż bil- perżut u ġobon </s>
+<s> jien ma rridx niekol biċċa ħobż bil- butir </s>
+<s> jien ma rridx niekol biċċa ħobż biż- żejt </s>
+<s> jien ma rridx niekol biċċa kejk </s>
+<s> jien ma rridx niekol gallettina </s>
+<s> jien ma rridx niekol ftit galletti </s>
+<s> jien ma rridx niekol ftit gallettini </s>
+<s> jien ma rridx niekol biċċa ċikkulata </s>
+<s> jien ma rridx niekol ftit ċikkulatini </s>
+<s> jien ma rridx niekol ftit ħelu </s>
+<s> jien ma rridx niekol yogurt </s>
+<s> jien ma rridx niekol skutella ċereali </s>
+<s> jien ma rridx niekol ġelat </s>
+<s> jien ma rridx niekol platt spagetti </s>
+<s> jien ma rridx niekol platt spagetti biz- zalza </s>
+<s> jien ma rridx niekol platt spagetti biz- zalza ħamra </s>
+<s> jien ma rridx niekol platt għaġin </s>
+<s> jien ma rridx niekol platt għaġin biz- zalza </s>
+<s> jien ma rridx niekol platt għaġin biz- zalza ħamra </s>
+<s> jien ma rridx niekol platt ross </s>
+<s> jien ma rridx niekol platt soppa </s>
+<s> jien ma rridx niekol hamburger </s>
+<s> jien ma rridx niekol pizza </s>
+<s> jien ma rridx niekol biċċa pizza </s>
+<s> jien ma rridx niekol biċċa tiġieġa </s>
+<s> jien ma rridx niekol biċċa laħam </s>
+<s> jien ma rridx niekol biċċa ħuta </s>
+<s> jien ma rridx niekol bajda </s>
+<s> jien ma rridx niekol pastizz </s>
+<s> jien ma rridx niekol pastizz tal- piżelli </s>
+<s> jien ma rridx niekol pastizz tal- irkotta </s>
+<s> jien inħobb niekol it- tuffieħ </s>
+<s> jien inħobb niekol il- banana </s>
+<s> jien inħobb niekol l- għeneb </s>
+<s> jien inħobb niekol il- ħawħ </s>
+<s> jien inħobb niekol il- larinġ </s>
+<s> jien inħobb niekol il- lanġas </s>
+<s> jien inħobb niekol il- frawli </s>
+<s> jien inħobb niekol il- frott </s>
+<s> jien inħobb niekol id- dulliegħ </s>
+<s> jien inħobb niekol il- bettieħ </s>
+<s> jien inħobb niekol il- ħobż bil- butir u perżut </s>
+<s> jien inħobb niekol il- ħobż bil- butir u ġobon </s>
+<s> jien inħobb niekol il- ħobż bil- perżut u ġobon </s>
+<s> jien inħobb niekol il- ħobż bil- butir </s>
+<s> jien inħobb niekol il- ħobż biż- żejt </s>
+<s> jien inħobb niekol il- kejk </s>
+<s> jien inħobb niekol il- gallettini </s>
+<s> jien inħobb niekol il- galletti </s>
+<s> jien inħobb niekol iċ- ċikkulata </s>
+<s> jien inħobb niekol iċ- ċikkulatini </s>
+<s> jien inħobb niekol il- ħelu </s>
+<s> jien inħobb niekol il- yogurt </s>
+<s> jien inħobb niekol iċ- ċereali </s>
+<s> jien inħobb niekol il- ġelat </s>
+<s> jien inħobb niekol l- għaġin </s>
+<s> jien inħobb niekol l- għaġin biz- zalza </s>
+<s> jien inħobb niekol l- għaġin biz- zalza ħamra </s>
+<s> jien inħobb niekol ir- ross </s>
+<s> jien inħobb niekol is- soppa </s>
+<s> jien inħobb niekol il- pizza </s>
+<s> jien inħobb niekol it- tiġieġ </s>
+<s> jien inħobb niekol il- laħam </s>
+<s> jien inħobb niekol il- ħut </s>
+<s> jien inħobb niekol il- bajd </s>
+<s> jien inħobb niekol il- pastizzi </s>
+<s> jien inħobb niekol il- pastizzi tal- piżelli </s>
+<s> jien inħobb niekol il- pastizzi tal- irkotta </s>
+<s> int trid tiekol tuffieħa </s>
+<s> int trid tiekol banana </s>
+<s> int trid tiekol ftit għeneb </s>
+<s> int trid tiekol ħawħa </s>
+<s> int trid tiekol larinġa </s>
+<s> int trid tiekol lanġasa </s>
+<s> int trid tiekol ftit frawli </s>
+<s> int trid tiekol ftit frott </s>
+<s> int trid tiekol biċċa dulliegħa </s>
+<s> int trid tiekol biċċa bettieħa </s>
+<s> int trid tiekol biċċa ħobż bil- butir u perżut </s>
+<s> int trid tiekol biċċa ħobż bil- butir u ġobon </s>
+<s> int trid tiekol biċċa ħobż bil- perżut u ġobon </s>
+<s> int trid tiekol biċċa ħobż bil- butir </s>
+<s> int trid tiekol biċċa ħobż biż- żejt </s>
+<s> int trid tiekol biċċa kejk </s>
+<s> int trid tiekol gallettina </s>
+<s> int trid tiekol ftit galletti </s>
+<s> int trid tiekol ftit gallettini </s>
+<s> int trid tiekol biċċa ċikkulata </s>
+<s> int trid tiekol ftit ċikkulatini </s>
+<s> int trid tiekol ftit ħelu </s>
+<s> int trid tiekol yogurt </s>
+<s> int trid tiekol skutella ċereali </s>
+<s> int trid tiekol ġelat </s>
+<s> int trid tiekol platt spagetti </s>
+<s> int trid tiekol platt spagetti biz- zalza </s>
+<s> int trid tiekol platt spagetti biz- zalza ħamra </s>
+<s> int trid tiekol platt għaġin </s>
+<s> int trid tiekol platt għaġin biz- zalza </s>
+<s> int trid tiekol platt għaġin biz- zalza ħamra </s>
+<s> int trid tiekol platt ross </s>
+<s> int trid tiekol platt soppa </s>
+<s> int trid tiekol hamburger </s>
+<s> int trid tiekol pizza </s>
+<s> int trid tiekol biċċa pizza </s>
+<s> int trid tiekol biċċa tiġieġa </s>
+<s> int trid tiekol biċċa laħam </s>
+<s> int trid tiekol biċċa ħuta </s>
+<s> int trid tiekol bajda </s>
+<s> int trid tiekol pastizz </s>
+<s> int trid tiekol pastizz tal- piżelli </s>
+<s> int trid tiekol pastizz tal- irkotta </s>
+<s> int ma tridx tiekol tuffieħa </s>
+<s> int ma tridx tiekol banana </s>
+<s> int ma tridx tiekol ftit għeneb </s>
+<s> int ma tridx tiekol ħawħa </s>
+<s> int ma tridx tiekol larinġa </s>
+<s> int ma tridx tiekol lanġasa </s>
+<s> int ma tridx tiekol ftit frawli </s>
+<s> int ma tridx tiekol ftit frott </s>
+<s> int ma tridx tiekol biċċa dulliegħa </s>
+<s> int ma tridx tiekol biċċa bettieħa </s>
+<s> int ma tridx tiekol biċċa ħobż bil- butir u perżut </s>
+<s> int ma tridx tiekol biċċa ħobż bil- butir u ġobon </s>
+<s> int ma tridx tiekol biċċa ħobż bil- perżut u ġobon </s>
+<s> int ma tridx tiekol biċċa ħobż bil- butir </s>
+<s> int ma tridx tiekol biċċa ħobż biż- żejt </s>
+<s> int ma tridx tiekol biċċa kejk </s>
+<s> int ma tridx tiekol gallettina </s>
+<s> int ma tridx tiekol ftit galletti </s>
+<s> int ma tridx tiekol ftit gallettini </s>
+<s> int ma tridx tiekol biċċa ċikkulata </s>
+<s> int ma tridx tiekol ftit ċikkulatini </s>
+<s> int ma tridx tiekol ftit ħelu </s>
+<s> int ma tridx tiekol yogurt </s>
+<s> int ma tridx tiekol skutella ċereali </s>
+<s> int ma tridx tiekol ġelat </s>
+<s> int ma tridx tiekol platt spagetti </s>
+<s> int ma tridx tiekol platt spagetti biz- zalza </s>
+<s> int ma tridx tiekol platt spagetti biz- zalza ħamra </s>
+<s> int ma tridx tiekol platt għaġin </s>
+<s> int ma tridx tiekol platt għaġin biz- zalza </s>
+<s> int ma tridx tiekol platt għaġin biz- zalza ħamra </s>
+<s> int ma tridx tiekol platt ross </s>
+<s> int ma tridx tiekol platt soppa </s>
+<s> int ma tridx tiekol hamburger </s>
+<s> int ma tridx tiekol pizza </s>
+<s> int ma tridx tiekol biċċa pizza </s>
+<s> int ma tridx tiekol biċċa tiġieġa </s>
+<s> int ma tridx tiekol biċċa laħam </s>
+<s> int ma tridx tiekol biċċa ħuta </s>
+<s> int ma tridx tiekol bajda </s>
+<s> int ma tridx tiekol pastizz </s>
+<s> int ma tridx tiekol pastizz tal- piżelli </s>
+<s> int ma tridx tiekol pastizz tal- irkotta </s>
+<s> int tħobb tiekol it- tuffieħ </s>
+<s> int tħobb tiekol il- banana </s>
+<s> int tħobb tiekol l- għeneb </s>
+<s> int tħobb tiekol il- ħawħ </s>
+<s> int tħobb tiekol il- larinġ </s>
+<s> int tħobb tiekol il- lanġas </s>
+<s> int tħobb tiekol il- frawli </s>
+<s> int tħobb tiekol il- frott </s>
+<s> int tħobb tiekol id- dulliegħ </s>
+<s> int tħobb tiekol il- bettieħ </s>
+<s> int tħobb tiekol il- ħobż bil- butir u perżut </s>
+<s> int tħobb tiekol il- ħobż bil- butir u ġobon </s>
+<s> int tħobb tiekol il- ħobż bil- perżut u ġobon </s>
+<s> int tħobb tiekol il- ħobż bil- butir </s>
+<s> int tħobb tiekol il- ħobż biż- żejt </s>
+<s> int tħobb tiekol il- kejk </s>
+<s> int tħobb tiekol il- gallettini </s>
+<s> int tħobb tiekol il- galletti </s>
+<s> int tħobb tiekol iċ- ċikkulata </s>
+<s> int tħobb tiekol iċ- ċikkulatini </s>
+<s> int tħobb tiekol il- ħelu </s>
+<s> int tħobb tiekol il- yogurt </s>
+<s> int tħobb tiekol iċ- ċereali </s>
+<s> int tħobb tiekol il- ġelat </s>
+<s> int tħobb tiekol l- għaġin </s>
+<s> int tħobb tiekol l- għaġin biz- zalza </s>
+<s> int tħobb tiekol l- għaġin biz- zalza ħamra </s>
+<s> int tħobb tiekol ir- ross </s>
+<s> int tħobb tiekol is- soppa </s>
+<s> int tħobb tiekol il- pizza </s>
+<s> int tħobb tiekol it- tiġieġ </s>
+<s> int tħobb tiekol il- laħam </s>
+<s> int tħobb tiekol il- ħut </s>
+<s> int tħobb tiekol il- bajd </s>
+<s> int tħobb tiekol il- pastizzi </s>
+<s> int tħobb tiekol il- pastizzi tal- piżelli </s>
+<s> int tħobb tiekol il- pastizzi tal- irkotta </s>
+<s> hu jrid jiekol tuffieħa </s>
+<s> hu jrid jiekol banana </s>
+<s> hu jrid jiekol ftit għeneb </s>
+<s> hu jrid jiekol ħawħa </s>
+<s> hu jrid jiekol larinġa </s>
+<s> hu jrid jiekol lanġasa </s>
+<s> hu jrid jiekol ftit frawli </s>
+<s> hu jrid jiekol ftit frott </s>
+<s> hu jrid jiekol biċċa dulliegħa </s>
+<s> hu jrid jiekol biċċa bettieħa </s>
+<s> hu jrid jiekol biċċa ħobż bil- butir u perżut </s>
+<s> hu jrid jiekol biċċa ħobż bil- butir u ġobon </s>
+<s> hu jrid jiekol biċċa ħobż bil- perżut u ġobon </s>
+<s> hu jrid jiekol biċċa ħobż bil- butir </s>
+<s> hu jrid jiekol biċċa ħobż biż- żejt </s>
+<s> hu jrid jiekol biċċa kejk </s>
+<s> hu jrid jiekol gallettina </s>
+<s> hu jrid jiekol ftit galletti </s>
+<s> hu jrid jiekol ftit gallettini </s>
+<s> hu jrid jiekol biċċa ċikkulata </s>
+<s> hu jrid jiekol ftit ċikkulatini </s>
+<s> hu jrid jiekol ftit ħelu </s>
+<s> hu jrid jiekol yogurt </s>
+<s> hu jrid jiekol skutella ċereali </s>
+<s> hu jrid jiekol ġelat </s>
+<s> hu jrid jiekol platt spagetti </s>
+<s> hu jrid jiekol platt spagetti biz- zalza </s>
+<s> hu jrid jiekol platt spagetti biz- zalza ħamra </s>
+<s> hu jrid jiekol platt għaġin </s>
+<s> hu jrid jiekol platt għaġin biz- zalza </s>
+<s> hu jrid jiekol platt għaġin biz- zalza ħamra </s>
+<s> hu jrid jiekol platt ross </s>
+<s> hu jrid jiekol platt soppa </s>
+<s> hu jrid jiekol hamburger </s>
+<s> hu jrid jiekol pizza </s>
+<s> hu jrid jiekol biċċa pizza </s>
+<s> hu jrid jiekol biċċa tiġieġa </s>
+<s> hu jrid jiekol biċċa laħam </s>
+<s> hu jrid jiekol biċċa ħuta </s>
+<s> hu jrid jiekol bajda </s>
+<s> hu jrid jiekol pastizz </s>
+<s> hu jrid jiekol pastizz tal- piżelli </s>
+<s> hu jrid jiekol pastizz tal- irkotta </s>
+<s> hu ma jridx jiekol tuffieħa </s>
+<s> hu ma jridx jiekol banana </s>
+<s> hu ma jridx jiekol ftit għeneb </s>
+<s> hu ma jridx jiekol ħawħa </s>
+<s> hu ma jridx jiekol larinġa </s>
+<s> hu ma jridx jiekol lanġasa </s>
+<s> hu ma jridx jiekol ftit frawli </s>
+<s> hu ma jridx jiekol ftit frott </s>
+<s> hu ma jridx jiekol biċċa dulliegħa </s>
+<s> hu ma jridx jiekol biċċa bettieħa </s>
+<s> hu ma jridx jiekol biċċa ħobż bil- butir u perżut </s>
+<s> hu ma jridx jiekol biċċa ħobż bil- butir u ġobon </s>
+<s> hu ma jridx jiekol biċċa ħobż bil- perżut u ġobon </s>
+<s> hu ma jridx jiekol biċċa ħobż bil- butir </s>
+<s> hu ma jridx jiekol biċċa ħobż biż- żejt </s>
+<s> hu ma jridx jiekol biċċa kejk </s>
+<s> hu ma jridx jiekol gallettina </s>
+<s> hu ma jridx jiekol ftit galletti </s>
+<s> hu ma jridx jiekol ftit gallettini </s>
+<s> hu ma jridx jiekol biċċa ċikkulata </s>
+<s> hu ma jridx jiekol ftit ċikkulatini </s>
+<s> hu ma jridx jiekol ftit ħelu </s>
+<s> hu ma jridx jiekol yogurt </s>
+<s> hu ma jridx jiekol skutella ċereali </s>
+<s> hu ma jridx jiekol ġelat </s>
+<s> hu ma jridx jiekol platt spagetti </s>
+<s> hu ma jridx jiekol platt spagetti biz- zalza </s>
+<s> hu ma jridx jiekol platt spagetti biz- zalza ħamra </s>
+<s> hu ma jridx jiekol platt għaġin </s>
+<s> hu ma jridx jiekol platt għaġin biz- zalza </s>
+<s> hu ma jridx jiekol platt għaġin biz- zalza ħamra </s>
+<s> hu ma jridx jiekol platt ross </s>
+<s> hu ma jridx jiekol platt soppa </s>
+<s> hu ma jridx jiekol hamburger </s>
+<s> hu ma jridx jiekol pizza </s>
+<s> hu ma jridx jiekol biċċa pizza </s>
+<s> hu ma jridx jiekol biċċa tiġieġa </s>
+<s> hu ma jridx jiekol biċċa laħam </s>
+<s> hu ma jridx jiekol biċċa ħuta </s>
+<s> hu ma jridx jiekol bajda </s>
+<s> hu ma jridx jiekol pastizz </s>
+<s> hu ma jridx jiekol pastizz tal- piżelli </s>
+<s> hu ma jridx jiekol pastizz tal- irkotta </s>
+<s> hu jħobb jiekol it- tuffieħ </s>
+<s> hu jħobb jiekol il- banana </s>
+<s> hu jħobb jiekol l- għeneb </s>
+<s> hu jħobb jiekol il- ħawħ </s>
+<s> hu jħobb jiekol il- larinġ </s>
+<s> hu jħobb jiekol il- lanġas </s>
+<s> hu jħobb jiekol il- frawli </s>
+<s> hu jħobb jiekol il- frott </s>
+<s> hu jħobb jiekol id- dulliegħ </s>
+<s> hu jħobb jiekol il- bettieħ </s>
+<s> hu jħobb jiekol il- ħobż bil- butir u perżut </s>
+<s> hu jħobb jiekol il- ħobż bil- butir u ġobon </s>
+<s> hu jħobb jiekol il- ħobż bil- perżut u ġobon </s>
+<s> hu jħobb jiekol il- ħobż bil- butir </s>
+<s> hu jħobb jiekol il- ħobż biż- żejt </s>
+<s> hu jħobb jiekol il- kejk </s>
+<s> hu jħobb jiekol il- gallettini </s>
+<s> hu jħobb jiekol il- galletti </s>
+<s> hu jħobb jiekol iċ- ċikkulata </s>
+<s> hu jħobb jiekol iċ- ċikkulatini </s>
+<s> hu jħobb jiekol il- ħelu </s>
+<s> hu jħobb jiekol il- yogurt </s>
+<s> hu jħobb jiekol iċ- ċereali </s>
+<s> hu jħobb jiekol il- ġelat </s>
+<s> hu jħobb jiekol l- għaġin </s>
+<s> hu jħobb jiekol l- għaġin biz- zalza </s>
+<s> hu jħobb jiekol l- għaġin biz- zalza ħamra </s>
+<s> hu jħobb jiekol ir- ross </s>
+<s> hu jħobb jiekol is- soppa </s>
+<s> hu jħobb jiekol il- pizza </s>
+<s> hu jħobb jiekol it- tiġieġ </s>
+<s> hu jħobb jiekol il- laħam </s>
+<s> hu jħobb jiekol il- ħut </s>
+<s> hu jħobb jiekol il- bajd </s>
+<s> hu jħobb jiekol il- pastizzi </s>
+<s> hu jħobb jiekol il- pastizzi tal- piżelli </s>
+<s> hu jħobb jiekol il- pastizzi tal- irkotta </s>
+<s> hi trid tiekol tuffieħa </s>
+<s> hi trid tiekol banana </s>
+<s> hi trid tiekol ftit għeneb </s>
+<s> hi trid tiekol ħawħa </s>
+<s> hi trid tiekol larinġa </s>
+<s> hi trid tiekol lanġasa </s>
+<s> hi trid tiekol ftit frawli </s>
+<s> hi trid tiekol ftit frott </s>
+<s> hi trid tiekol biċċa dulliegħa </s>
+<s> hi trid tiekol biċċa bettieħa </s>
+<s> hi trid tiekol biċċa ħobż bil- butir u perżut </s>
+<s> hi trid tiekol biċċa ħobż bil- butir u ġobon </s>
+<s> hi trid tiekol biċċa ħobż bil- perżut u ġobon </s>
+<s> hi trid tiekol biċċa ħobż bil- butir </s>
+<s> hi trid tiekol biċċa ħobż biż- żejt </s>
+<s> hi trid tiekol biċċa kejk </s>
+<s> hi trid tiekol gallettina </s>
+<s> hi trid tiekol ftit galletti </s>
+<s> hi trid tiekol ftit gallettini </s>
+<s> hi trid tiekol biċċa ċikkulata </s>
+<s> hi trid tiekol ftit ċikkulatini </s>
+<s> hi trid tiekol ftit ħelu </s>
+<s> hi trid tiekol yogurt </s>
+<s> hi trid tiekol skutella ċereali </s>
+<s> hi trid tiekol ġelat </s>
+<s> hi trid tiekol platt spagetti </s>
+<s> hi trid tiekol platt spagetti biz- zalza </s>
+<s> hi trid tiekol platt spagetti biz- zalza ħamra </s>
+<s> hi trid tiekol platt għaġin </s>
+<s> hi trid tiekol platt għaġin biz- zalza </s>
+<s> hi trid tiekol platt għaġin biz- zalza ħamra </s>
+<s> hi trid tiekol platt ross </s>
+<s> hi trid tiekol platt soppa </s>
+<s> hi trid tiekol hamburger </s>
+<s> hi trid tiekol pizza </s>
+<s> hi trid tiekol biċċa pizza </s>
+<s> hi trid tiekol biċċa tiġieġa </s>
+<s> hi trid tiekol biċċa laħam </s>
+<s> hi trid tiekol biċċa ħuta </s>
+<s> hi trid tiekol bajda </s>
+<s> hi trid tiekol pastizz </s>
+<s> hi trid tiekol pastizz tal- piżelli </s>
+<s> hi trid tiekol pastizz tal- irkotta </s>
+<s> hi ma tridx tiekol tuffieħa </s>
+<s> hi ma tridx tiekol banana </s>
+<s> hi ma tridx tiekol ftit għeneb </s>
+<s> hi ma tridx tiekol ħawħa </s>
+<s> hi ma tridx tiekol larinġa </s>
+<s> hi ma tridx tiekol lanġasa </s>
+<s> hi ma tridx tiekol ftit frawli </s>
+<s> hi ma tridx tiekol ftit frott </s>
+<s> hi ma tridx tiekol biċċa dulliegħa </s>
+<s> hi ma tridx tiekol biċċa bettieħa </s>
+<s> hi ma tridx tiekol biċċa ħobż bil- butir u perżut </s>
+<s> hi ma tridx tiekol biċċa ħobż bil- butir u ġobon </s>
+<s> hi ma tridx tiekol biċċa ħobż bil- perżut u ġobon </s>
+<s> hi ma tridx tiekol biċċa ħobż bil- butir </s>
+<s> hi ma tridx tiekol biċċa ħobż biż- żejt </s>
+<s> hi ma tridx tiekol biċċa kejk </s>
+<s> hi ma tridx tiekol gallettina </s>
+<s> hi ma tridx tiekol ftit galletti </s>
+<s> hi ma tridx tiekol ftit gallettini </s>
+<s> hi ma tridx tiekol biċċa ċikkulata </s>
+<s> hi ma tridx tiekol ftit ċikkulatini </s>
+<s> hi ma tridx tiekol ftit ħelu </s>
+<s> hi ma tridx tiekol yogurt </s>
+<s> hi ma tridx tiekol skutella ċereali </s>
+<s> hi ma tridx tiekol ġelat </s>
+<s> hi ma tridx tiekol platt spagetti </s>
+<s> hi ma tridx tiekol platt spagetti biz- zalza </s>
+<s> hi ma tridx tiekol platt spagetti biz- zalza ħamra </s>
+<s> hi ma tridx tiekol platt għaġin </s>
+<s> hi ma tridx tiekol platt għaġin biz- zalza </s>
+<s> hi ma tridx tiekol platt għaġin biz- zalza ħamra </s>
+<s> hi ma tridx tiekol platt ross </s>
+<s> hi ma tridx tiekol platt soppa </s>
+<s> hi ma tridx tiekol hamburger </s>
+<s> hi ma tridx tiekol pizza </s>
+<s> hi ma tridx tiekol biċċa pizza </s>
+<s> hi ma tridx tiekol biċċa tiġieġa </s>
+<s> hi ma tridx tiekol biċċa laħam </s>
+<s> hi ma tridx tiekol biċċa ħuta </s>
+<s> hi ma tridx tiekol bajda </s>
+<s> hi ma tridx tiekol pastizz </s>
+<s> hi ma tridx tiekol pastizz tal- piżelli </s>
+<s> hi ma tridx tiekol pastizz tal- irkotta </s>
+<s> hi tħobb tiekol it- tuffieħ </s>
+<s> hi tħobb tiekol il- banana </s>
+<s> hi tħobb tiekol l- għeneb </s>
+<s> hi tħobb tiekol il- ħawħ </s>
+<s> hi tħobb tiekol il- larinġ </s>
+<s> hi tħobb tiekol il- lanġas </s>
+<s> hi tħobb tiekol il- frawli </s>
+<s> hi tħobb tiekol il- frott </s>
+<s> hi tħobb tiekol id- dulliegħ </s>
+<s> hi tħobb tiekol il- bettieħ </s>
+<s> hi tħobb tiekol il- ħobż bil- butir u perżut </s>
+<s> hi tħobb tiekol il- ħobż bil- butir u ġobon </s>
+<s> hi tħobb tiekol il- ħobż bil- perżut u ġobon </s>
+<s> hi tħobb tiekol il- ħobż bil- butir </s>
+<s> hi tħobb tiekol il- ħobż biż- żejt </s>
+<s> hi tħobb tiekol il- kejk </s>
+<s> hi tħobb tiekol il- gallettini </s>
+<s> hi tħobb tiekol il- galletti </s>
+<s> hi tħobb tiekol iċ- ċikkulata </s>
+<s> hi tħobb tiekol iċ- ċikkulatini </s>
+<s> hi tħobb tiekol il- ħelu </s>
+<s> hi tħobb tiekol il- yogurt </s>
+<s> hi tħobb tiekol iċ- ċereali </s>
+<s> hi tħobb tiekol il- ġelat </s>
+<s> hi tħobb tiekol l- għaġin </s>
+<s> hi tħobb tiekol l- għaġin biz- zalza </s>
+<s> hi tħobb tiekol l- għaġin biz- zalza ħamra </s>
+<s> hi tħobb tiekol ir- ross </s>
+<s> hi tħobb tiekol is- soppa </s>
+<s> hi tħobb tiekol il- pizza </s>
+<s> hi tħobb tiekol it- tiġieġ </s>
+<s> hi tħobb tiekol il- laħam </s>
+<s> hi tħobb tiekol il- ħut </s>
+<s> hi tħobb tiekol il- bajd </s>
+<s> hi tħobb tiekol il- pastizzi </s>
+<s> hi tħobb tiekol il- pastizzi tal- piżelli </s>
+<s> hi tħobb tiekol il- pastizzi tal- irkotta </s>
+<s> aħna rridu nieklu tuffieħa </s>
+<s> aħna rridu nieklu banana </s>
+<s> aħna rridu nieklu ftit għeneb </s>
+<s> aħna rridu nieklu ħawħa </s>
+<s> aħna rridu nieklu larinġa </s>
+<s> aħna rridu nieklu lanġasa </s>
+<s> aħna rridu nieklu ftit frawli </s>
+<s> aħna rridu nieklu ftit frott </s>
+<s> aħna rridu nieklu biċċa dulliegħa </s>
+<s> aħna rridu nieklu biċċa bettieħa </s>
+<s> aħna rridu nieklu biċċa ħobż bil- butir u perżut </s>
+<s> aħna rridu nieklu biċċa ħobż bil- butir u ġobon </s>
+<s> aħna rridu nieklu biċċa ħobż bil- perżut u ġobon </s>
+<s> aħna rridu nieklu biċċa ħobż bil- butir </s>
+<s> aħna rridu nieklu biċċa ħobż biż- żejt </s>
+<s> aħna rridu nieklu biċċa kejk </s>
+<s> aħna rridu nieklu gallettina </s>
+<s> aħna rridu nieklu ftit galletti </s>
+<s> aħna rridu nieklu ftit gallettini </s>
+<s> aħna rridu nieklu biċċa ċikkulata </s>
+<s> aħna rridu nieklu ftit ċikkulatini </s>
+<s> aħna rridu nieklu ftit ħelu </s>
+<s> aħna rridu nieklu yogurt </s>
+<s> aħna rridu nieklu skutella ċereali </s>
+<s> aħna rridu nieklu ġelat </s>
+<s> aħna rridu nieklu platt spagetti </s>
+<s> aħna rridu nieklu platt spagetti biz- zalza </s>
+<s> aħna rridu nieklu platt spagetti biz- zalza ħamra </s>
+<s> aħna rridu nieklu platt għaġin </s>
+<s> aħna rridu nieklu platt għaġin biz- zalza </s>
+<s> aħna rridu nieklu platt għaġin biz- zalza ħamra </s>
+<s> aħna rridu nieklu platt ross </s>
+<s> aħna rridu nieklu platt soppa </s>
+<s> aħna rridu nieklu hamburger </s>
+<s> aħna rridu nieklu pizza </s>
+<s> aħna rridu nieklu biċċa pizza </s>
+<s> aħna rridu nieklu biċċa tiġieġa </s>
+<s> aħna rridu nieklu biċċa laħam </s>
+<s> aħna rridu nieklu biċċa ħuta </s>
+<s> aħna rridu nieklu bajda </s>
+<s> aħna rridu nieklu pastizz </s>
+<s> aħna rridu nieklu pastizz tal- piżelli </s>
+<s> aħna rridu nieklu pastizz tal- irkotta </s>
+<s> aħna ma rridux nieklu tuffieħa </s>
+<s> aħna ma rridux nieklu banana </s>
+<s> aħna ma rridux nieklu ftit għeneb </s>
+<s> aħna ma rridux nieklu ħawħa </s>
+<s> aħna ma rridux nieklu larinġa </s>
+<s> aħna ma rridux nieklu lanġasa </s>
+<s> aħna ma rridux nieklu ftit frawli </s>
+<s> aħna ma rridux nieklu ftit frott </s>
+<s> aħna ma rridux nieklu biċċa dulliegħa </s>
+<s> aħna ma rridux nieklu biċċa bettieħa </s>
+<s> aħna ma rridux nieklu biċċa ħobż bil- butir u perżut </s>
+<s> aħna ma rridux nieklu biċċa ħobż bil- butir u ġobon </s>
+<s> aħna ma rridux nieklu biċċa ħobż bil- perżut u ġobon </s>
+<s> aħna ma rridux nieklu biċċa ħobż bil- butir </s>
+<s> aħna ma rridux nieklu biċċa ħobż biż- żejt </s>
+<s> aħna ma rridux nieklu biċċa kejk </s>
+<s> aħna ma rridux nieklu gallettina </s>
+<s> aħna ma rridux nieklu ftit galletti </s>
+<s> aħna ma rridux nieklu ftit gallettini </s>
+<s> aħna ma rridux nieklu biċċa ċikkulata </s>
+<s> aħna ma rridux nieklu ftit ċikkulatini </s>
+<s> aħna ma rridux nieklu ftit ħelu </s>
+<s> aħna ma rridux nieklu yogurt </s>
+<s> aħna ma rridux nieklu skutella ċereali </s>
+<s> aħna ma rridux nieklu ġelat </s>
+<s> aħna ma rridux nieklu platt spagetti </s>
+<s> aħna ma rridux nieklu platt spagetti biz- zalza </s>
+<s> aħna ma rridux nieklu platt spagetti biz- zalza ħamra </s>
+<s> aħna ma rridux nieklu platt għaġin </s>
+<s> aħna ma rridux nieklu platt għaġin biz- zalza </s>
+<s> aħna ma rridux nieklu platt għaġin biz- zalza ħamra </s>
+<s> aħna ma rridux nieklu platt ross </s>
+<s> aħna ma rridux nieklu platt soppa </s>
+<s> aħna ma rridux nieklu hamburger </s>
+<s> aħna ma rridux nieklu pizza </s>
+<s> aħna ma rridux nieklu biċċa pizza </s>
+<s> aħna ma rridux nieklu biċċa tiġieġa </s>
+<s> aħna ma rridux nieklu biċċa laħam </s>
+<s> aħna ma rridux nieklu biċċa ħuta </s>
+<s> aħna ma rridux nieklu bajda </s>
+<s> aħna ma rridux nieklu pastizz </s>
+<s> aħna ma rridux nieklu pastizz tal- piżelli </s>
+<s> aħna ma rridux nieklu pastizz tal- irkotta </s>
+<s> aħna nħobbu nieklu it- tuffieħ </s>
+<s> aħna nħobbu nieklu il- banana </s>
+<s> aħna nħobbu nieklu l- għeneb </s>
+<s> aħna nħobbu nieklu il- ħawħ </s>
+<s> aħna nħobbu nieklu il- larinġ </s>
+<s> aħna nħobbu nieklu il- lanġas </s>
+<s> aħna nħobbu nieklu il- frawli </s>
+<s> aħna nħobbu nieklu il- frott </s>
+<s> aħna nħobbu nieklu id- dulliegħ </s>
+<s> aħna nħobbu nieklu il- bettieħ </s>
+<s> aħna nħobbu nieklu il- ħobż bil- butir u perżut </s>
+<s> aħna nħobbu nieklu il- ħobż bil- butir u ġobon </s>
+<s> aħna nħobbu nieklu il- ħobż bil- perżut u ġobon </s>
+<s> aħna nħobbu nieklu il- ħobż bil- butir </s>
+<s> aħna nħobbu nieklu il- ħobż biż- żejt </s>
+<s> aħna nħobbu nieklu il- kejk </s>
+<s> aħna nħobbu nieklu il- gallettini </s>
+<s> aħna nħobbu nieklu il- galletti </s>
+<s> aħna nħobbu nieklu iċ- ċikkulata </s>
+<s> aħna nħobbu nieklu iċ- ċikkulatini </s>
+<s> aħna nħobbu nieklu il- ħelu </s>
+<s> aħna nħobbu nieklu il- yogurt </s>
+<s> aħna nħobbu nieklu iċ- ċereali </s>
+<s> aħna nħobbu nieklu il- ġelat </s>
+<s> aħna nħobbu nieklu l- għaġin </s>
+<s> aħna nħobbu nieklu l- għaġin biz- zalza </s>
+<s> aħna nħobbu nieklu l- għaġin biz- zalza ħamra </s>
+<s> aħna nħobbu nieklu ir- ross </s>
+<s> aħna nħobbu nieklu is- soppa </s>
+<s> aħna nħobbu nieklu il- pizza </s>
+<s> aħna nħobbu nieklu it- tiġieġ </s>
+<s> aħna nħobbu nieklu il- laħam </s>
+<s> aħna nħobbu nieklu il- ħut </s>
+<s> aħna nħobbu nieklu il- bajd </s>
+<s> aħna nħobbu nieklu il- pastizzi </s>
+<s> aħna nħobbu nieklu il- pastizzi tal- piżelli </s>
+<s> aħna nħobbu nieklu il- pastizzi tal- irkotta </s>
+<s> intom tridu tieklu tuffieħa </s>
+<s> intom tridu tieklu banana </s>
+<s> intom tridu tieklu ftit għeneb </s>
+<s> intom tridu tieklu ħawħa </s>
+<s> intom tridu tieklu larinġa </s>
+<s> intom tridu tieklu lanġasa </s>
+<s> intom tridu tieklu ftit frawli </s>
+<s> intom tridu tieklu ftit frott </s>
+<s> intom tridu tieklu biċċa dulliegħa </s>
+<s> intom tridu tieklu biċċa bettieħa </s>
+<s> intom tridu tieklu biċċa ħobż bil- butir u perżut </s>
+<s> intom tridu tieklu biċċa ħobż bil- butir u ġobon </s>
+<s> intom tridu tieklu biċċa ħobż bil- perżut u ġobon </s>
+<s> intom tridu tieklu biċċa ħobż bil- butir </s>
+<s> intom tridu tieklu biċċa ħobż biż- żejt </s>
+<s> intom tridu tieklu biċċa kejk </s>
+<s> intom tridu tieklu gallettina </s>
+<s> intom tridu tieklu ftit galletti </s>
+<s> intom tridu tieklu ftit gallettini </s>
+<s> intom tridu tieklu biċċa ċikkulata </s>
+<s> intom tridu tieklu ftit ċikkulatini </s>
+<s> intom tridu tieklu ftit ħelu </s>
+<s> intom tridu tieklu yogurt </s>
+<s> intom tridu tieklu skutella ċereali </s>
+<s> intom tridu tieklu ġelat </s>
+<s> intom tridu tieklu platt spagetti </s>
+<s> intom tridu tieklu platt spagetti biz- zalza </s>
+<s> intom tridu tieklu platt spagetti biz- zalza ħamra </s>
+<s> intom tridu tieklu platt għaġin </s>
+<s> intom tridu tieklu platt għaġin biz- zalza </s>
+<s> intom tridu tieklu platt għaġin biz- zalza ħamra </s>
+<s> intom tridu tieklu platt ross </s>
+<s> intom tridu tieklu platt soppa </s>
+<s> intom tridu tieklu hamburger </s>
+<s> intom tridu tieklu pizza </s>
+<s> intom tridu tieklu biċċa pizza </s>
+<s> intom tridu tieklu biċċa tiġieġa </s>
+<s> intom tridu tieklu biċċa laħam </s>
+<s> intom tridu tieklu biċċa ħuta </s>
+<s> intom tridu tieklu bajda </s>
+<s> intom tridu tieklu pastizz </s>
+<s> intom tridu tieklu pastizz tal- piżelli </s>
+<s> intom tridu tieklu pastizz tal- irkotta </s>
+<s> intom ma tridux tieklu tuffieħa </s>
+<s> intom ma tridux tieklu banana </s>
+<s> intom ma tridux tieklu ftit għeneb </s>
+<s> intom ma tridux tieklu ħawħa </s>
+<s> intom ma tridux tieklu larinġa </s>
+<s> intom ma tridux tieklu lanġasa </s>
+<s> intom ma tridux tieklu ftit frawli </s>
+<s> intom ma tridux tieklu ftit frott </s>
+<s> intom ma tridux tieklu biċċa dulliegħa </s>
+<s> intom ma tridux tieklu biċċa bettieħa </s>
+<s> intom ma tridux tieklu biċċa ħobż bil- butir u perżut </s>
+<s> intom ma tridux tieklu biċċa ħobż bil- butir u ġobon </s>
+<s> intom ma tridux tieklu biċċa ħobż bil- perżut u ġobon </s>
+<s> intom ma tridux tieklu biċċa ħobż bil- butir </s>
+<s> intom ma tridux tieklu biċċa ħobż biż- żejt </s>
+<s> intom ma tridux tieklu biċċa kejk </s>
+<s> intom ma tridux tieklu gallettina </s>
+<s> intom ma tridux tieklu ftit galletti </s>
+<s> intom ma tridux tieklu ftit gallettini </s>
+<s> intom ma tridux tieklu biċċa ċikkulata </s>
+<s> intom ma tridux tieklu ftit ċikkulatini </s>
+<s> intom ma tridux tieklu ftit ħelu </s>
+<s> intom ma tridux tieklu yogurt </s>
+<s> intom ma tridux tieklu skutella ċereali </s>
+<s> intom ma tridux tieklu ġelat </s>
+<s> intom ma tridux tieklu platt spagetti </s>
+<s> intom ma tridux tieklu platt spagetti biz- zalza </s>
+<s> intom ma tridux tieklu platt spagetti biz- zalza ħamra </s>
+<s> intom ma tridux tieklu platt għaġin </s>
+<s> intom ma tridux tieklu platt għaġin biz- zalza </s>
+<s> intom ma tridux tieklu platt għaġin biz- zalza ħamra </s>
+<s> intom ma tridux tieklu platt ross </s>
+<s> intom ma tridux tieklu platt soppa </s>
+<s> intom ma tridux tieklu hamburger </s>
+<s> intom ma tridux tieklu pizza </s>
+<s> intom ma tridux tieklu biċċa pizza </s>
+<s> intom ma tridux tieklu biċċa tiġieġa </s>
+<s> intom ma tridux tieklu biċċa laħam </s>
+<s> intom ma tridux tieklu biċċa ħuta </s>
+<s> intom ma tridux tieklu bajda </s>
+<s> intom ma tridux tieklu pastizz </s>
+<s> intom ma tridux tieklu pastizz tal- piżelli </s>
+<s> intom ma tridux tieklu pastizz tal- irkotta </s>
+<s> intom tħobbu tieklu it- tuffieħ </s>
+<s> intom tħobbu tieklu il- banana </s>
+<s> intom tħobbu tieklu l- għeneb </s>
+<s> intom tħobbu tieklu il- ħawħ </s>
+<s> intom tħobbu tieklu il- larinġ </s>
+<s> intom tħobbu tieklu il- lanġas </s>
+<s> intom tħobbu tieklu il- frawli </s>
+<s> intom tħobbu tieklu il- frott </s>
+<s> intom tħobbu tieklu id- dulliegħ </s>
+<s> intom tħobbu tieklu il- bettieħ </s>
+<s> intom tħobbu tieklu il- ħobż bil- butir u perżut </s>
+<s> intom tħobbu tieklu il- ħobż bil- butir u ġobon </s>
+<s> intom tħobbu tieklu il- ħobż bil- perżut u ġobon </s>
+<s> intom tħobbu tieklu il- ħobż bil- butir </s>
+<s> intom tħobbu tieklu il- ħobż biż- żejt </s>
+<s> intom tħobbu tieklu il- kejk </s>
+<s> intom tħobbu tieklu il- gallettini </s>
+<s> intom tħobbu tieklu il- galletti </s>
+<s> intom tħobbu tieklu iċ- ċikkulata </s>
+<s> intom tħobbu tieklu iċ- ċikkulatini </s>
+<s> intom tħobbu tieklu il- ħelu </s>
+<s> intom tħobbu tieklu il- yogurt </s>
+<s> intom tħobbu tieklu iċ- ċereali </s>
+<s> intom tħobbu tieklu il- ġelat </s>
+<s> intom tħobbu tieklu l- għaġin </s>
+<s> intom tħobbu tieklu l- għaġin biz- zalza </s>
+<s> intom tħobbu tieklu l- għaġin biz- zalza ħamra </s>
+<s> intom tħobbu tieklu ir- ross </s>
+<s> intom tħobbu tieklu is- soppa </s>
+<s> intom tħobbu tieklu il- pizza </s>
+<s> intom tħobbu tieklu it- tiġieġ </s>
+<s> intom tħobbu tieklu il- laħam </s>
+<s> intom tħobbu tieklu il- ħut </s>
+<s> intom tħobbu tieklu il- bajd </s>
+<s> intom tħobbu tieklu il- pastizzi </s>
+<s> intom tħobbu tieklu il- pastizzi tal- piżelli </s>
+<s> intom tħobbu tieklu il- pastizzi tal- irkotta </s>
+<s> huma jridu jieklu tuffieħa </s>
+<s> huma jridu jieklu banana </s>
+<s> huma jridu jieklu ftit għeneb </s>
+<s> huma jridu jieklu ħawħa </s>
+<s> huma jridu jieklu larinġa </s>
+<s> huma jridu jieklu lanġasa </s>
+<s> huma jridu jieklu ftit frawli </s>
+<s> huma jridu jieklu ftit frott </s>
+<s> huma jridu jieklu biċċa dulliegħa </s>
+<s> huma jridu jieklu biċċa bettieħa </s>
+<s> huma jridu jieklu biċċa ħobż bil- butir u perżut </s>
+<s> huma jridu jieklu biċċa ħobż bil- butir u ġobon </s>
+<s> huma jridu jieklu biċċa ħobż bil- perżut u ġobon </s>
+<s> huma jridu jieklu biċċa ħobż bil- butir </s>
+<s> huma jridu jieklu biċċa ħobż biż- żejt </s>
+<s> huma jridu jieklu biċċa kejk </s>
+<s> huma jridu jieklu gallettina </s>
+<s> huma jridu jieklu ftit galletti </s>
+<s> huma jridu jieklu ftit gallettini </s>
+<s> huma jridu jieklu biċċa ċikkulata </s>
+<s> huma jridu jieklu ftit ċikkulatini </s>
+<s> huma jridu jieklu ftit ħelu </s>
+<s> huma jridu jieklu yogurt </s>
+<s> huma jridu jieklu skutella ċereali </s>
+<s> huma jridu jieklu ġelat </s>
+<s> huma jridu jieklu platt spagetti </s>
+<s> huma jridu jieklu platt spagetti biz- zalza </s>
+<s> huma jridu jieklu platt spagetti biz- zalza ħamra </s>
+<s> huma jridu jieklu platt għaġin </s>
+<s> huma jridu jieklu platt għaġin biz- zalza </s>
+<s> huma jridu jieklu platt għaġin biz- zalza ħamra </s>
+<s> huma jridu jieklu platt ross </s>
+<s> huma jridu jieklu platt soppa </s>
+<s> huma jridu jieklu hamburger </s>
+<s> huma jridu jieklu pizza </s>
+<s> huma jridu jieklu biċċa pizza </s>
+<s> huma jridu jieklu biċċa tiġieġa </s>
+<s> huma jridu jieklu biċċa laħam </s>
+<s> huma jridu jieklu biċċa ħuta </s>
+<s> huma jridu jieklu bajda </s>
+<s> huma jridu jieklu pastizz </s>
+<s> huma jridu jieklu pastizz tal- piżelli </s>
+<s> huma jridu jieklu pastizz tal- irkotta </s>
+<s> huma ma jridux jieklu tuffieħa </s>
+<s> huma ma jridux jieklu banana </s>
+<s> huma ma jridux jieklu ftit għeneb </s>
+<s> huma ma jridux jieklu ħawħa </s>
+<s> huma ma jridux jieklu larinġa </s>
+<s> huma ma jridux jieklu lanġasa </s>
+<s> huma ma jridux jieklu ftit frawli </s>
+<s> huma ma jridux jieklu ftit frott </s>
+<s> huma ma jridux jieklu biċċa dulliegħa </s>
+<s> huma ma jridux jieklu biċċa bettieħa </s>
+<s> huma ma jridux jieklu biċċa ħobż bil- butir u perżut </s>
+<s> huma ma jridux jieklu biċċa ħobż bil- butir u ġobon </s>
+<s> huma ma jridux jieklu biċċa ħobż bil- perżut u ġobon </s>
+<s> huma ma jridux jieklu biċċa ħobż bil- butir </s>
+<s> huma ma jridux jieklu biċċa ħobż biż- żejt </s>
+<s> huma ma jridux jieklu biċċa kejk </s>
+<s> huma ma jridux jieklu gallettina </s>
+<s> huma ma jridux jieklu ftit galletti </s>
+<s> huma ma jridux jieklu ftit gallettini </s>
+<s> huma ma jridux jieklu biċċa ċikkulata </s>
+<s> huma ma jridux jieklu ftit ċikkulatini </s>
+<s> huma ma jridux jieklu ftit ħelu </s>
+<s> huma ma jridux jieklu yogurt </s>
+<s> huma ma jridux jieklu skutella ċereali </s>
+<s> huma ma jridux jieklu ġelat </s>
+<s> huma ma jridux jieklu platt spagetti </s>
+<s> huma ma jridux jieklu platt spagetti biz- zalza </s>
+<s> huma ma jridux jieklu platt spagetti biz- zalza ħamra </s>
+<s> huma ma jridux jieklu platt għaġin </s>
+<s> huma ma jridux jieklu platt għaġin biz- zalza </s>
+<s> huma ma jridux jieklu platt għaġin biz- zalza ħamra </s>
+<s> huma ma jridux jieklu platt ross </s>
+<s> huma ma jridux jieklu platt soppa </s>
+<s> huma ma jridux jieklu hamburger </s>
+<s> huma ma jridux jieklu pizza </s>
+<s> huma ma jridux jieklu biċċa pizza </s>
+<s> huma ma jridux jieklu biċċa tiġieġa </s>
+<s> huma ma jridux jieklu biċċa laħam </s>
+<s> huma ma jridux jieklu biċċa ħuta </s>
+<s> huma ma jridux jieklu bajda </s>
+<s> huma ma jridux jieklu pastizz </s>
+<s> huma ma jridux jieklu pastizz tal- piżelli </s>
+<s> huma ma jridux jieklu pastizz tal- irkotta </s>
+<s> huma jħobbu jieklu it- tuffieħ </s>
+<s> huma jħobbu jieklu il- banana </s>
+<s> huma jħobbu jieklu l- għeneb </s>
+<s> huma jħobbu jieklu il- ħawħ </s>
+<s> huma jħobbu jieklu il- larinġ </s>
+<s> huma jħobbu jieklu il- lanġas </s>
+<s> huma jħobbu jieklu il- frawli </s>
+<s> huma jħobbu jieklu il- frott </s>
+<s> huma jħobbu jieklu id- dulliegħ </s>
+<s> huma jħobbu jieklu il- bettieħ </s>
+<s> huma jħobbu jieklu il- ħobż bil- butir u perżut </s>
+<s> huma jħobbu jieklu il- ħobż bil- butir u ġobon </s>
+<s> huma jħobbu jieklu il- ħobż bil- perżut u ġobon </s>
+<s> huma jħobbu jieklu il- ħobż bil- butir </s>
+<s> huma jħobbu jieklu il- ħobż biż- żejt </s>
+<s> huma jħobbu jieklu il- kejk </s>
+<s> huma jħobbu jieklu il- gallettini </s>
+<s> huma jħobbu jieklu il- galletti </s>
+<s> huma jħobbu jieklu iċ- ċikkulata </s>
+<s> huma jħobbu jieklu iċ- ċikkulatini </s>
+<s> huma jħobbu jieklu il- ħelu </s>
+<s> huma jħobbu jieklu il- yogurt </s>
+<s> huma jħobbu jieklu iċ- ċereali </s>
+<s> huma jħobbu jieklu il- ġelat </s>
+<s> huma jħobbu jieklu l- għaġin </s>
+<s> huma jħobbu jieklu l- għaġin biz- zalza </s>
+<s> huma jħobbu jieklu l- għaġin biz- zalza ħamra </s>
+<s> huma jħobbu jieklu ir- ross </s>
+<s> huma jħobbu jieklu is- soppa </s>
+<s> huma jħobbu jieklu il- pizza </s>
+<s> huma jħobbu jieklu it- tiġieġ </s>
+<s> huma jħobbu jieklu il- laħam </s>
+<s> huma jħobbu jieklu il- ħut </s>
+<s> huma jħobbu jieklu il- bajd </s>
+<s> huma jħobbu jieklu il- pastizzi </s>
+<s> huma jħobbu jieklu il- pastizzi tal- piżelli </s>
+<s> huma jħobbu jieklu il- pastizzi tal- irkotta </s>
+<s> jien ma nħobbx niekol it- tuffieħ </s>
+<s> jien ma nħobbx niekol il- banana </s>
+<s> jien ma nħobbx niekol l- għeneb </s>
+<s> jien ma nħobbx niekol il- ħawħ </s>
+<s> jien ma nħobbx niekol il- larinġ </s>
+<s> jien ma nħobbx niekol il- lanġas </s>
+<s> jien ma nħobbx niekol il- frawli </s>
+<s> jien ma nħobbx niekol il- frott </s>
+<s> jien ma nħobbx niekol id- dulliegħ </s>
+<s> jien ma nħobbx niekol il- bettieħ </s>
+<s> jien ma nħobbx niekol il- ħobż bil- butir u perżut </s>
+<s> jien ma nħobbx niekol il- ħobż bil- butir u ġobon </s>
+<s> jien ma nħobbx niekol il- ħobż bil- perżut u ġobon </s>
+<s> jien ma nħobbx niekol il- ħobż bil- butir </s>
+<s> jien ma nħobbx niekol il- ħobż biż- żejt </s>
+<s> jien ma nħobbx niekol il- kejk </s>
+<s> jien ma nħobbx niekol il- gallettini </s>
+<s> jien ma nħobbx niekol il- galletti </s>
+<s> jien ma nħobbx niekol iċ- ċikkulata </s>
+<s> jien ma nħobbx niekol iċ- ċikkulatini </s>
+<s> jien ma nħobbx niekol il- ħelu </s>
+<s> jien ma nħobbx niekol il- yogurt </s>
+<s> jien ma nħobbx niekol iċ- ċereali </s>
+<s> jien ma nħobbx niekol il- ġelat </s>
+<s> jien ma nħobbx niekol l- għaġin </s>
+<s> jien ma nħobbx niekol l- għaġin biz- zalza </s>
+<s> jien ma nħobbx niekol l- għaġin biz- zalza ħamra </s>
+<s> jien ma nħobbx niekol ir- ross </s>
+<s> jien ma nħobbx niekol is- soppa </s>
+<s> jien ma nħobbx niekol il- pizza </s>
+<s> jien ma nħobbx niekol it- tiġieġ </s>
+<s> jien ma nħobbx niekol il- laħam </s>
+<s> jien ma nħobbx niekol il- ħut </s>
+<s> jien ma nħobbx niekol il- bajd </s>
+<s> jien ma nħobbx niekol il- pastizzi </s>
+<s> jien ma nħobbx niekol il- pastizzi tal- piżelli </s>
+<s> jien ma nħobbx niekol il- pastizzi tal- irkotta </s>
+<s> int ma tħobbx tiekol it- tuffieħ </s>
+<s> int ma tħobbx tiekol il- banana </s>
+<s> int ma tħobbx tiekol l- għeneb </s>
+<s> int ma tħobbx tiekol il- ħawħ </s>
+<s> int ma tħobbx tiekol il- larinġ </s>
+<s> int ma tħobbx tiekol il- lanġas </s>
+<s> int ma tħobbx tiekol il- frawli </s>
+<s> int ma tħobbx tiekol il- frott </s>
+<s> int ma tħobbx tiekol id- dulliegħ </s>
+<s> int ma tħobbx tiekol il- bettieħ </s>
+<s> int ma tħobbx tiekol il- ħobż bil- butir u perżut </s>
+<s> int ma tħobbx tiekol il- ħobż bil- butir u ġobon </s>
+<s> int ma tħobbx tiekol il- ħobż bil- perżut u ġobon </s>
+<s> int ma tħobbx tiekol il- ħobż bil- butir </s>
+<s> int ma tħobbx tiekol il- ħobż biż- żejt </s>
+<s> int ma tħobbx tiekol il- kejk </s>
+<s> int ma tħobbx tiekol il- gallettini </s>
+<s> int ma tħobbx tiekol il- galletti </s>
+<s> int ma tħobbx tiekol iċ- ċikkulata </s>
+<s> int ma tħobbx tiekol iċ- ċikkulatini </s>
+<s> int ma tħobbx tiekol il- ħelu </s>
+<s> int ma tħobbx tiekol il- yogurt </s>
+<s> int ma tħobbx tiekol iċ- ċereali </s>
+<s> int ma tħobbx tiekol il- ġelat </s>
+<s> int ma tħobbx tiekol l- għaġin </s>
+<s> int ma tħobbx tiekol l- għaġin biz- zalza </s>
+<s> int ma tħobbx tiekol l- għaġin biz- zalza ħamra </s>
+<s> int ma tħobbx tiekol ir- ross </s>
+<s> int ma tħobbx tiekol is- soppa </s>
+<s> int ma tħobbx tiekol il- pizza </s>
+<s> int ma tħobbx tiekol it- tiġieġ </s>
+<s> int ma tħobbx tiekol il- laħam </s>
+<s> int ma tħobbx tiekol il- ħut </s>
+<s> int ma tħobbx tiekol il- bajd </s>
+<s> int ma tħobbx tiekol il- pastizzi </s>
+<s> int ma tħobbx tiekol il- pastizzi tal- piżelli </s>
+<s> int ma tħobbx tiekol il- pastizzi tal- irkotta </s>
+<s> hu ma jħobbx jiekol it- tuffieħ </s>
+<s> hu ma jħobbx jiekol il- banana </s>
+<s> hu ma jħobbx jiekol l- għeneb </s>
+<s> hu ma jħobbx jiekol il- ħawħ </s>
+<s> hu ma jħobbx jiekol il- larinġ </s>
+<s> hu ma jħobbx jiekol il- lanġas </s>
+<s> hu ma jħobbx jiekol il- frawli </s>
+<s> hu ma jħobbx jiekol il- frott </s>
+<s> hu ma jħobbx jiekol id- dulliegħ </s>
+<s> hu ma jħobbx jiekol il- bettieħ </s>
+<s> hu ma jħobbx jiekol il- ħobż bil- butir u perżut </s>
+<s> hu ma jħobbx jiekol il- ħobż bil- butir u ġobon </s>
+<s> hu ma jħobbx jiekol il- ħobż bil- perżut u ġobon </s>
+<s> hu ma jħobbx jiekol il- ħobż bil- butir </s>
+<s> hu ma jħobbx jiekol il- ħobż biż- żejt </s>
+<s> hu ma jħobbx jiekol il- kejk </s>
+<s> hu ma jħobbx jiekol il- gallettini </s>
+<s> hu ma jħobbx jiekol il- galletti </s>
+<s> hu ma jħobbx jiekol iċ- ċikkulata </s>
+<s> hu ma jħobbx jiekol iċ- ċikkulatini </s>
+<s> hu ma jħobbx jiekol il- ħelu </s>
+<s> hu ma jħobbx jiekol il- yogurt </s>
+<s> hu ma jħobbx jiekol iċ- ċereali </s>
+<s> hu ma jħobbx jiekol il- ġelat </s>
+<s> hu ma jħobbx jiekol l- għaġin </s>
+<s> hu ma jħobbx jiekol l- għaġin biz- zalza </s>
+<s> hu ma jħobbx jiekol l- għaġin biz- zalza ħamra </s>
+<s> hu ma jħobbx jiekol ir- ross </s>
+<s> hu ma jħobbx jiekol is- soppa </s>
+<s> hu ma jħobbx jiekol il- pizza </s>
+<s> hu ma jħobbx jiekol it- tiġieġ </s>
+<s> hu ma jħobbx jiekol il- laħam </s>
+<s> hu ma jħobbx jiekol il- ħut </s>
+<s> hu ma jħobbx jiekol il- bajd </s>
+<s> hu ma jħobbx jiekol il- pastizzi </s>
+<s> hu ma jħobbx jiekol il- pastizzi tal- piżelli </s>
+<s> hu ma jħobbx jiekol il- pastizzi tal- irkotta </s>
+<s> hi ma tħobbx tiekol it- tuffieħ </s>
+<s> hi ma tħobbx tiekol il- banana </s>
+<s> hi ma tħobbx tiekol l- għeneb </s>
+<s> hi ma tħobbx tiekol il- ħawħ </s>
+<s> hi ma tħobbx tiekol il- larinġ </s>
+<s> hi ma tħobbx tiekol il- lanġas </s>
+<s> hi ma tħobbx tiekol il- frawli </s>
+<s> hi ma tħobbx tiekol il- frott </s>
+<s> hi ma tħobbx tiekol id- dulliegħ </s>
+<s> hi ma tħobbx tiekol il- bettieħ </s>
+<s> hi ma tħobbx tiekol il- ħobż bil- butir u perżut </s>
+<s> hi ma tħobbx tiekol il- ħobż bil- butir u ġobon </s>
+<s> hi ma tħobbx tiekol il- ħobż bil- perżut u ġobon </s>
+<s> hi ma tħobbx tiekol il- ħobż bil- butir </s>
+<s> hi ma tħobbx tiekol il- ħobż biż- żejt </s>
+<s> hi ma tħobbx tiekol il- kejk </s>
+<s> hi ma tħobbx tiekol il- gallettini </s>
+<s> hi ma tħobbx tiekol il- galletti </s>
+<s> hi ma tħobbx tiekol iċ- ċikkulata </s>
+<s> hi ma tħobbx tiekol iċ- ċikkulatini </s>
+<s> hi ma tħobbx tiekol il- ħelu </s>
+<s> hi ma tħobbx tiekol il- yogurt </s>
+<s> hi ma tħobbx tiekol iċ- ċereali </s>
+<s> hi ma tħobbx tiekol il- ġelat </s>
+<s> hi ma tħobbx tiekol l- għaġin </s>
+<s> hi ma tħobbx tiekol l- għaġin biz- zalza </s>
+<s> hi ma tħobbx tiekol l- għaġin biz- zalza ħamra </s>
+<s> hi ma tħobbx tiekol ir- ross </s>
+<s> hi ma tħobbx tiekol is- soppa </s>
+<s> hi ma tħobbx tiekol il- pizza </s>
+<s> hi ma tħobbx tiekol it- tiġieġ </s>
+<s> hi ma tħobbx tiekol il- laħam </s>
+<s> hi ma tħobbx tiekol il- ħut </s>
+<s> hi ma tħobbx tiekol il- bajd </s>
+<s> hi ma tħobbx tiekol il- pastizzi </s>
+<s> hi ma tħobbx tiekol il- pastizzi tal- piżelli </s>
+<s> hi ma tħobbx tiekol il- pastizzi tal- irkotta </s>
+<s> aħna ma nħobbux nieklu it- tuffieħ </s>
+<s> aħna ma nħobbux nieklu il- banana </s>
+<s> aħna ma nħobbux nieklu l- għeneb </s>
+<s> aħna ma nħobbux nieklu il- ħawħ </s>
+<s> aħna ma nħobbux nieklu il- larinġ </s>
+<s> aħna ma nħobbux nieklu il- lanġas </s>
+<s> aħna ma nħobbux nieklu il- frawli </s>
+<s> aħna ma nħobbux nieklu il- frott </s>
+<s> aħna ma nħobbux nieklu id- dulliegħ </s>
+<s> aħna ma nħobbux nieklu il- bettieħ </s>
+<s> aħna ma nħobbux nieklu il- ħobż bil- butir u perżut </s>
+<s> aħna ma nħobbux nieklu il- ħobż bil- butir u ġobon </s>
+<s> aħna ma nħobbux nieklu il- ħobż bil- perżut u ġobon </s>
+<s> aħna ma nħobbux nieklu il- ħobż bil- butir </s>
+<s> aħna ma nħobbux nieklu il- ħobż biż- żejt </s>
+<s> aħna ma nħobbux nieklu il- kejk </s>
+<s> aħna ma nħobbux nieklu il- gallettini </s>
+<s> aħna ma nħobbux nieklu il- galletti </s>
+<s> aħna ma nħobbux nieklu iċ- ċikkulata </s>
+<s> aħna ma nħobbux nieklu iċ- ċikkulatini </s>
+<s> aħna ma nħobbux nieklu il- ħelu </s>
+<s> aħna ma nħobbux nieklu il- yogurt </s>
+<s> aħna ma nħobbux nieklu iċ- ċereali </s>
+<s> aħna ma nħobbux nieklu il- ġelat </s>
+<s> aħna ma nħobbux nieklu l- għaġin </s>
+<s> aħna ma nħobbux nieklu l- għaġin biz- zalza </s>
+<s> aħna ma nħobbux nieklu l- għaġin biz- zalza ħamra </s>
+<s> aħna ma nħobbux nieklu ir- ross </s>
+<s> aħna ma nħobbux nieklu is- soppa </s>
+<s> aħna ma nħobbux nieklu il- pizza </s>
+<s> aħna ma nħobbux nieklu it- tiġieġ </s>
+<s> aħna ma nħobbux nieklu il- laħam </s>
+<s> aħna ma nħobbux nieklu il- ħut </s>
+<s> aħna ma nħobbux nieklu il- bajd </s>
+<s> aħna ma nħobbux nieklu il- pastizzi </s>
+<s> aħna ma nħobbux nieklu il- pastizzi tal- piżelli </s>
+<s> aħna ma nħobbux nieklu il- pastizzi tal- irkotta </s>
+<s> intom ma tħobbux tieklu it- tuffieħ </s>
+<s> intom ma tħobbux tieklu il- banana </s>
+<s> intom ma tħobbux tieklu l- għeneb </s>
+<s> intom ma tħobbux tieklu il- ħawħ </s>
+<s> intom ma tħobbux tieklu il- larinġ </s>
+<s> intom ma tħobbux tieklu il- lanġas </s>
+<s> intom ma tħobbux tieklu il- frawli </s>
+<s> intom ma tħobbux tieklu il- frott </s>
+<s> intom ma tħobbux tieklu id- dulliegħ </s>
+<s> intom ma tħobbux tieklu il- bettieħ </s>
+<s> intom ma tħobbux tieklu il- ħobż bil- butir u perżut </s>
+<s> intom ma tħobbux tieklu il- ħobż bil- butir u ġobon </s>
+<s> intom ma tħobbux tieklu il- ħobż bil- perżut u ġobon </s>
+<s> intom ma tħobbux tieklu il- ħobż bil- butir </s>
+<s> intom ma tħobbux tieklu il- ħobż biż- żejt </s>
+<s> intom ma tħobbux tieklu il- kejk </s>
+<s> intom ma tħobbux tieklu il- gallettini </s>
+<s> intom ma tħobbux tieklu il- galletti </s>
+<s> intom ma tħobbux tieklu iċ- ċikkulata </s>
+<s> intom ma tħobbux tieklu iċ- ċikkulatini </s>
+<s> intom ma tħobbux tieklu il- ħelu </s>
+<s> intom ma tħobbux tieklu il- yogurt </s>
+<s> intom ma tħobbux tieklu iċ- ċereali </s>
+<s> intom ma tħobbux tieklu il- ġelat </s>
+<s> intom ma tħobbux tieklu l- għaġin </s>
+<s> intom ma tħobbux tieklu l- għaġin biz- zalza </s>
+<s> intom ma tħobbux tieklu l- għaġin biz- zalza ħamra </s>
+<s> intom ma tħobbux tieklu ir- ross </s>
+<s> intom ma tħobbux tieklu is- soppa </s>
+<s> intom ma tħobbux tieklu il- pizza </s>
+<s> intom ma tħobbux tieklu it- tiġieġ </s>
+<s> intom ma tħobbux tieklu il- laħam </s>
+<s> intom ma tħobbux tieklu il- ħut </s>
+<s> intom ma tħobbux tieklu il- bajd </s>
+<s> intom ma tħobbux tieklu il- pastizzi </s>
+<s> intom ma tħobbux tieklu il- pastizzi tal- piżelli </s>
+<s> intom ma tħobbux tieklu il- pastizzi tal- irkotta </s>
+<s> huma ma jħobbux jieklu it- tuffieħ </s>
+<s> huma ma jħobbux jieklu il- banana </s>
+<s> huma ma jħobbux jieklu l- għeneb </s>
+<s> huma ma jħobbux jieklu il- ħawħ </s>
+<s> huma ma jħobbux jieklu il- larinġ </s>
+<s> huma ma jħobbux jieklu il- lanġas </s>
+<s> huma ma jħobbux jieklu il- frawli </s>
+<s> huma ma jħobbux jieklu il- frott </s>
+<s> huma ma jħobbux jieklu id- dulliegħ </s>
+<s> huma ma jħobbux jieklu il- bettieħ </s>
+<s> huma ma jħobbux jieklu il- ħobż bil- butir u perżut </s>
+<s> huma ma jħobbux jieklu il- ħobż bil- butir u ġobon </s>
+<s> huma ma jħobbux jieklu il- ħobż bil- perżut u ġobon </s>
+<s> huma ma jħobbux jieklu il- ħobż bil- butir </s>
+<s> huma ma jħobbux jieklu il- ħobż biż- żejt </s>
+<s> huma ma jħobbux jieklu il- kejk </s>
+<s> huma ma jħobbux jieklu il- gallettini </s>
+<s> huma ma jħobbux jieklu il- galletti </s>
+<s> huma ma jħobbux jieklu iċ- ċikkulata </s>
+<s> huma ma jħobbux jieklu iċ- ċikkulatini </s>
+<s> huma ma jħobbux jieklu il- ħelu </s>
+<s> huma ma jħobbux jieklu il- yogurt </s>
+<s> huma ma jħobbux jieklu iċ- ċereali </s>
+<s> huma ma jħobbux jieklu il- ġelat </s>
+<s> huma ma jħobbux jieklu l- għaġin </s>
+<s> huma ma jħobbux jieklu l- għaġin biz- zalza </s>
+<s> huma ma jħobbux jieklu l- għaġin biz- zalza ħamra </s>
+<s> huma ma jħobbux jieklu ir- ross </s>
+<s> huma ma jħobbux jieklu is- soppa </s>
+<s> huma ma jħobbux jieklu il- pizza </s>
+<s> huma ma jħobbux jieklu it- tiġieġ </s>
+<s> huma ma jħobbux jieklu il- laħam </s>
+<s> huma ma jħobbux jieklu il- ħut </s>
+<s> huma ma jħobbux jieklu il- bajd </s>
+<s> huma ma jħobbux jieklu il- pastizzi </s>
+<s> huma ma jħobbux jieklu il- pastizzi tal- piżelli </s>
+<s> huma ma jħobbux jieklu il- pastizzi tal- irkotta </s>
+<s> jien irrid nixrob tazza ilma </s>
+<s> jien irrid nixrob tazza luminata </s>
+<s> jien irrid nixrob tazza larinġ magħsur </s>
+<s> jien irrid nixrob flixkun luminata </s>
+<s> jien irrid nixrob flixkun ilma </s>
+<s> jien irrid nixrob tazza ħalib </s>
+<s> jien irrid nixrob kikkra kafe` </s>
+<s> jien irrid nixrob kikkra te` </s>
+<s> jien irrid nixrob tazza kafe` </s>
+<s> jien irrid nixrob tazza te` </s>
+<s> int trid tixrob tazza ilma </s>
+<s> int trid tixrob tazza luminata </s>
+<s> int trid tixrob tazza larinġ magħsur </s>
+<s> int trid tixrob flixkun luminata </s>
+<s> int trid tixrob flixkun ilma </s>
+<s> int trid tixrob tazza ħalib </s>
+<s> int trid tixrob kikkra kafe` </s>
+<s> int trid tixrob kikkra te` </s>
+<s> int trid tixrob tazza kafe` </s>
+<s> int trid tixrob tazza te` </s>
+<s> hu jrid jixrob tazza ilma </s>
+<s> hu jrid jixrob tazza luminata </s>
+<s> hu jrid jixrob tazza larinġ magħsur </s>
+<s> hu jrid jixrob flixkun luminata </s>
+<s> hu jrid jixrob flixkun ilma </s>
+<s> hu jrid jixrob tazza ħalib </s>
+<s> hu jrid jixrob kikkra kafe` </s>
+<s> hu jrid jixrob kikkra te` </s>
+<s> hu jrid jixrob tazza kafe` </s>
+<s> hu jrid jixrob tazza te` </s>
+<s> hi trid tixrob tazza ilma </s>
+<s> hi trid tixrob tazza luminata </s>
+<s> hi trid tixrob tazza larinġ magħsur </s>
+<s> hi trid tixrob flixkun luminata </s>
+<s> hi trid tixrob flixkun ilma </s>
+<s> hi trid tixrob tazza ħalib </s>
+<s> hi trid tixrob kikkra kafe` </s>
+<s> hi trid tixrob kikkra te` </s>
+<s> hi trid tixrob tazza kafe` </s>
+<s> hi trid tixrob tazza te` </s>
+<s> aħna rridu nixorbu tazza ilma </s>
+<s> aħna rridu nixorbu tazza luminata </s>
+<s> aħna rridu nixorbu tazza larinġ magħsur </s>
+<s> aħna rridu nixorbu flixkun luminata </s>
+<s> aħna rridu nixorbu flixkun ilma </s>
+<s> aħna rridu nixorbu tazza ħalib </s>
+<s> aħna rridu nixorbu kikkra kafe` </s>
+<s> aħna rridu nixorbu kikkra te` </s>
+<s> aħna rridu nixorbu tazza kafe` </s>
+<s> aħna rridu nixorbu tazza te` </s>
+<s> intom tridu tixorbu tazza ilma </s>
+<s> intom tridu tixorbu tazza luminata </s>
+<s> intom tridu tixorbu tazza larinġ magħsur </s>
+<s> intom tridu tixorbu flixkun luminata </s>
+<s> intom tridu tixorbu flixkun ilma </s>
+<s> intom tridu tixorbu tazza ħalib </s>
+<s> intom tridu tixorbu kikkra kafe` </s>
+<s> intom tridu tixorbu kikkra te` </s>
+<s> intom tridu tixorbu tazza kafe` </s>
+<s> intom tridu tixorbu tazza te` </s>
+<s> huma jridu jixorbu tazza ilma </s>
+<s> huma jridu jixorbu tazza luminata </s>
+<s> huma jridu jixorbu tazza larinġ magħsur </s>
+<s> huma jridu jixorbu flixkun luminata </s>
+<s> huma jridu jixorbu flixkun ilma </s>
+<s> huma jridu jixorbu tazza ħalib </s>
+<s> huma jridu jixorbu kikkra kafe` </s>
+<s> huma jridu jixorbu kikkra te` </s>
+<s> huma jridu jixorbu tazza kafe` </s>
+<s> huma jridu jixorbu tazza te` </s>
+<s> jien ma rridx nixrob tazza ilma </s>
+<s> jien ma rridx nixrob tazza luminata </s>
+<s> jien ma rridx nixrob tazza larinġ magħsur </s>
+<s> jien ma rridx nixrob flixkun luminata </s>
+<s> jien ma rridx nixrob flixkun ilma </s>
+<s> jien ma rridx nixrob tazza ħalib </s>
+<s> jien ma rridx nixrob kikkra kafe` </s>
+<s> jien ma rridx nixrob kikkra te` </s>
+<s> jien ma rridx nixrob tazza kafe` </s>
+<s> jien ma rridx nixrob tazza te` </s>
+<s> int ma tridx tixrob tazza ilma </s>
+<s> int ma tridx tixrob tazza luminata </s>
+<s> int ma tridx tixrob tazza larinġ magħsur </s>
+<s> int ma tridx tixrob flixkun luminata </s>
+<s> int ma tridx tixrob flixkun ilma </s>
+<s> int ma tridx tixrob tazza ħalib </s>
+<s> int ma tridx tixrob kikkra kafe` </s>
+<s> int ma tridx tixrob kikkra te` </s>
+<s> int ma tridx tixrob tazza kafe` </s>
+<s> int ma tridx tixrob tazza te` </s>
+<s> hu ma jridx jixrob tazza ilma </s>
+<s> hu ma jridx jixrob tazza luminata </s>
+<s> hu ma jridx jixrob tazza larinġ magħsur </s>
+<s> hu ma jridx jixrob flixkun luminata </s>
+<s> hu ma jridx jixrob flixkun ilma </s>
+<s> hu ma jridx jixrob tazza ħalib </s>
+<s> hu ma jridx jixrob kikkra kafe` </s>
+<s> hu ma jridx jixrob kikkra te` </s>
+<s> hu ma jridx jixrob tazza kafe` </s>
+<s> hu ma jridx jixrob tazza te` </s>
+<s> hi ma tridx tixrob tazza ilma </s>
+<s> hi ma tridx tixrob tazza luminata </s>
+<s> hi ma tridx tixrob tazza larinġ magħsur </s>
+<s> hi ma tridx tixrob flixkun luminata </s>
+<s> hi ma tridx tixrob flixkun ilma </s>
+<s> hi ma tridx tixrob tazza ħalib </s>
+<s> hi ma tridx tixrob kikkra kafe` </s>
+<s> hi ma tridx tixrob kikkra te` </s>
+<s> hi ma tridx tixrob tazza kafe` </s>
+<s> hi ma tridx tixrob tazza te` </s>
+<s> aħna ma rridux nixorbu tazza ilma </s>
+<s> aħna ma rridux nixorbu tazza luminata </s>
+<s> aħna ma rridux nixorbu tazza larinġ magħsur </s>
+<s> aħna ma rridux nixorbu flixkun luminata </s>
+<s> aħna ma rridux nixorbu flixkun ilma </s>
+<s> aħna ma rridux nixorbu tazza ħalib </s>
+<s> aħna ma rridux nixorbu kikkra kafe` </s>
+<s> aħna ma rridux nixorbu kikkra te` </s>
+<s> aħna ma rridux nixorbu tazza kafe` </s>
+<s> aħna ma rridux nixorbu tazza te` </s>
+<s> intom ma tridux tixorbu tazza ilma </s>
+<s> intom ma tridux tixorbu tazza luminata </s>
+<s> intom ma tridux tixorbu tazza larinġ magħsur </s>
+<s> intom ma tridux tixorbu flixkun luminata </s>
+<s> intom ma tridux tixorbu flixkun ilma </s>
+<s> intom ma tridux tixorbu tazza ħalib </s>
+<s> intom ma tridux tixorbu kikkra kafe` </s>
+<s> intom ma tridux tixorbu kikkra te` </s>
+<s> intom ma tridux tixorbu tazza kafe` </s>
+<s> intom ma tridux tixorbu tazza te` </s>
+<s> huma ma jridux jixorbu tazza ilma </s>
+<s> huma ma jridux jixorbu tazza luminata </s>
+<s> huma ma jridux jixorbu tazza larinġ magħsur </s>
+<s> huma ma jridux jixorbu flixkun luminata </s>
+<s> huma ma jridux jixorbu flixkun ilma </s>
+<s> huma ma jridux jixorbu tazza ħalib </s>
+<s> huma ma jridux jixorbu kikkra kafe` </s>
+<s> huma ma jridux jixorbu kikkra te` </s>
+<s> huma ma jridux jixorbu tazza kafe` </s>
+<s> huma ma jridux jixorbu tazza te` </s>
+<s> jien inħobb nixrob l- ilma </s>
+<s> jien inħobb nixrob il- luminata </s>
+<s> jien inħobb nixrob il- larinġ magħsur </s>
+<s> jien inħobb nixrob il- ħalib </s>
+<s> jien inħobb nixrob il- kafe` </s>
+<s> jien inħobb nixrob it- te` </s>
+<s> int tħobb tixrob l- ilma </s>
+<s> int tħobb tixrob il- luminata </s>
+<s> int tħobb tixrob il- larinġ magħsur </s>
+<s> int tħobb tixrob il- ħalib </s>
+<s> int tħobb tixrob il- kafe` </s>
+<s> int tħobb tixrob it- te` </s>
+<s> hu jħobb jixrob l- ilma </s>
+<s> hu jħobb jixrob il- luminata </s>
+<s> hu jħobb jixrob il- larinġ magħsur </s>
+<s> hu jħobb jixrob il- ħalib </s>
+<s> hu jħobb jixrob il- kafe` </s>
+<s> hu jħobb jixrob it- te` </s>
+<s> hi tħobb tixrob l- ilma </s>
+<s> hi tħobb tixrob il- luminata </s>
+<s> hi tħobb tixrob il- larinġ magħsur </s>
+<s> hi tħobb tixrob il- ħalib </s>
+<s> hi tħobb tixrob il- kafe` </s>
+<s> hi tħobb tixrob it- te` </s>
+<s> aħna nħobbu nixorbu l- ilma </s>
+<s> aħna nħobbu nixorbu il- luminata </s>
+<s> aħna nħobbu nixorbu il- larinġ magħsur </s>
+<s> aħna nħobbu nixorbu il- ħalib </s>
+<s> aħna nħobbu nixorbu il- kafe` </s>
+<s> aħna nħobbu nixorbu it- te` </s>
+<s> intom tħobbu tixorbu l- ilma </s>
+<s> intom tħobbu tixorbu il- luminata </s>
+<s> intom tħobbu tixorbu il- larinġ magħsur </s>
+<s> intom tħobbu tixorbu il- ħalib </s>
+<s> intom tħobbu tixorbu il- kafe` </s>
+<s> intom tħobbu tixorbu it- te` </s>
+<s> huma jħobbu jixorbu l- ilma </s>
+<s> huma jħobbu jixorbu il- luminata </s>
+<s> huma jħobbu jixorbu il- larinġ magħsur </s>
+<s> huma jħobbu jixorbu il- ħalib </s>
+<s> huma jħobbu jixorbu il- kafe` </s>
+<s> huma jħobbu jixorbu it- te` </s>
+<s> jien ma nħobbx nixrob l- ilma </s>
+<s> jien ma nħobbx nixrob il- luminata </s>
+<s> jien ma nħobbx nixrob il- larinġ magħsur </s>
+<s> jien ma nħobbx nixrob il- ħalib </s>
+<s> jien ma nħobbx nixrob il- kafe` </s>
+<s> jien ma nħobbx nixrob it- te` </s>
+<s> int ma tħobbx tixrob l- ilma </s>
+<s> int ma tħobbx tixrob il- luminata </s>
+<s> int ma tħobbx tixrob il- larinġ magħsur </s>
+<s> int ma tħobbx tixrob il- ħalib </s>
+<s> int ma tħobbx tixrob il- kafe` </s>
+<s> int ma tħobbx tixrob it- te` </s>
+<s> hu ma jħobbx jixrob l- ilma </s>
+<s> hu ma jħobbx jixrob il- luminata </s>
+<s> hu ma jħobbx jixrob il- larinġ magħsur </s>
+<s> hu ma jħobbx jixrob il- ħalib </s>
+<s> hu ma jħobbx jixrob il- kafe` </s>
+<s> hu ma jħobbx jixrob it- te` </s>
+<s> hi ma tħobbx tixrob l- ilma </s>
+<s> hi ma tħobbx tixrob il- luminata </s>
+<s> hi ma tħobbx tixrob il- larinġ magħsur </s>
+<s> hi ma tħobbx tixrob il- ħalib </s>
+<s> hi ma tħobbx tixrob il- kafe` </s>
+<s> hi ma tħobbx tixrob it- te` </s>
+<s> aħna ma nħobbux nixorbu l- ilma </s>
+<s> aħna ma nħobbux nixorbu il- luminata </s>
+<s> aħna ma nħobbux nixorbu il- larinġ magħsur </s>
+<s> aħna ma nħobbux nixorbu il- ħalib </s>
+<s> aħna ma nħobbux nixorbu il- kafe` </s>
+<s> aħna ma nħobbux nixorbu it- te` </s>
+<s> intom ma tħobbux tixorbu l- ilma </s>
+<s> intom ma tħobbux tixorbu il- luminata </s>
+<s> intom ma tħobbux tixorbu il- larinġ magħsur </s>
+<s> intom ma tħobbux tixorbu il- ħalib </s>
+<s> intom ma tħobbux tixorbu il- kafe` </s>
+<s> intom ma tħobbux tixorbu it- te` </s>
+<s> huma ma jħobbux jixorbu l- ilma </s>
+<s> huma ma jħobbux jixorbu il- luminata </s>
+<s> huma ma jħobbux jixorbu il- larinġ magħsur </s>
+<s> huma ma jħobbux jixorbu il- ħalib </s>
+<s> huma ma jħobbux jixorbu il- kafe` </s>
+<s> huma ma jħobbux jixorbu it- te` </s>
+<s> jien irrid nilbes iż- żarbun </s>
+<s> jien irrid nilbes iż- żarbuna </s>
+<s> jien irrid nilbes il- kalzetti </s>
+<s> jien irrid nilbes par kalzetti </s>
+<s> jien irrid nilbes il- kalzetta </s>
+<s> jien irrid nilbes is- sandli </s>
+<s> jien irrid nilbes is- sandlija </s>
+<s> jien irrid nilbes il- buz </s>
+<s> jien irrid nilbes il- karkur </s>
+<s> jien irrid nilbes il- karkura </s>
+<s> jien irrid nilbes il- papoċċa </s>
+<s> jien irrid nilbes il- papoċċ </s>
+<s> jien irrid nilbes il- flokk </s>
+<s> jien irrid nilbes il- qmis </s>
+<s> jien irrid nilbes il- ġersi </s>
+<s> jien irrid nilbes il- qalziet </s>
+<s> jien irrid nilbes il- ġins </s>
+<s> jien irrid nilbes ix- xorts </s>
+<s> jien irrid nilbes id- dublett </s>
+<s> jien irrid nilbes il- libsa </s>
+<s> jien irrid nilbes il- ġakketta </s>
+<s> jien irrid nilbes il- beritta </s>
+<s> jien irrid nilbes il- kappell </s>
+<s> jien irrid nilbes il- malja </s>
+<s> jien irrid nilbes iċ- ċinturin </s>
+<s> jien irrid nilbes il- fardal </s>
+<s> jien irrid nilbes l- ingwanti </s>
+<s> jien irrid nilbes l- ingwanta </s>
+<s> jien irrid nilbes l- ingravata </s>
+<s> jien irrid nilbes iċ- ċoff </s>
+<s> jien irrid nilbes il- kowt </s>
+<s> jien irrid nilbes in- nuċċali </s>
+<s> jien irrid nilbes ix- xalla </s>
+<s> jien irrid nilbes il- ġiżirana </s>
+<s> jien irrid nilbes il- brazzuletta </s>
+<s> jien irrid nilbes il- piġama </s>
+<s> jien irrid nilbes iċ- ċurkett </s>
+<s> jien irrid nilbes l- uniformi </s>
+<s> int trid tilbes iż- żarbun </s>
+<s> int trid tilbes iż- żarbuna </s>
+<s> int trid tilbes il- kalzetti </s>
+<s> int trid tilbes par kalzetti </s>
+<s> int trid tilbes il- kalzetta </s>
+<s> int trid tilbes is- sandli </s>
+<s> int trid tilbes is- sandlija </s>
+<s> int trid tilbes il- buz </s>
+<s> int trid tilbes il- karkur </s>
+<s> int trid tilbes il- karkura </s>
+<s> int trid tilbes il- papoċċa </s>
+<s> int trid tilbes il- papoċċ </s>
+<s> int trid tilbes il- flokk </s>
+<s> int trid tilbes il- qmis </s>
+<s> int trid tilbes il- ġersi </s>
+<s> int trid tilbes il- qalziet </s>
+<s> int trid tilbes il- ġins </s>
+<s> int trid tilbes ix- xorts </s>
+<s> int trid tilbes id- dublett </s>
+<s> int trid tilbes il- libsa </s>
+<s> int trid tilbes il- ġakketta </s>
+<s> int trid tilbes il- beritta </s>
+<s> int trid tilbes il- kappell </s>
+<s> int trid tilbes il- malja </s>
+<s> int trid tilbes iċ- ċinturin </s>
+<s> int trid tilbes il- fardal </s>
+<s> int trid tilbes l- ingwanti </s>
+<s> int trid tilbes l- ingwanta </s>
+<s> int trid tilbes l- ingravata </s>
+<s> int trid tilbes iċ- ċoff </s>
+<s> int trid tilbes il- kowt </s>
+<s> int trid tilbes in- nuċċali </s>
+<s> int trid tilbes ix- xalla </s>
+<s> int trid tilbes il- ġiżirana </s>
+<s> int trid tilbes il- brazzuletta </s>
+<s> int trid tilbes il- piġama </s>
+<s> int trid tilbes iċ- ċurkett </s>
+<s> int trid tilbes l- uniformi </s>
+<s> hu jrid jilbes iż- żarbun </s>
+<s> hu jrid jilbes iż- żarbuna </s>
+<s> hu jrid jilbes il- kalzetti </s>
+<s> hu jrid jilbes par kalzetti </s>
+<s> hu jrid jilbes il- kalzetta </s>
+<s> hu jrid jilbes is- sandli </s>
+<s> hu jrid jilbes is- sandlija </s>
+<s> hu jrid jilbes il- buz </s>
+<s> hu jrid jilbes il- karkur </s>
+<s> hu jrid jilbes il- karkura </s>
+<s> hu jrid jilbes il- papoċċa </s>
+<s> hu jrid jilbes il- papoċċ </s>
+<s> hu jrid jilbes il- flokk </s>
+<s> hu jrid jilbes il- qmis </s>
+<s> hu jrid jilbes il- ġersi </s>
+<s> hu jrid jilbes il- qalziet </s>
+<s> hu jrid jilbes il- ġins </s>
+<s> hu jrid jilbes ix- xorts </s>
+<s> hu jrid jilbes id- dublett </s>
+<s> hu jrid jilbes il- libsa </s>
+<s> hu jrid jilbes il- ġakketta </s>
+<s> hu jrid jilbes il- beritta </s>
+<s> hu jrid jilbes il- kappell </s>
+<s> hu jrid jilbes il- malja </s>
+<s> hu jrid jilbes iċ- ċinturin </s>
+<s> hu jrid jilbes il- fardal </s>
+<s> hu jrid jilbes l- ingwanti </s>
+<s> hu jrid jilbes l- ingwanta </s>
+<s> hu jrid jilbes l- ingravata </s>
+<s> hu jrid jilbes iċ- ċoff </s>
+<s> hu jrid jilbes il- kowt </s>
+<s> hu jrid jilbes in- nuċċali </s>
+<s> hu jrid jilbes ix- xalla </s>
+<s> hu jrid jilbes il- ġiżirana </s>
+<s> hu jrid jilbes il- brazzuletta </s>
+<s> hu jrid jilbes il- piġama </s>
+<s> hu jrid jilbes iċ- ċurkett </s>
+<s> hu jrid jilbes l- uniformi </s>
+<s> hi trid tilbes iż- żarbun </s>
+<s> hi trid tilbes iż- żarbuna </s>
+<s> hi trid tilbes il- kalzetti </s>
+<s> hi trid tilbes par kalzetti </s>
+<s> hi trid tilbes il- kalzetta </s>
+<s> hi trid tilbes is- sandli </s>
+<s> hi trid tilbes is- sandlija </s>
+<s> hi trid tilbes il- buz </s>
+<s> hi trid tilbes il- karkur </s>
+<s> hi trid tilbes il- karkura </s>
+<s> hi trid tilbes il- papoċċa </s>
+<s> hi trid tilbes il- papoċċ </s>
+<s> hi trid tilbes il- flokk </s>
+<s> hi trid tilbes il- qmis </s>
+<s> hi trid tilbes il- ġersi </s>
+<s> hi trid tilbes il- qalziet </s>
+<s> hi trid tilbes il- ġins </s>
+<s> hi trid tilbes ix- xorts </s>
+<s> hi trid tilbes id- dublett </s>
+<s> hi trid tilbes il- libsa </s>
+<s> hi trid tilbes il- ġakketta </s>
+<s> hi trid tilbes il- beritta </s>
+<s> hi trid tilbes il- kappell </s>
+<s> hi trid tilbes il- malja </s>
+<s> hi trid tilbes iċ- ċinturin </s>
+<s> hi trid tilbes il- fardal </s>
+<s> hi trid tilbes l- ingwanti </s>
+<s> hi trid tilbes l- ingwanta </s>
+<s> hi trid tilbes l- ingravata </s>
+<s> hi trid tilbes iċ- ċoff </s>
+<s> hi trid tilbes il- kowt </s>
+<s> hi trid tilbes in- nuċċali </s>
+<s> hi trid tilbes ix- xalla </s>
+<s> hi trid tilbes il- ġiżirana </s>
+<s> hi trid tilbes il- brazzuletta </s>
+<s> hi trid tilbes il- piġama </s>
+<s> hi trid tilbes iċ- ċurkett </s>
+<s> hi trid tilbes l- uniformi </s>
+<s> aħna rridu nilbsu iż- żarbun </s>
+<s> aħna rridu nilbsu iż- żarbuna </s>
+<s> aħna rridu nilbsu il- kalzetti </s>
+<s> aħna rridu nilbsu par kalzetti </s>
+<s> aħna rridu nilbsu il- kalzetta </s>
+<s> aħna rridu nilbsu is- sandli </s>
+<s> aħna rridu nilbsu is- sandlija </s>
+<s> aħna rridu nilbsu il- buz </s>
+<s> aħna rridu nilbsu il- karkur </s>
+<s> aħna rridu nilbsu il- karkura </s>
+<s> aħna rridu nilbsu il- papoċċa </s>
+<s> aħna rridu nilbsu il- papoċċ </s>
+<s> aħna rridu nilbsu il- flokk </s>
+<s> aħna rridu nilbsu il- qmis </s>
+<s> aħna rridu nilbsu il- ġersi </s>
+<s> aħna rridu nilbsu il- qalziet </s>
+<s> aħna rridu nilbsu il- ġins </s>
+<s> aħna rridu nilbsu ix- xorts </s>
+<s> aħna rridu nilbsu id- dublett </s>
+<s> aħna rridu nilbsu il- libsa </s>
+<s> aħna rridu nilbsu il- ġakketta </s>
+<s> aħna rridu nilbsu il- beritta </s>
+<s> aħna rridu nilbsu il- kappell </s>
+<s> aħna rridu nilbsu il- malja </s>
+<s> aħna rridu nilbsu iċ- ċinturin </s>
+<s> aħna rridu nilbsu il- fardal </s>
+<s> aħna rridu nilbsu l- ingwanti </s>
+<s> aħna rridu nilbsu l- ingwanta </s>
+<s> aħna rridu nilbsu l- ingravata </s>
+<s> aħna rridu nilbsu iċ- ċoff </s>
+<s> aħna rridu nilbsu il- kowt </s>
+<s> aħna rridu nilbsu in- nuċċali </s>
+<s> aħna rridu nilbsu ix- xalla </s>
+<s> aħna rridu nilbsu il- ġiżirana </s>
+<s> aħna rridu nilbsu il- brazzuletta </s>
+<s> aħna rridu nilbsu il- piġama </s>
+<s> aħna rridu nilbsu iċ- ċurkett </s>
+<s> aħna rridu nilbsu l- uniformi </s>
+<s> intom tridu tilbsu iż- żarbun </s>
+<s> intom tridu tilbsu iż- żarbuna </s>
+<s> intom tridu tilbsu il- kalzetti </s>
+<s> intom tridu tilbsu par kalzetti </s>
+<s> intom tridu tilbsu il- kalzetta </s>
+<s> intom tridu tilbsu is- sandli </s>
+<s> intom tridu tilbsu is- sandlija </s>
+<s> intom tridu tilbsu il- buz </s>
+<s> intom tridu tilbsu il- karkur </s>
+<s> intom tridu tilbsu il- karkura </s>
+<s> intom tridu tilbsu il- papoċċa </s>
+<s> intom tridu tilbsu il- papoċċ </s>
+<s> intom tridu tilbsu il- flokk </s>
+<s> intom tridu tilbsu il- qmis </s>
+<s> intom tridu tilbsu il- ġersi </s>
+<s> intom tridu tilbsu il- qalziet </s>
+<s> intom tridu tilbsu il- ġins </s>
+<s> intom tridu tilbsu ix- xorts </s>
+<s> intom tridu tilbsu id- dublett </s>
+<s> intom tridu tilbsu il- libsa </s>
+<s> intom tridu tilbsu il- ġakketta </s>
+<s> intom tridu tilbsu il- beritta </s>
+<s> intom tridu tilbsu il- kappell </s>
+<s> intom tridu tilbsu il- malja </s>
+<s> intom tridu tilbsu iċ- ċinturin </s>
+<s> intom tridu tilbsu il- fardal </s>
+<s> intom tridu tilbsu l- ingwanti </s>
+<s> intom tridu tilbsu l- ingwanta </s>
+<s> intom tridu tilbsu l- ingravata </s>
+<s> intom tridu tilbsu iċ- ċoff </s>
+<s> intom tridu tilbsu il- kowt </s>
+<s> intom tridu tilbsu in- nuċċali </s>
+<s> intom tridu tilbsu ix- xalla </s>
+<s> intom tridu tilbsu il- ġiżirana </s>
+<s> intom tridu tilbsu il- brazzuletta </s>
+<s> intom tridu tilbsu il- piġama </s>
+<s> intom tridu tilbsu iċ- ċurkett </s>
+<s> intom tridu tilbsu l- uniformi </s>
+<s> huma jridu jilbsu iż- żarbun </s>
+<s> huma jridu jilbsu iż- żarbuna </s>
+<s> huma jridu jilbsu il- kalzetti </s>
+<s> huma jridu jilbsu par kalzetti </s>
+<s> huma jridu jilbsu il- kalzetta </s>
+<s> huma jridu jilbsu is- sandli </s>
+<s> huma jridu jilbsu is- sandlija </s>
+<s> huma jridu jilbsu il- buz </s>
+<s> huma jridu jilbsu il- karkur </s>
+<s> huma jridu jilbsu il- karkura </s>
+<s> huma jridu jilbsu il- papoċċa </s>
+<s> huma jridu jilbsu il- papoċċ </s>
+<s> huma jridu jilbsu il- flokk </s>
+<s> huma jridu jilbsu il- qmis </s>
+<s> huma jridu jilbsu il- ġersi </s>
+<s> huma jridu jilbsu il- qalziet </s>
+<s> huma jridu jilbsu il- ġins </s>
+<s> huma jridu jilbsu ix- xorts </s>
+<s> huma jridu jilbsu id- dublett </s>
+<s> huma jridu jilbsu il- libsa </s>
+<s> huma jridu jilbsu il- ġakketta </s>
+<s> huma jridu jilbsu il- beritta </s>
+<s> huma jridu jilbsu il- kappell </s>
+<s> huma jridu jilbsu il- malja </s>
+<s> huma jridu jilbsu iċ- ċinturin </s>
+<s> huma jridu jilbsu il- fardal </s>
+<s> huma jridu jilbsu l- ingwanti </s>
+<s> huma jridu jilbsu l- ingwanta </s>
+<s> huma jridu jilbsu l- ingravata </s>
+<s> huma jridu jilbsu iċ- ċoff </s>
+<s> huma jridu jilbsu il- kowt </s>
+<s> huma jridu jilbsu in- nuċċali </s>
+<s> huma jridu jilbsu ix- xalla </s>
+<s> huma jridu jilbsu il- ġiżirana </s>
+<s> huma jridu jilbsu il- brazzuletta </s>
+<s> huma jridu jilbsu il- piġama </s>
+<s> huma jridu jilbsu iċ- ċurkett </s>
+<s> huma jridu jilbsu l- uniformi </s>
+<s> jien ma rridx nilbes iż- żarbun </s>
+<s> jien ma rridx nilbes iż- żarbuna </s>
+<s> jien ma rridx nilbes il- kalzetti </s>
+<s> jien ma rridx nilbes par kalzetti </s>
+<s> jien ma rridx nilbes il- kalzetta </s>
+<s> jien ma rridx nilbes is- sandli </s>
+<s> jien ma rridx nilbes is- sandlija </s>
+<s> jien ma rridx nilbes il- buz </s>
+<s> jien ma rridx nilbes il- karkur </s>
+<s> jien ma rridx nilbes il- karkura </s>
+<s> jien ma rridx nilbes il- papoċċa </s>
+<s> jien ma rridx nilbes il- papoċċ </s>
+<s> jien ma rridx nilbes il- flokk </s>
+<s> jien ma rridx nilbes il- qmis </s>
+<s> jien ma rridx nilbes il- ġersi </s>
+<s> jien ma rridx nilbes il- qalziet </s>
+<s> jien ma rridx nilbes il- ġins </s>
+<s> jien ma rridx nilbes ix- xorts </s>
+<s> jien ma rridx nilbes id- dublett </s>
+<s> jien ma rridx nilbes il- libsa </s>
+<s> jien ma rridx nilbes il- ġakketta </s>
+<s> jien ma rridx nilbes il- beritta </s>
+<s> jien ma rridx nilbes il- kappell </s>
+<s> jien ma rridx nilbes il- malja </s>
+<s> jien ma rridx nilbes iċ- ċinturin </s>
+<s> jien ma rridx nilbes il- fardal </s>
+<s> jien ma rridx nilbes l- ingwanti </s>
+<s> jien ma rridx nilbes l- ingwanta </s>
+<s> jien ma rridx nilbes l- ingravata </s>
+<s> jien ma rridx nilbes iċ- ċoff </s>
+<s> jien ma rridx nilbes il- kowt </s>
+<s> jien ma rridx nilbes in- nuċċali </s>
+<s> jien ma rridx nilbes ix- xalla </s>
+<s> jien ma rridx nilbes il- ġiżirana </s>
+<s> jien ma rridx nilbes il- brazzuletta </s>
+<s> jien ma rridx nilbes il- piġama </s>
+<s> jien ma rridx nilbes iċ- ċurkett </s>
+<s> jien ma rridx nilbes l- uniformi </s>
+<s> int ma tridx tilbes iż- żarbun </s>
+<s> int ma tridx tilbes iż- żarbuna </s>
+<s> int ma tridx tilbes il- kalzetti </s>
+<s> int ma tridx tilbes par kalzetti </s>
+<s> int ma tridx tilbes il- kalzetta </s>
+<s> int ma tridx tilbes is- sandli </s>
+<s> int ma tridx tilbes is- sandlija </s>
+<s> int ma tridx tilbes il- buz </s>
+<s> int ma tridx tilbes il- karkur </s>
+<s> int ma tridx tilbes il- karkura </s>
+<s> int ma tridx tilbes il- papoċċa </s>
+<s> int ma tridx tilbes il- papoċċ </s>
+<s> int ma tridx tilbes il- flokk </s>
+<s> int ma tridx tilbes il- qmis </s>
+<s> int ma tridx tilbes il- ġersi </s>
+<s> int ma tridx tilbes il- qalziet </s>
+<s> int ma tridx tilbes il- ġins </s>
+<s> int ma tridx tilbes ix- xorts </s>
+<s> int ma tridx tilbes id- dublett </s>
+<s> int ma tridx tilbes il- libsa </s>
+<s> int ma tridx tilbes il- ġakketta </s>
+<s> int ma tridx tilbes il- beritta </s>
+<s> int ma tridx tilbes il- kappell </s>
+<s> int ma tridx tilbes il- malja </s>
+<s> int ma tridx tilbes iċ- ċinturin </s>
+<s> int ma tridx tilbes il- fardal </s>
+<s> int ma tridx tilbes l- ingwanti </s>
+<s> int ma tridx tilbes l- ingwanta </s>
+<s> int ma tridx tilbes l- ingravata </s>
+<s> int ma tridx tilbes iċ- ċoff </s>
+<s> int ma tridx tilbes il- kowt </s>
+<s> int ma tridx tilbes in- nuċċali </s>
+<s> int ma tridx tilbes ix- xalla </s>
+<s> int ma tridx tilbes il- ġiżirana </s>
+<s> int ma tridx tilbes il- brazzuletta </s>
+<s> int ma tridx tilbes il- piġama </s>
+<s> int ma tridx tilbes iċ- ċurkett </s>
+<s> int ma tridx tilbes l- uniformi </s>
+<s> hu ma jridx jilbes iż- żarbun </s>
+<s> hu ma jridx jilbes iż- żarbuna </s>
+<s> hu ma jridx jilbes il- kalzetti </s>
+<s> hu ma jridx jilbes par kalzetti </s>
+<s> hu ma jridx jilbes il- kalzetta </s>
+<s> hu ma jridx jilbes is- sandli </s>
+<s> hu ma jridx jilbes is- sandlija </s>
+<s> hu ma jridx jilbes il- buz </s>
+<s> hu ma jridx jilbes il- karkur </s>
+<s> hu ma jridx jilbes il- karkura </s>
+<s> hu ma jridx jilbes il- papoċċa </s>
+<s> hu ma jridx jilbes il- papoċċ </s>
+<s> hu ma jridx jilbes il- flokk </s>
+<s> hu ma jridx jilbes il- qmis </s>
+<s> hu ma jridx jilbes il- ġersi </s>
+<s> hu ma jridx jilbes il- qalziet </s>
+<s> hu ma jridx jilbes il- ġins </s>
+<s> hu ma jridx jilbes ix- xorts </s>
+<s> hu ma jridx jilbes id- dublett </s>
+<s> hu ma jridx jilbes il- libsa </s>
+<s> hu ma jridx jilbes il- ġakketta </s>
+<s> hu ma jridx jilbes il- beritta </s>
+<s> hu ma jridx jilbes il- kappell </s>
+<s> hu ma jridx jilbes il- malja </s>
+<s> hu ma jridx jilbes iċ- ċinturin </s>
+<s> hu ma jridx jilbes il- fardal </s>
+<s> hu ma jridx jilbes l- ingwanti </s>
+<s> hu ma jridx jilbes l- ingwanta </s>
+<s> hu ma jridx jilbes l- ingravata </s>
+<s> hu ma jridx jilbes iċ- ċoff </s>
+<s> hu ma jridx jilbes il- kowt </s>
+<s> hu ma jridx jilbes in- nuċċali </s>
+<s> hu ma jridx jilbes ix- xalla </s>
+<s> hu ma jridx jilbes il- ġiżirana </s>
+<s> hu ma jridx jilbes il- brazzuletta </s>
+<s> hu ma jridx jilbes il- piġama </s>
+<s> hu ma jridx jilbes iċ- ċurkett </s>
+<s> hu ma jridx jilbes l- uniformi </s>
+<s> hi ma tridx tilbes iż- żarbun </s>
+<s> hi ma tridx tilbes iż- żarbuna </s>
+<s> hi ma tridx tilbes il- kalzetti </s>
+<s> hi ma tridx tilbes par kalzetti </s>
+<s> hi ma tridx tilbes il- kalzetta </s>
+<s> hi ma tridx tilbes is- sandli </s>
+<s> hi ma tridx tilbes is- sandlija </s>
+<s> hi ma tridx tilbes il- buz </s>
+<s> hi ma tridx tilbes il- karkur </s>
+<s> hi ma tridx tilbes il- karkura </s>
+<s> hi ma tridx tilbes il- papoċċa </s>
+<s> hi ma tridx tilbes il- papoċċ </s>
+<s> hi ma tridx tilbes il- flokk </s>
+<s> hi ma tridx tilbes il- qmis </s>
+<s> hi ma tridx tilbes il- ġersi </s>
+<s> hi ma tridx tilbes il- qalziet </s>
+<s> hi ma tridx tilbes il- ġins </s>
+<s> hi ma tridx tilbes ix- xorts </s>
+<s> hi ma tridx tilbes id- dublett </s>
+<s> hi ma tridx tilbes il- libsa </s>
+<s> hi ma tridx tilbes il- ġakketta </s>
+<s> hi ma tridx tilbes il- beritta </s>
+<s> hi ma tridx tilbes il- kappell </s>
+<s> hi ma tridx tilbes il- malja </s>
+<s> hi ma tridx tilbes iċ- ċinturin </s>
+<s> hi ma tridx tilbes il- fardal </s>
+<s> hi ma tridx tilbes l- ingwanti </s>
+<s> hi ma tridx tilbes l- ingwanta </s>
+<s> hi ma tridx tilbes l- ingravata </s>
+<s> hi ma tridx tilbes iċ- ċoff </s>
+<s> hi ma tridx tilbes il- kowt </s>
+<s> hi ma tridx tilbes in- nuċċali </s>
+<s> hi ma tridx tilbes ix- xalla </s>
+<s> hi ma tridx tilbes il- ġiżirana </s>
+<s> hi ma tridx tilbes il- brazzuletta </s>
+<s> hi ma tridx tilbes il- piġama </s>
+<s> hi ma tridx tilbes iċ- ċurkett </s>
+<s> hi ma tridx tilbes l- uniformi </s>
+<s> aħna ma rridux nilbsu iż- żarbun </s>
+<s> aħna ma rridux nilbsu iż- żarbuna </s>
+<s> aħna ma rridux nilbsu il- kalzetti </s>
+<s> aħna ma rridux nilbsu par kalzetti </s>
+<s> aħna ma rridux nilbsu il- kalzetta </s>
+<s> aħna ma rridux nilbsu is- sandli </s>
+<s> aħna ma rridux nilbsu is- sandlija </s>
+<s> aħna ma rridux nilbsu il- buz </s>
+<s> aħna ma rridux nilbsu il- karkur </s>
+<s> aħna ma rridux nilbsu il- karkura </s>
+<s> aħna ma rridux nilbsu il- papoċċa </s>
+<s> aħna ma rridux nilbsu il- papoċċ </s>
+<s> aħna ma rridux nilbsu il- flokk </s>
+<s> aħna ma rridux nilbsu il- qmis </s>
+<s> aħna ma rridux nilbsu il- ġersi </s>
+<s> aħna ma rridux nilbsu il- qalziet </s>
+<s> aħna ma rridux nilbsu il- ġins </s>
+<s> aħna ma rridux nilbsu ix- xorts </s>
+<s> aħna ma rridux nilbsu id- dublett </s>
+<s> aħna ma rridux nilbsu il- libsa </s>
+<s> aħna ma rridux nilbsu il- ġakketta </s>
+<s> aħna ma rridux nilbsu il- beritta </s>
+<s> aħna ma rridux nilbsu il- kappell </s>
+<s> aħna ma rridux nilbsu il- malja </s>
+<s> aħna ma rridux nilbsu iċ- ċinturin </s>
+<s> aħna ma rridux nilbsu il- fardal </s>
+<s> aħna ma rridux nilbsu l- ingwanti </s>
+<s> aħna ma rridux nilbsu l- ingwanta </s>
+<s> aħna ma rridux nilbsu l- ingravata </s>
+<s> aħna ma rridux nilbsu iċ- ċoff </s>
+<s> aħna ma rridux nilbsu il- kowt </s>
+<s> aħna ma rridux nilbsu in- nuċċali </s>
+<s> aħna ma rridux nilbsu ix- xalla </s>
+<s> aħna ma rridux nilbsu il- ġiżirana </s>
+<s> aħna ma rridux nilbsu il- brazzuletta </s>
+<s> aħna ma rridux nilbsu il- piġama </s>
+<s> aħna ma rridux nilbsu iċ- ċurkett </s>
+<s> aħna ma rridux nilbsu l- uniformi </s>
+<s> intom ma tridux tilbsu iż- żarbun </s>
+<s> intom ma tridux tilbsu iż- żarbuna </s>
+<s> intom ma tridux tilbsu il- kalzetti </s>
+<s> intom ma tridux tilbsu par kalzetti </s>
+<s> intom ma tridux tilbsu il- kalzetta </s>
+<s> intom ma tridux tilbsu is- sandli </s>
+<s> intom ma tridux tilbsu is- sandlija </s>
+<s> intom ma tridux tilbsu il- buz </s>
+<s> intom ma tridux tilbsu il- karkur </s>
+<s> intom ma tridux tilbsu il- karkura </s>
+<s> intom ma tridux tilbsu il- papoċċa </s>
+<s> intom ma tridux tilbsu il- papoċċ </s>
+<s> intom ma tridux tilbsu il- flokk </s>
+<s> intom ma tridux tilbsu il- qmis </s>
+<s> intom ma tridux tilbsu il- ġersi </s>
+<s> intom ma tridux tilbsu il- qalziet </s>
+<s> intom ma tridux tilbsu il- ġins </s>
+<s> intom ma tridux tilbsu ix- xorts </s>
+<s> intom ma tridux tilbsu id- dublett </s>
+<s> intom ma tridux tilbsu il- libsa </s>
+<s> intom ma tridux tilbsu il- ġakketta </s>
+<s> intom ma tridux tilbsu il- beritta </s>
+<s> intom ma tridux tilbsu il- kappell </s>
+<s> intom ma tridux tilbsu il- malja </s>
+<s> intom ma tridux tilbsu iċ- ċinturin </s>
+<s> intom ma tridux tilbsu il- fardal </s>
+<s> intom ma tridux tilbsu l- ingwanti </s>
+<s> intom ma tridux tilbsu l- ingwanta </s>
+<s> intom ma tridux tilbsu l- ingravata </s>
+<s> intom ma tridux tilbsu iċ- ċoff </s>
+<s> intom ma tridux tilbsu il- kowt </s>
+<s> intom ma tridux tilbsu in- nuċċali </s>
+<s> intom ma tridux tilbsu ix- xalla </s>
+<s> intom ma tridux tilbsu il- ġiżirana </s>
+<s> intom ma tridux tilbsu il- brazzuletta </s>
+<s> intom ma tridux tilbsu il- piġama </s>
+<s> intom ma tridux tilbsu iċ- ċurkett </s>
+<s> intom ma tridux tilbsu l- uniformi </s>
+<s> huma ma jridux jilbsu iż- żarbun </s>
+<s> huma ma jridux jilbsu iż- żarbuna </s>
+<s> huma ma jridux jilbsu il- kalzetti </s>
+<s> huma ma jridux jilbsu par kalzetti </s>
+<s> huma ma jridux jilbsu il- kalzetta </s>
+<s> huma ma jridux jilbsu is- sandli </s>
+<s> huma ma jridux jilbsu is- sandlija </s>
+<s> huma ma jridux jilbsu il- buz </s>
+<s> huma ma jridux jilbsu il- karkur </s>
+<s> huma ma jridux jilbsu il- karkura </s>
+<s> huma ma jridux jilbsu il- papoċċa </s>
+<s> huma ma jridux jilbsu il- papoċċ </s>
+<s> huma ma jridux jilbsu il- flokk </s>
+<s> huma ma jridux jilbsu il- qmis </s>
+<s> huma ma jridux jilbsu il- ġersi </s>
+<s> huma ma jridux jilbsu il- qalziet </s>
+<s> huma ma jridux jilbsu il- ġins </s>
+<s> huma ma jridux jilbsu ix- xorts </s>
+<s> huma ma jridux jilbsu id- dublett </s>
+<s> huma ma jridux jilbsu il- libsa </s>
+<s> huma ma jridux jilbsu il- ġakketta </s>
+<s> huma ma jridux jilbsu il- beritta </s>
+<s> huma ma jridux jilbsu il- kappell </s>
+<s> huma ma jridux jilbsu il- malja </s>
+<s> huma ma jridux jilbsu iċ- ċinturin </s>
+<s> huma ma jridux jilbsu il- fardal </s>
+<s> huma ma jridux jilbsu l- ingwanti </s>
+<s> huma ma jridux jilbsu l- ingwanta </s>
+<s> huma ma jridux jilbsu l- ingravata </s>
+<s> huma ma jridux jilbsu iċ- ċoff </s>
+<s> huma ma jridux jilbsu il- kowt </s>
+<s> huma ma jridux jilbsu in- nuċċali </s>
+<s> huma ma jridux jilbsu ix- xalla </s>
+<s> huma ma jridux jilbsu il- ġiżirana </s>
+<s> huma ma jridux jilbsu il- brazzuletta </s>
+<s> huma ma jridux jilbsu il- piġama </s>
+<s> huma ma jridux jilbsu iċ- ċurkett </s>
+<s> huma ma jridux jilbsu l- uniformi </s>
+<s> jien ma nafx nilbes iż- żarbun </s>
+<s> jien ma nafx nilbes il- kalzetti </s>
+<s> jien ma nafx nilbes is- sandli </s>
+<s> jien ma nafx nilbes il- buz </s>
+<s> jien ma nafx nilbes il- karkur </s>
+<s> jien ma nafx nilbes il- papoċċ </s>
+<s> jien ma nafx nilbes il- flokk </s>
+<s> jien ma nafx nilbes il- qmis </s>
+<s> jien ma nafx nilbes il- ġersi </s>
+<s> jien ma nafx nilbes il- qalziet </s>
+<s> jien ma nafx nilbes il- ġins </s>
+<s> jien ma nafx nilbes ix- xorts </s>
+<s> jien ma nafx nilbes id- dublett </s>
+<s> jien ma nafx nilbes il- libsa </s>
+<s> jien ma nafx nilbes il- ġakketta </s>
+<s> jien ma nafx nilbes il- beritta </s>
+<s> jien ma nafx nilbes il- kappell </s>
+<s> jien ma nafx nilbes il- malja </s>
+<s> jien ma nafx nilbes iċ- ċinturin </s>
+<s> jien ma nafx nilbes il- fardal </s>
+<s> jien ma nafx nilbes l- ingwanti </s>
+<s> jien ma nafx nilbes l- ingravata </s>
+<s> jien ma nafx nilbes iċ- ċoff </s>
+<s> jien ma nafx nilbes il- kowt </s>
+<s> jien ma nafx nilbes in- nuċċali </s>
+<s> jien ma nafx nilbes ix- xalla </s>
+<s> jien ma nafx nilbes il- ġiżirana </s>
+<s> jien ma nafx nilbes il- brazzuletta </s>
+<s> jien ma nafx nilbes il- piġama </s>
+<s> jien ma nafx nilbes iċ- ċurkett </s>
+<s> jien ma nafx nilbes l- uniformi </s>
+<s> int ma tafx tilbes iż- żarbun </s>
+<s> int ma tafx tilbes il- kalzetti </s>
+<s> int ma tafx tilbes is- sandli </s>
+<s> int ma tafx tilbes il- buz </s>
+<s> int ma tafx tilbes il- karkur </s>
+<s> int ma tafx tilbes il- papoċċ </s>
+<s> int ma tafx tilbes il- flokk </s>
+<s> int ma tafx tilbes il- qmis </s>
+<s> int ma tafx tilbes il- ġersi </s>
+<s> int ma tafx tilbes il- qalziet </s>
+<s> int ma tafx tilbes il- ġins </s>
+<s> int ma tafx tilbes ix- xorts </s>
+<s> int ma tafx tilbes id- dublett </s>
+<s> int ma tafx tilbes il- libsa </s>
+<s> int ma tafx tilbes il- ġakketta </s>
+<s> int ma tafx tilbes il- beritta </s>
+<s> int ma tafx tilbes il- kappell </s>
+<s> int ma tafx tilbes il- malja </s>
+<s> int ma tafx tilbes iċ- ċinturin </s>
+<s> int ma tafx tilbes il- fardal </s>
+<s> int ma tafx tilbes l- ingwanti </s>
+<s> int ma tafx tilbes l- ingravata </s>
+<s> int ma tafx tilbes iċ- ċoff </s>
+<s> int ma tafx tilbes il- kowt </s>
+<s> int ma tafx tilbes in- nuċċali </s>
+<s> int ma tafx tilbes ix- xalla </s>
+<s> int ma tafx tilbes il- ġiżirana </s>
+<s> int ma tafx tilbes il- brazzuletta </s>
+<s> int ma tafx tilbes il- piġama </s>
+<s> int ma tafx tilbes iċ- ċurkett </s>
+<s> int ma tafx tilbes l- uniformi </s>
+<s> hu ma jafx jilbes iż- żarbun </s>
+<s> hu ma jafx jilbes il- kalzetti </s>
+<s> hu ma jafx jilbes is- sandli </s>
+<s> hu ma jafx jilbes il- buz </s>
+<s> hu ma jafx jilbes il- karkur </s>
+<s> hu ma jafx jilbes il- papoċċ </s>
+<s> hu ma jafx jilbes il- flokk </s>
+<s> hu ma jafx jilbes il- qmis </s>
+<s> hu ma jafx jilbes il- ġersi </s>
+<s> hu ma jafx jilbes il- qalziet </s>
+<s> hu ma jafx jilbes il- ġins </s>
+<s> hu ma jafx jilbes ix- xorts </s>
+<s> hu ma jafx jilbes id- dublett </s>
+<s> hu ma jafx jilbes il- libsa </s>
+<s> hu ma jafx jilbes il- ġakketta </s>
+<s> hu ma jafx jilbes il- beritta </s>
+<s> hu ma jafx jilbes il- kappell </s>
+<s> hu ma jafx jilbes il- malja </s>
+<s> hu ma jafx jilbes iċ- ċinturin </s>
+<s> hu ma jafx jilbes il- fardal </s>
+<s> hu ma jafx jilbes l- ingwanti </s>
+<s> hu ma jafx jilbes l- ingravata </s>
+<s> hu ma jafx jilbes iċ- ċoff </s>
+<s> hu ma jafx jilbes il- kowt </s>
+<s> hu ma jafx jilbes in- nuċċali </s>
+<s> hu ma jafx jilbes ix- xalla </s>
+<s> hu ma jafx jilbes il- ġiżirana </s>
+<s> hu ma jafx jilbes il- brazzuletta </s>
+<s> hu ma jafx jilbes il- piġama </s>
+<s> hu ma jafx jilbes iċ- ċurkett </s>
+<s> hu ma jafx jilbes l- uniformi </s>
+<s> hi ma tafx tilbes iż- żarbun </s>
+<s> hi ma tafx tilbes il- kalzetti </s>
+<s> hi ma tafx tilbes is- sandli </s>
+<s> hi ma tafx tilbes il- buz </s>
+<s> hi ma tafx tilbes il- karkur </s>
+<s> hi ma tafx tilbes il- papoċċ </s>
+<s> hi ma tafx tilbes il- flokk </s>
+<s> hi ma tafx tilbes il- qmis </s>
+<s> hi ma tafx tilbes il- ġersi </s>
+<s> hi ma tafx tilbes il- qalziet </s>
+<s> hi ma tafx tilbes il- ġins </s>
+<s> hi ma tafx tilbes ix- xorts </s>
+<s> hi ma tafx tilbes id- dublett </s>
+<s> hi ma tafx tilbes il- libsa </s>
+<s> hi ma tafx tilbes il- ġakketta </s>
+<s> hi ma tafx tilbes il- beritta </s>
+<s> hi ma tafx tilbes il- kappell </s>
+<s> hi ma tafx tilbes il- malja </s>
+<s> hi ma tafx tilbes iċ- ċinturin </s>
+<s> hi ma tafx tilbes il- fardal </s>
+<s> hi ma tafx tilbes l- ingwanti </s>
+<s> hi ma tafx tilbes l- ingravata </s>
+<s> hi ma tafx tilbes iċ- ċoff </s>
+<s> hi ma tafx tilbes il- kowt </s>
+<s> hi ma tafx tilbes in- nuċċali </s>
+<s> hi ma tafx tilbes ix- xalla </s>
+<s> hi ma tafx tilbes il- ġiżirana </s>
+<s> hi ma tafx tilbes il- brazzuletta </s>
+<s> hi ma tafx tilbes il- piġama </s>
+<s> hi ma tafx tilbes iċ- ċurkett </s>
+<s> hi ma tafx tilbes l- uniformi </s>
+<s> aħna ma nafux nilbsu iż- żarbun </s>
+<s> aħna ma nafux nilbsu il- kalzetti </s>
+<s> aħna ma nafux nilbsu is- sandli </s>
+<s> aħna ma nafux nilbsu il- buz </s>
+<s> aħna ma nafux nilbsu il- karkur </s>
+<s> aħna ma nafux nilbsu il- papoċċ </s>
+<s> aħna ma nafux nilbsu il- flokk </s>
+<s> aħna ma nafux nilbsu il- qmis </s>
+<s> aħna ma nafux nilbsu il- ġersi </s>
+<s> aħna ma nafux nilbsu il- qalziet </s>
+<s> aħna ma nafux nilbsu il- ġins </s>
+<s> aħna ma nafux nilbsu ix- xorts </s>
+<s> aħna ma nafux nilbsu id- dublett </s>
+<s> aħna ma nafux nilbsu il- libsa </s>
+<s> aħna ma nafux nilbsu il- ġakketta </s>
+<s> aħna ma nafux nilbsu il- beritta </s>
+<s> aħna ma nafux nilbsu il- kappell </s>
+<s> aħna ma nafux nilbsu il- malja </s>
+<s> aħna ma nafux nilbsu iċ- ċinturin </s>
+<s> aħna ma nafux nilbsu il- fardal </s>
+<s> aħna ma nafux nilbsu l- ingwanti </s>
+<s> aħna ma nafux nilbsu l- ingravata </s>
+<s> aħna ma nafux nilbsu iċ- ċoff </s>
+<s> aħna ma nafux nilbsu il- kowt </s>
+<s> aħna ma nafux nilbsu in- nuċċali </s>
+<s> aħna ma nafux nilbsu ix- xalla </s>
+<s> aħna ma nafux nilbsu il- ġiżirana </s>
+<s> aħna ma nafux nilbsu il- brazzuletta </s>
+<s> aħna ma nafux nilbsu il- piġama </s>
+<s> aħna ma nafux nilbsu iċ- ċurkett </s>
+<s> aħna ma nafux nilbsu l- uniformi </s>
+<s> intom ma tafux tilbsu iż- żarbun </s>
+<s> intom ma tafux tilbsu il- kalzetti </s>
+<s> intom ma tafux tilbsu is- sandli </s>
+<s> intom ma tafux tilbsu il- buz </s>
+<s> intom ma tafux tilbsu il- karkur </s>
+<s> intom ma tafux tilbsu il- papoċċ </s>
+<s> intom ma tafux tilbsu il- flokk </s>
+<s> intom ma tafux tilbsu il- qmis </s>
+<s> intom ma tafux tilbsu il- ġersi </s>
+<s> intom ma tafux tilbsu il- qalziet </s>
+<s> intom ma tafux tilbsu il- ġins </s>
+<s> intom ma tafux tilbsu ix- xorts </s>
+<s> intom ma tafux tilbsu id- dublett </s>
+<s> intom ma tafux tilbsu il- libsa </s>
+<s> intom ma tafux tilbsu il- ġakketta </s>
+<s> intom ma tafux tilbsu il- beritta </s>
+<s> intom ma tafux tilbsu il- kappell </s>
+<s> intom ma tafux tilbsu il- malja </s>
+<s> intom ma tafux tilbsu iċ- ċinturin </s>
+<s> intom ma tafux tilbsu il- fardal </s>
+<s> intom ma tafux tilbsu l- ingwanti </s>
+<s> intom ma tafux tilbsu l- ingravata </s>
+<s> intom ma tafux tilbsu iċ- ċoff </s>
+<s> intom ma tafux tilbsu il- kowt </s>
+<s> intom ma tafux tilbsu in- nuċċali </s>
+<s> intom ma tafux tilbsu ix- xalla </s>
+<s> intom ma tafux tilbsu il- ġiżirana </s>
+<s> intom ma tafux tilbsu il- brazzuletta </s>
+<s> intom ma tafux tilbsu il- piġama </s>
+<s> intom ma tafux tilbsu iċ- ċurkett </s>
+<s> intom ma tafux tilbsu l- uniformi </s>
+<s> huma ma jafux jilbsu iż- żarbun </s>
+<s> huma ma jafux jilbsu il- kalzetti </s>
+<s> huma ma jafux jilbsu is- sandli </s>
+<s> huma ma jafux jilbsu il- buz </s>
+<s> huma ma jafux jilbsu il- karkur </s>
+<s> huma ma jafux jilbsu il- papoċċ </s>
+<s> huma ma jafux jilbsu il- flokk </s>
+<s> huma ma jafux jilbsu il- qmis </s>
+<s> huma ma jafux jilbsu il- ġersi </s>
+<s> huma ma jafux jilbsu il- qalziet </s>
+<s> huma ma jafux jilbsu il- ġins </s>
+<s> huma ma jafux jilbsu ix- xorts </s>
+<s> huma ma jafux jilbsu id- dublett </s>
+<s> huma ma jafux jilbsu il- libsa </s>
+<s> huma ma jafux jilbsu il- ġakketta </s>
+<s> huma ma jafux jilbsu il- beritta </s>
+<s> huma ma jafux jilbsu il- kappell </s>
+<s> huma ma jafux jilbsu il- malja </s>
+<s> huma ma jafux jilbsu iċ- ċinturin </s>
+<s> huma ma jafux jilbsu il- fardal </s>
+<s> huma ma jafux jilbsu l- ingwanti </s>
+<s> huma ma jafux jilbsu l- ingravata </s>
+<s> huma ma jafux jilbsu iċ- ċoff </s>
+<s> huma ma jafux jilbsu il- kowt </s>
+<s> huma ma jafux jilbsu in- nuċċali </s>
+<s> huma ma jafux jilbsu ix- xalla </s>
+<s> huma ma jafux jilbsu il- ġiżirana </s>
+<s> huma ma jafux jilbsu il- brazzuletta </s>
+<s> huma ma jafux jilbsu il- piġama </s>
+<s> huma ma jafux jilbsu iċ- ċurkett </s>
+<s> huma ma jafux jilbsu l- uniformi </s>
+<s> jien naf nilbes iż- żarbun </s>
+<s> jien naf nilbes il- kalzetti </s>
+<s> jien naf nilbes is- sandli </s>
+<s> jien naf nilbes il- buz </s>
+<s> jien naf nilbes il- karkur </s>
+<s> jien naf nilbes il- papoċċ </s>
+<s> jien naf nilbes il- flokk </s>
+<s> jien naf nilbes il- qmis </s>
+<s> jien naf nilbes il- ġersi </s>
+<s> jien naf nilbes il- qalziet </s>
+<s> jien naf nilbes il- ġins </s>
+<s> jien naf nilbes ix- xorts </s>
+<s> jien naf nilbes id- dublett </s>
+<s> jien naf nilbes il- libsa </s>
+<s> jien naf nilbes il- ġakketta </s>
+<s> jien naf nilbes il- beritta </s>
+<s> jien naf nilbes il- kappell </s>
+<s> jien naf nilbes il- malja </s>
+<s> jien naf nilbes iċ- ċinturin </s>
+<s> jien naf nilbes il- fardal </s>
+<s> jien naf nilbes l- ingwanti </s>
+<s> jien naf nilbes l- ingravata </s>
+<s> jien naf nilbes iċ- ċoff </s>
+<s> jien naf nilbes il- kowt </s>
+<s> jien naf nilbes in- nuċċali </s>
+<s> jien naf nilbes ix- xalla </s>
+<s> jien naf nilbes il- ġiżirana </s>
+<s> jien naf nilbes il- brazzuletta </s>
+<s> jien naf nilbes il- piġama </s>
+<s> jien naf nilbes iċ- ċurkett </s>
+<s> jien naf nilbes l- uniformi </s>
+<s> int taf tilbes iż- żarbun </s>
+<s> int taf tilbes il- kalzetti </s>
+<s> int taf tilbes is- sandli </s>
+<s> int taf tilbes il- buz </s>
+<s> int taf tilbes il- karkur </s>
+<s> int taf tilbes il- papoċċ </s>
+<s> int taf tilbes il- flokk </s>
+<s> int taf tilbes il- qmis </s>
+<s> int taf tilbes il- ġersi </s>
+<s> int taf tilbes il- qalziet </s>
+<s> int taf tilbes il- ġins </s>
+<s> int taf tilbes ix- xorts </s>
+<s> int taf tilbes id- dublett </s>
+<s> int taf tilbes il- libsa </s>
+<s> int taf tilbes il- ġakketta </s>
+<s> int taf tilbes il- beritta </s>
+<s> int taf tilbes il- kappell </s>
+<s> int taf tilbes il- malja </s>
+<s> int taf tilbes iċ- ċinturin </s>
+<s> int taf tilbes il- fardal </s>
+<s> int taf tilbes l- ingwanti </s>
+<s> int taf tilbes l- ingravata </s>
+<s> int taf tilbes iċ- ċoff </s>
+<s> int taf tilbes il- kowt </s>
+<s> int taf tilbes in- nuċċali </s>
+<s> int taf tilbes ix- xalla </s>
+<s> int taf tilbes il- ġiżirana </s>
+<s> int taf tilbes il- brazzuletta </s>
+<s> int taf tilbes il- piġama </s>
+<s> int taf tilbes iċ- ċurkett </s>
+<s> int taf tilbes l- uniformi </s>
+<s> hu jaf jilbes iż- żarbun </s>
+<s> hu jaf jilbes il- kalzetti </s>
+<s> hu jaf jilbes is- sandli </s>
+<s> hu jaf jilbes il- buz </s>
+<s> hu jaf jilbes il- karkur </s>
+<s> hu jaf jilbes il- papoċċ </s>
+<s> hu jaf jilbes il- flokk </s>
+<s> hu jaf jilbes il- qmis </s>
+<s> hu jaf jilbes il- ġersi </s>
+<s> hu jaf jilbes il- qalziet </s>
+<s> hu jaf jilbes il- ġins </s>
+<s> hu jaf jilbes ix- xorts </s>
+<s> hu jaf jilbes id- dublett </s>
+<s> hu jaf jilbes il- libsa </s>
+<s> hu jaf jilbes il- ġakketta </s>
+<s> hu jaf jilbes il- beritta </s>
+<s> hu jaf jilbes il- kappell </s>
+<s> hu jaf jilbes il- malja </s>
+<s> hu jaf jilbes iċ- ċinturin </s>
+<s> hu jaf jilbes il- fardal </s>
+<s> hu jaf jilbes l- ingwanti </s>
+<s> hu jaf jilbes l- ingravata </s>
+<s> hu jaf jilbes iċ- ċoff </s>
+<s> hu jaf jilbes il- kowt </s>
+<s> hu jaf jilbes in- nuċċali </s>
+<s> hu jaf jilbes ix- xalla </s>
+<s> hu jaf jilbes il- ġiżirana </s>
+<s> hu jaf jilbes il- brazzuletta </s>
+<s> hu jaf jilbes il- piġama </s>
+<s> hu jaf jilbes iċ- ċurkett </s>
+<s> hu jaf jilbes l- uniformi </s>
+<s> hi taf tilbes iż- żarbun </s>
+<s> hi taf tilbes il- kalzetti </s>
+<s> hi taf tilbes is- sandli </s>
+<s> hi taf tilbes il- buz </s>
+<s> hi taf tilbes il- karkur </s>
+<s> hi taf tilbes il- papoċċ </s>
+<s> hi taf tilbes il- flokk </s>
+<s> hi taf tilbes il- qmis </s>
+<s> hi taf tilbes il- ġersi </s>
+<s> hi taf tilbes il- qalziet </s>
+<s> hi taf tilbes il- ġins </s>
+<s> hi taf tilbes ix- xorts </s>
+<s> hi taf tilbes id- dublett </s>
+<s> hi taf tilbes il- libsa </s>
+<s> hi taf tilbes il- ġakketta </s>
+<s> hi taf tilbes il- beritta </s>
+<s> hi taf tilbes il- kappell </s>
+<s> hi taf tilbes il- malja </s>
+<s> hi taf tilbes iċ- ċinturin </s>
+<s> hi taf tilbes il- fardal </s>
+<s> hi taf tilbes l- ingwanti </s>
+<s> hi taf tilbes l- ingravata </s>
+<s> hi taf tilbes iċ- ċoff </s>
+<s> hi taf tilbes il- kowt </s>
+<s> hi taf tilbes in- nuċċali </s>
+<s> hi taf tilbes ix- xalla </s>
+<s> hi taf tilbes il- ġiżirana </s>
+<s> hi taf tilbes il- brazzuletta </s>
+<s> hi taf tilbes il- piġama </s>
+<s> hi taf tilbes iċ- ċurkett </s>
+<s> hi taf tilbes l- uniformi </s>
+<s> aħna nafu nilbsu iż- żarbun </s>
+<s> aħna nafu nilbsu il- kalzetti </s>
+<s> aħna nafu nilbsu is- sandli </s>
+<s> aħna nafu nilbsu il- buz </s>
+<s> aħna nafu nilbsu il- karkur </s>
+<s> aħna nafu nilbsu il- papoċċ </s>
+<s> aħna nafu nilbsu il- flokk </s>
+<s> aħna nafu nilbsu il- qmis </s>
+<s> aħna nafu nilbsu il- ġersi </s>
+<s> aħna nafu nilbsu il- qalziet </s>
+<s> aħna nafu nilbsu il- ġins </s>
+<s> aħna nafu nilbsu ix- xorts </s>
+<s> aħna nafu nilbsu id- dublett </s>
+<s> aħna nafu nilbsu il- libsa </s>
+<s> aħna nafu nilbsu il- ġakketta </s>
+<s> aħna nafu nilbsu il- beritta </s>
+<s> aħna nafu nilbsu il- kappell </s>
+<s> aħna nafu nilbsu il- malja </s>
+<s> aħna nafu nilbsu iċ- ċinturin </s>
+<s> aħna nafu nilbsu il- fardal </s>
+<s> aħna nafu nilbsu l- ingwanti </s>
+<s> aħna nafu nilbsu l- ingravata </s>
+<s> aħna nafu nilbsu iċ- ċoff </s>
+<s> aħna nafu nilbsu il- kowt </s>
+<s> aħna nafu nilbsu in- nuċċali </s>
+<s> aħna nafu nilbsu ix- xalla </s>
+<s> aħna nafu nilbsu il- ġiżirana </s>
+<s> aħna nafu nilbsu il- brazzuletta </s>
+<s> aħna nafu nilbsu il- piġama </s>
+<s> aħna nafu nilbsu iċ- ċurkett </s>
+<s> aħna nafu nilbsu l- uniformi </s>
+<s> intom tafu tilbsu iż- żarbun </s>
+<s> intom tafu tilbsu il- kalzetti </s>
+<s> intom tafu tilbsu is- sandli </s>
+<s> intom tafu tilbsu il- buz </s>
+<s> intom tafu tilbsu il- karkur </s>
+<s> intom tafu tilbsu il- papoċċ </s>
+<s> intom tafu tilbsu il- flokk </s>
+<s> intom tafu tilbsu il- qmis </s>
+<s> intom tafu tilbsu il- ġersi </s>
+<s> intom tafu tilbsu il- qalziet </s>
+<s> intom tafu tilbsu il- ġins </s>
+<s> intom tafu tilbsu ix- xorts </s>
+<s> intom tafu tilbsu id- dublett </s>
+<s> intom tafu tilbsu il- libsa </s>
+<s> intom tafu tilbsu il- ġakketta </s>
+<s> intom tafu tilbsu il- beritta </s>
+<s> intom tafu tilbsu il- kappell </s>
+<s> intom tafu tilbsu il- malja </s>
+<s> intom tafu tilbsu iċ- ċinturin </s>
+<s> intom tafu tilbsu il- fardal </s>
+<s> intom tafu tilbsu l- ingwanti </s>
+<s> intom tafu tilbsu l- ingravata </s>
+<s> intom tafu tilbsu iċ- ċoff </s>
+<s> intom tafu tilbsu il- kowt </s>
+<s> intom tafu tilbsu in- nuċċali </s>
+<s> intom tafu tilbsu ix- xalla </s>
+<s> intom tafu tilbsu il- ġiżirana </s>
+<s> intom tafu tilbsu il- brazzuletta </s>
+<s> intom tafu tilbsu il- piġama </s>
+<s> intom tafu tilbsu iċ- ċurkett </s>
+<s> intom tafu tilbsu l- uniformi </s>
+<s> huma jafu jilbsu iż- żarbun </s>
+<s> huma jafu jilbsu il- kalzetti </s>
+<s> huma jafu jilbsu is- sandli </s>
+<s> huma jafu jilbsu il- buz </s>
+<s> huma jafu jilbsu il- karkur </s>
+<s> huma jafu jilbsu il- papoċċ </s>
+<s> huma jafu jilbsu il- flokk </s>
+<s> huma jafu jilbsu il- qmis </s>
+<s> huma jafu jilbsu il- ġersi </s>
+<s> huma jafu jilbsu il- qalziet </s>
+<s> huma jafu jilbsu il- ġins </s>
+<s> huma jafu jilbsu ix- xorts </s>
+<s> huma jafu jilbsu id- dublett </s>
+<s> huma jafu jilbsu il- libsa </s>
+<s> huma jafu jilbsu il- ġakketta </s>
+<s> huma jafu jilbsu il- beritta </s>
+<s> huma jafu jilbsu il- kappell </s>
+<s> huma jafu jilbsu il- malja </s>
+<s> huma jafu jilbsu iċ- ċinturin </s>
+<s> huma jafu jilbsu il- fardal </s>
+<s> huma jafu jilbsu l- ingwanti </s>
+<s> huma jafu jilbsu l- ingravata </s>
+<s> huma jafu jilbsu iċ- ċoff </s>
+<s> huma jafu jilbsu il- kowt </s>
+<s> huma jafu jilbsu in- nuċċali </s>
+<s> huma jafu jilbsu ix- xalla </s>
+<s> huma jafu jilbsu il- ġiżirana </s>
+<s> huma jafu jilbsu il- brazzuletta </s>
+<s> huma jafu jilbsu il- piġama </s>
+<s> huma jafu jilbsu iċ- ċurkett </s>
+<s> huma jafu jilbsu l- uniformi </s>
+<s> jien qed inħossni marid </s>
+<s> jien qed tuġagħni rasi </s>
+<s> jien qed tuġagħni idi </s>
+<s> jien qed tuġagħni sieqi </s>
+<s> jien qed juġagħni għonqi </s>
+<s> jien qed tuġagħni żaqqi </s>
+<s> jien qed juġagħni dahri </s>
+<s> jien qed tuġagħni s- sinna </s>
+<s> jien qed inħoss il- bard </s>
+<s> jien qed inħoss is- sħana </s>
+<s> jien għandi d- deni </s>
+<s> jien għandi d- demm </s>
+<s> jien għandi s- sogħla </s>
+<s> jien għandi riħ </s>
+<s> jien għandi dijarea </s>
+<s> jien għandi allerġija </s>
+<s> jien għandi raxx f' idi </s>
+<s> jien għandi raxx f' sieqi </s>
+<s> jien għandi raxx f' idejja </s>
+<s> jien għandi raxx f' saqajja </s>
+<s> jien għandi raxx f' dahri </s>
+<s> int qed tħossok marid </s>
+<s> int qed tuġgħak rasek </s>
+<s> int qed tuġgħak idek </s>
+<s> int qed tuġgħak sieqek </s>
+<s> int qed juġgħak għonqok </s>
+<s> int qed tuġgħak żaqqek </s>
+<s> int qed juġgħak dahrek </s>
+<s> int qed tuġgħak is- sinna </s>
+<s> int qed tħoss il- bard </s>
+<s> int qed tħoss is- sħana </s>
+<s> int għandek id- deni </s>
+<s> int għandek id- demm </s>
+<s> int għandek is- sogħla </s>
+<s> int għandek riħ </s>
+<s> int għandek dijarea </s>
+<s> int għandek allerġija </s>
+<s> int għandek raxx f' idek </s>
+<s> int għandek raxx f' sieqek </s>
+<s> int għandek raxx f' idejk </s>
+<s> int għandek raxx f' saqajk </s>
+<s> int għandek raxx f' dahrek </s>
+<s> hu qed iħossu marid </s>
+<s> hu qed tuġgħu rasu </s>
+<s> hu qed tuġgħu idu </s>
+<s> hu qed tuġgħu siequ </s>
+<s> hu qed juġgħu għonqu </s>
+<s> hu qed tuġgħu żaqqu </s>
+<s> hu qed juġgħu dahru </s>
+<s> hu qed tuġgħu s- sinna </s>
+<s> hu qed iħoss il- bard </s>
+<s> hu qed iħoss is- sħana </s>
+<s> hu għandu d- deni </s>
+<s> hu għandu d- demm </s>
+<s> hu għandu s- sogħla </s>
+<s> hu għandu riħ </s>
+<s> hu għandu dijarea </s>
+<s> hu għandu allerġija </s>
+<s> hu għandu raxx f' idu </s>
+<s> hu għandu raxx f' siequ </s>
+<s> hu għandu raxx f' idejh </s>
+<s> hu għandu raxx f' saqajh </s>
+<s> hu għandu raxx f' dahru </s>
+<s> hi qed tħossha marida </s>
+<s> hi qed tuġagħha rasha </s>
+<s> hi qed tuġagħha idha </s>
+<s> hi qed tuġagħha sieqha </s>
+<s> hi qed juġagħha għonqha </s>
+<s> hi qed tuġagħha żaqqha </s>
+<s> hi qed juġagħha daharha </s>
+<s> hi qed tuġagħha s- sinna </s>
+<s> hi qed tħoss il- bard </s>
+<s> hi qed tħoss is- sħana </s>
+<s> hi għandha d- deni </s>
+<s> hi għandha d- demm </s>
+<s> hi għandha s- sogħla </s>
+<s> hi għandha riħ </s>
+<s> hi għandha dijarea </s>
+<s> hi għandha allerġija </s>
+<s> hi għandha raxx f' idha </s>
+<s> hi għandha raxx f' sieqha </s>
+<s> hi għandha raxx f' idejha </s>
+<s> hi għandha raxx f' saqajha </s>
+<s> hi għandha raxx f' daharha </s>
+<s> aħna qed inħossuna morda </s>
+<s> aħna qed tuġagħna rasna </s>
+<s> aħna qed tuġagħna idna </s>
+<s> aħna qed tuġagħna sieqna </s>
+<s> aħna qed juġagħna għonqna </s>
+<s> aħna qed tuġagħna żaqqna </s>
+<s> aħna qed juġagħna daharna </s>
+<s> aħna qed tuġagħna s- sinna </s>
+<s> aħna qed inħossu l- bard </s>
+<s> aħna qed inħossu s- sħana </s>
+<s> aħna għandna d- deni </s>
+<s> aħna għandna d- demm </s>
+<s> aħna għandna s- sogħla </s>
+<s> aħna għandna riħ </s>
+<s> aħna għandna dijarea </s>
+<s> aħna għandna allerġija </s>
+<s> aħna għandna raxx f' idna </s>
+<s> aħna għandna raxx f' sieqna </s>
+<s> aħna għandna raxx f' idejna </s>
+<s> aħna għandna raxx f' saqajna </s>
+<s> aħna għandna raxx f' daharna </s>
+<s> intom qed tħossukom morda </s>
+<s> intom qed tuġagħkom raskom </s>
+<s> intom qed tuġagħkom idkom </s>
+<s> intom qed tuġagħkom sieqkom </s>
+<s> intom qed juġagħkom għonqkom </s>
+<s> intom qed tuġagħkom żaqqkom </s>
+<s> intom qed juġagħkom daharkom </s>
+<s> intom qed tuġagħkom is- sinna </s>
+<s> intom qed tħossu l- bard </s>
+<s> intom qed tħossu s- sħana </s>
+<s> intom għandkom id- deni </s>
+<s> intom għandkom id- demm </s>
+<s> intom għandkom is- sogħla </s>
+<s> intom għandkom riħ </s>
+<s> intom għandkom dijarea </s>
+<s> intom għandkom allerġija </s>
+<s> intom għandkom raxx f' idkom </s>
+<s> intom għandkom raxx f' sieqkom </s>
+<s> intom għandkom raxx f' idejkom </s>
+<s> intom għandkom raxx f' saqajkom </s>
+<s> intom għandkom raxx f' daharkom </s>
+<s> huma qed iħossuhom morda </s>
+<s> huma qed tuġagħhom rashom </s>
+<s> huma qed tuġagħhom idhom </s>
+<s> huma qed tuġagħhom sieqhom </s>
+<s> huma qed juġagħhom għonqhom </s>
+<s> huma qed tuġagħhom żaqqhom </s>
+<s> huma qed juġagħhom daharhom </s>
+<s> huma qed tuġagħhom is- sinna </s>
+<s> huma qed iħossu l- bard </s>
+<s> huma qed iħossu s- sħana </s>
+<s> huma għandhom id- deni </s>
+<s> huma għandhom id- demm </s>
+<s> huma għandhom is- sogħla </s>
+<s> huma għandhom riħ </s>
+<s> huma għandhom dijarea </s>
+<s> huma għandhom allerġija </s>
+<s> huma għandhom raxx f' idhom </s>
+<s> huma għandhom raxx f' sieqhom </s>
+<s> huma għandhom raxx f' idejhom </s>
+<s> huma għandhom raxx f' saqajhom </s>
+<s> huma għandhom raxx f' daharhom </s>
+<s> jien qed inħossni eċitat </s>
+<s> jien qed inħossni rrabjat </s>
+<s> jien qed inħossni ferħan </s>
+<s> jien qed inħossni nervuż </s>
+<s> jien qed inħossni mdejjaq </s>
+<s> int qed tħossok eċitat </s>
+<s> int qed tħossok rrabjat </s>
+<s> int qed tħossok ferħan </s>
+<s> int qed tħossok nervuż </s>
+<s> int qed tħossok mdejjaq </s>
+<s> hu qed iħossu eċitat </s>
+<s> hu qed iħossu rrabjat </s>
+<s> hu qed iħossu ferħan </s>
+<s> hu qed iħossu nervuż </s>
+<s> hu qed iħossu mdejjaq </s>
+<s> hi qed tħossha eċitata </s>
+<s> hi qed tħossha rrabjata </s>
+<s> hi qed tħossha ferħana </s>
+<s> hi qed tħossha nervuża </s>
+<s> hi qed tħossha mdejqa </s>
+<s> aħna qed inħossuna eċitati </s>
+<s> aħna qed inħossuna rrabjati </s>
+<s> aħna qed inħossuna ferħanin </s>
+<s> aħna qed inħossuna nervużi </s>
+<s> aħna qed inħossuna mdejqin </s>
+<s> intom qed tħossukom eċitati </s>
+<s> intom qed tħossukom irrabjati </s>
+<s> intom qed tħossukom ferħanin </s>
+<s> intom qed tħossukom nervużi </s>
+<s> intom qed tħossukom imdejqin </s>
+<s> huma qed iħossuhom eċitati </s>
+<s> huma qed iħossuhom irrabjati </s>
+<s> huma qed iħossuhom ferħanin </s>
+<s> huma qed iħossuhom nervużi </s>
+<s> huma qed iħossuhom imdejqin </s>
+<s> jien irrid nilgħab bil- mowbajl </s>
+<s> jien irrid nilgħab bit- tablet </s>
+<s> jien irrid nilgħab bil- laptop </s>
+<s> jien irrid nilgħab bil- kompjuter </s>
+<s> jien irrid nuża l- mowbajl </s>
+<s> jien irrid nuża t- tablet </s>
+<s> jien irrid nuża l- laptop </s>
+<s> jien irrid nuża l- kompjuter </s>
+<s> jien irrid nilgħab bil- ballun </s>
+<s> jien irrid nilgħab bil- karozza </s>
+<s> jien irrid nilgħab bil- karozzi </s>
+<s> jien irrid nilgħab bil- pupa </s>
+<s> jien irrid nilgħab bil- pupi </s>
+<s> jien irrid nilgħab bir- rota </s>
+<s> jien irrid nilgħab bil- ġugarelli </s>
+<s> jien irrid naqra ktieb </s>
+<s> jien inħobb nilgħab bil- ballun </s>
+<s> jien inħobb nilgħab bil- karozza </s>
+<s> jien inħobb nilgħab bil- karozzi </s>
+<s> jien inħobb nilgħab bil- pupa </s>
+<s> jien inħobb nilgħab bil- pupi </s>
+<s> jien inħobb nilgħab bir- rota </s>
+<s> jien inħobb nilgħab bil- ġugarelli </s>
+<s> jien inħobb naqra l- kotba </s>
+<s> int trid tilgħab bil- mowbajl </s>
+<s> int trid tilgħab bit- tablet </s>
+<s> int trid tilgħab bil- laptop </s>
+<s> int trid tilgħab bil- kompjuter </s>
+<s> int trid tuża l- mowbajl </s>
+<s> int trid tuża t- tablet </s>
+<s> int trid tuża l- laptop </s>
+<s> int trid tuża l- kompjuter </s>
+<s> int trid tilgħab bil- ballun </s>
+<s> int trid tilgħab bil- karozza </s>
+<s> int trid tilgħab bil- karozzi </s>
+<s> int trid tilgħab bil- pupa </s>
+<s> int trid tilgħab bil- pupi </s>
+<s> int trid tilgħab bir- rota </s>
+<s> int trid tilgħab bil- ġugarelli </s>
+<s> int trid taqra ktieb </s>
+<s> int tħobb tilgħab bil- ballun </s>
+<s> int tħobb tilgħab bil- karozza </s>
+<s> int tħobb tilgħab bil- karozzi </s>
+<s> int tħobb tilgħab bil- pupa </s>
+<s> int tħobb tilgħab bil- pupi </s>
+<s> int tħobb tilgħab bir- rota </s>
+<s> int tħobb tilgħab bil- ġugarelli </s>
+<s> int tħobb taqra l- kotba </s>
+<s> hu jrid jilgħab bil- mowbajl </s>
+<s> hu jrid jilgħab bit- tablet </s>
+<s> hu jrid jilgħab bil- laptop </s>
+<s> hu jrid jilgħab bil- kompjuter </s>
+<s> hu jrid juża l- mowbajl </s>
+<s> hu jrid juża t- tablet </s>
+<s> hu jrid juża l- laptop </s>
+<s> hu jrid juża l- kompjuter </s>
+<s> hu jrid jilgħab bil- ballun </s>
+<s> hu jrid jilgħab bil- karozza </s>
+<s> hu jrid jilgħab bil- karozzi </s>
+<s> hu jrid jilgħab bil- pupa </s>
+<s> hu jrid jilgħab bil- pupi </s>
+<s> hu jrid jilgħab bir- rota </s>
+<s> hu jrid jilgħab bil- ġugarelli </s>
+<s> hu jrid jaqra ktieb </s>
+<s> hu jħobb jilgħab bil- ballun </s>
+<s> hu jħobb jilgħab bil- karozza </s>
+<s> hu jħobb jilgħab bil- karozzi </s>
+<s> hu jħobb jilgħab bil- pupa </s>
+<s> hu jħobb jilgħab bil- pupi </s>
+<s> hu jħobb jilgħab bir- rota </s>
+<s> hu jħobb jilgħab bil- ġugarelli </s>
+<s> hu jħobb jaqra l- kotba </s>
+<s> hi trid tilgħab bil- mowbajl </s>
+<s> hi trid tilgħab bit- tablet </s>
+<s> hi trid tilgħab bil- laptop </s>
+<s> hi trid tilgħab bil- kompjuter </s>
+<s> hi trid tuża l- mowbajl </s>
+<s> hi trid tuża t- tablet </s>
+<s> hi trid tuża l- laptop </s>
+<s> hi trid tuża l- kompjuter </s>
+<s> hi trid tilgħab bil- ballun </s>
+<s> hi trid tilgħab bil- karozza </s>
+<s> hi trid tilgħab bil- karozzi </s>
+<s> hi trid tilgħab bil- pupa </s>
+<s> hi trid tilgħab bil- pupi </s>
+<s> hi trid tilgħab bir- rota </s>
+<s> hi trid tilgħab bil- ġugarelli </s>
+<s> hi trid taqra ktieb </s>
+<s> hi tħobb tilgħab bil- ballun </s>
+<s> hi tħobb tilgħab bil- karozza </s>
+<s> hi tħobb tilgħab bil- karozzi </s>
+<s> hi tħobb tilgħab bil- pupa </s>
+<s> hi tħobb tilgħab bil- pupi </s>
+<s> hi tħobb tilgħab bir- rota </s>
+<s> hi tħobb tilgħab bil- ġugarelli </s>
+<s> hi tħobb taqra l- kotba </s>
+<s> aħna rridu nilagħbu bil- mowbajl </s>
+<s> aħna rridu nilagħbu bit- tablet </s>
+<s> aħna rridu nilagħbu bil- laptop </s>
+<s> aħna rridu nilagħbu bil- kompjuter </s>
+<s> aħna rridu nużaw il- mowbajl </s>
+<s> aħna rridu nużaw it- tablet </s>
+<s> aħna rridu nużaw il- laptop </s>
+<s> aħna rridu nużaw il- kompjuter </s>
+<s> aħna rridu nilagħbu bil- ballun </s>
+<s> aħna rridu nilagħbu bil- karozza </s>
+<s> aħna rridu nilagħbu bil- karozzi </s>
+<s> aħna rridu nilagħbu bil- pupa </s>
+<s> aħna rridu nilagħbu bil- pupi </s>
+<s> aħna rridu nilagħbu bir- rota </s>
+<s> aħna rridu nilagħbu bil- ġugarelli </s>
+<s> aħna rridu naqraw ktieb </s>
+<s> aħna nħobbu nilagħbu bil- ballun </s>
+<s> aħna nħobbu nilagħbu bil- karozza </s>
+<s> aħna nħobbu nilagħbu bil- karozzi </s>
+<s> aħna nħobbu nilagħbu bil- pupa </s>
+<s> aħna nħobbu nilagħbu bil- pupi </s>
+<s> aħna nħobbu nilagħbu bir- rota </s>
+<s> aħna nħobbu nilagħbu bil- ġugarelli </s>
+<s> aħna nħobbu naqraw il- kotba </s>
+<s> intom tridu tilagħbu bil- mowbajl </s>
+<s> intom tridu tilagħbu bit- tablet </s>
+<s> intom tridu tilagħbu bil- laptop </s>
+<s> intom tridu tilagħbu bil- kompjuter </s>
+<s> intom tridu tużaw il- mowbajl </s>
+<s> intom tridu tużaw it- tablet </s>
+<s> intom tridu tużaw il- laptop </s>
+<s> intom tridu tużaw il- kompjuter </s>
+<s> intom tridu tilagħbu bil- ballun </s>
+<s> intom tridu tilagħbu bil- karozza </s>
+<s> intom tridu tilagħbu bil- karozzi </s>
+<s> intom tridu tilagħbu bil- pupa </s>
+<s> intom tridu tilagħbu bil- pupi </s>
+<s> intom tridu tilagħbu bir- rota </s>
+<s> intom tridu tilagħbu bil- ġugarelli </s>
+<s> intom tridu taqraw ktieb </s>
+<s> intom tħobbu tilagħbu bil- ballun </s>
+<s> intom tħobbu tilagħbu bil- karozza </s>
+<s> intom tħobbu tilagħbu bil- karozzi </s>
+<s> intom tħobbu tilagħbu bil- pupa </s>
+<s> intom tħobbu tilagħbu bil- pupi </s>
+<s> intom tħobbu tilagħbu bir- rota </s>
+<s> intom tħobbu tilagħbu bil- ġugarelli </s>
+<s> intom tħobbu taqraw il- kotba </s>
+<s> huma jridu jilagħbu bil- mowbajl </s>
+<s> huma jridu jilagħbu bit- tablet </s>
+<s> huma jridu jilagħbu bil- laptop </s>
+<s> huma jridu jilagħbu bil- kompjuter </s>
+<s> huma jridu jużaw il- mowbajl </s>
+<s> huma jridu jużaw it- tablet </s>
+<s> huma jridu jużaw il- laptop </s>
+<s> huma jridu jużaw il- kompjuter </s>
+<s> huma jridu jilagħbu bil- ballun </s>
+<s> huma jridu jilagħbu bil- karozza </s>
+<s> huma jridu jilagħbu bil- karozzi </s>
+<s> huma jridu jilagħbu bil- pupa </s>
+<s> huma jridu jilagħbu bil- pupi </s>
+<s> huma jridu jilagħbu bir- rota </s>
+<s> huma jridu jilagħbu bil- ġugarelli </s>
+<s> huma jridu jaqraw ktieb </s>
+<s> huma jħobbu jilagħbu bil- ballun </s>
+<s> huma jħobbu jilagħbu bil- karozza </s>
+<s> huma jħobbu jilagħbu bil- karozzi </s>
+<s> huma jħobbu jilagħbu bil- pupa </s>
+<s> huma jħobbu jilagħbu bil- pupi </s>
+<s> huma jħobbu jilagħbu bir- rota </s>
+<s> huma jħobbu jilagħbu bil- ġugarelli </s>
+<s> huma jħobbu jaqraw il- kotba </s>
+<s> jien irrid nilgħab bil- ballun il- blu </s>
+<s> jien irrid nilgħab bil- karozza l- bluna </s>
+<s> jien irrid nilgħab bil- karozzi l- bluni </s>
+<s> jien irrid nilgħab bir- rota l- bluna </s>
+<s> jien irrid nilgħab bil- ballun l- iswed </s>
+<s> jien irrid nilgħab bil- karozza s- sewda </s>
+<s> jien irrid nilgħab bil- karozzi s- suwed </s>
+<s> jien irrid nilgħab bir- rota s- sewda </s>
+<s> jien irrid nilgħab bil- ballun l- isfar </s>
+<s> jien irrid nilgħab bil- karozza s- safra </s>
+<s> jien irrid nilgħab bil- karozzi s- sofor </s>
+<s> jien irrid nilgħab bir- rota s- safra </s>
+<s> jien irrid nilgħab bil- ballun l- aħdar </s>
+<s> jien irrid nilgħab bil- karozza l- ħadra </s>
+<s> jien irrid nilgħab bil- karozzi l- ħodor </s>
+<s> jien irrid nilgħab bir- rota l- ħadra </s>
+<s> jien irrid nilgħab bil- ballun l- aħmar </s>
+<s> jien irrid nilgħab bil- karozza l- ħamra </s>
+<s> jien irrid nilgħab bil- karozzi l- ħomor </s>
+<s> jien irrid nilgħab bir- rota l- ħamra </s>
+<s> jien irrid nilgħab bil- ballun l- abjad </s>
+<s> jien irrid nilgħab bil- karozza l- bajda </s>
+<s> jien irrid nilgħab bil- karozzi l- bojod </s>
+<s> jien irrid nilgħab bir- rota l- bajda </s>
+<s> jien irrid nilgħab bil- ballun il- vjola </s>
+<s> jien irrid nilgħab bil- karozza l- vjola </s>
+<s> jien irrid nilgħab bil- karozzi l- vjola </s>
+<s> jien irrid nilgħab bir- rota l- vjola </s>
+<s> jien irrid nilgħab bil- ballun ir- roża </s>
+<s> jien irrid nilgħab bil- karozza r- roża </s>
+<s> jien irrid nilgħab bil- karozzi r- roża </s>
+<s> jien irrid nilgħab bir- rota r- roża </s>
+<s> int trid tilgħab bil- ballun il- blu </s>
+<s> int trid tilgħab bil- karozza l- bluna </s>
+<s> int trid tilgħab bil- karozzi l- bluni </s>
+<s> int trid tilgħab bir- rota l- bluna </s>
+<s> int trid tilgħab bil- ballun l- iswed </s>
+<s> int trid tilgħab bil- karozza s- sewda </s>
+<s> int trid tilgħab bil- karozzi s- suwed </s>
+<s> int trid tilgħab bir- rota s- sewda </s>
+<s> int trid tilgħab bil- ballun l- isfar </s>
+<s> int trid tilgħab bil- karozza s- safra </s>
+<s> int trid tilgħab bil- karozzi s- sofor </s>
+<s> int trid tilgħab bir- rota s- safra </s>
+<s> int trid tilgħab bil- ballun l- aħdar </s>
+<s> int trid tilgħab bil- karozza l- ħadra </s>
+<s> int trid tilgħab bil- karozzi l- ħodor </s>
+<s> int trid tilgħab bir- rota l- ħadra </s>
+<s> int trid tilgħab bil- ballun l- aħmar </s>
+<s> int trid tilgħab bil- karozza l- ħamra </s>
+<s> int trid tilgħab bil- karozzi l- ħomor </s>
+<s> int trid tilgħab bir- rota l- ħamra </s>
+<s> int trid tilgħab bil- ballun l- abjad </s>
+<s> int trid tilgħab bil- karozza l- bajda </s>
+<s> int trid tilgħab bil- karozzi l- bojod </s>
+<s> int trid tilgħab bir- rota l- bajda </s>
+<s> int trid tilgħab bil- ballun il- vjola </s>
+<s> int trid tilgħab bil- karozza l- vjola </s>
+<s> int trid tilgħab bil- karozzi l- vjola </s>
+<s> int trid tilgħab bir- rota l- vjola </s>
+<s> int trid tilgħab bil- ballun ir- roża </s>
+<s> int trid tilgħab bil- karozza r- roża </s>
+<s> int trid tilgħab bil- karozzi r- roża </s>
+<s> int trid tilgħab bir- rota r- roża </s>
+<s> hu jrid jilgħab bil- ballun il- blu </s>
+<s> hu jrid jilgħab bil- karozza l- bluna </s>
+<s> hu jrid jilgħab bil- karozzi l- bluni </s>
+<s> hu jrid jilgħab bir- rota l- bluna </s>
+<s> hu jrid jilgħab bil- ballun l- iswed </s>
+<s> hu jrid jilgħab bil- karozza s- sewda </s>
+<s> hu jrid jilgħab bil- karozzi s- suwed </s>
+<s> hu jrid jilgħab bir- rota s- sewda </s>
+<s> hu jrid jilgħab bil- ballun l- isfar </s>
+<s> hu jrid jilgħab bil- karozza s- safra </s>
+<s> hu jrid jilgħab bil- karozzi s- sofor </s>
+<s> hu jrid jilgħab bir- rota s- safra </s>
+<s> hu jrid jilgħab bil- ballun l- aħdar </s>
+<s> hu jrid jilgħab bil- karozza l- ħadra </s>
+<s> hu jrid jilgħab bil- karozzi l- ħodor </s>
+<s> hu jrid jilgħab bir- rota l- ħadra </s>
+<s> hu jrid jilgħab bil- ballun l- aħmar </s>
+<s> hu jrid jilgħab bil- karozza l- ħamra </s>
+<s> hu jrid jilgħab bil- karozzi l- ħomor </s>
+<s> hu jrid jilgħab bir- rota l- ħamra </s>
+<s> hu jrid jilgħab bil- ballun l- abjad </s>
+<s> hu jrid jilgħab bil- karozza l- bajda </s>
+<s> hu jrid jilgħab bil- karozzi l- bojod </s>
+<s> hu jrid jilgħab bir- rota l- bajda </s>
+<s> hu jrid jilgħab bil- ballun il- vjola </s>
+<s> hu jrid jilgħab bil- karozza l- vjola </s>
+<s> hu jrid jilgħab bil- karozzi l- vjola </s>
+<s> hu jrid jilgħab bir- rota l- vjola </s>
+<s> hu jrid jilgħab bil- ballun ir- roża </s>
+<s> hu jrid jilgħab bil- karozza r- roża </s>
+<s> hu jrid jilgħab bil- karozzi r- roża </s>
+<s> hu jrid jilgħab bir- rota r- roża </s>
+<s> hi trid tilgħab bil- ballun il- blu </s>
+<s> hi trid tilgħab bil- karozza l- bluna </s>
+<s> hi trid tilgħab bil- karozzi l- bluni </s>
+<s> hi trid tilgħab bir- rota l- bluna </s>
+<s> hi trid tilgħab bil- ballun l- iswed </s>
+<s> hi trid tilgħab bil- karozza s- sewda </s>
+<s> hi trid tilgħab bil- karozzi s- suwed </s>
+<s> hi trid tilgħab bir- rota s- sewda </s>
+<s> hi trid tilgħab bil- ballun l- isfar </s>
+<s> hi trid tilgħab bil- karozza s- safra </s>
+<s> hi trid tilgħab bil- karozzi s- sofor </s>
+<s> hi trid tilgħab bir- rota s- safra </s>
+<s> hi trid tilgħab bil- ballun l- aħdar </s>
+<s> hi trid tilgħab bil- karozza l- ħadra </s>
+<s> hi trid tilgħab bil- karozzi l- ħodor </s>
+<s> hi trid tilgħab bir- rota l- ħadra </s>
+<s> hi trid tilgħab bil- ballun l- aħmar </s>
+<s> hi trid tilgħab bil- karozza l- ħamra </s>
+<s> hi trid tilgħab bil- karozzi l- ħomor </s>
+<s> hi trid tilgħab bir- rota l- ħamra </s>
+<s> hi trid tilgħab bil- ballun l- abjad </s>
+<s> hi trid tilgħab bil- karozza l- bajda </s>
+<s> hi trid tilgħab bil- karozzi l- bojod </s>
+<s> hi trid tilgħab bir- rota l- bajda </s>
+<s> hi trid tilgħab bil- ballun il- vjola </s>
+<s> hi trid tilgħab bil- karozza l- vjola </s>
+<s> hi trid tilgħab bil- karozzi l- vjola </s>
+<s> hi trid tilgħab bir- rota l- vjola </s>
+<s> hi trid tilgħab bil- ballun ir- roża </s>
+<s> hi trid tilgħab bil- karozza r- roża </s>
+<s> hi trid tilgħab bil- karozzi r- roża </s>
+<s> hi trid tilgħab bir- rota r- roża </s>
+<s> aħna rridu nilagħbu bil- ballun il- blu </s>
+<s> aħna rridu nilagħbu bil- karozza l- bluna </s>
+<s> aħna rridu nilagħbu bil- karozzi l- bluni </s>
+<s> aħna rridu nilagħbu bir- rota l- bluna </s>
+<s> aħna rridu nilagħbu bil- ballun l- iswed </s>
+<s> aħna rridu nilagħbu bil- karozza s- sewda </s>
+<s> aħna rridu nilagħbu bil- karozzi s- suwed </s>
+<s> aħna rridu nilagħbu bir- rota s- sewda </s>
+<s> aħna rridu nilagħbu bil- ballun l- isfar </s>
+<s> aħna rridu nilagħbu bil- karozza s- safra </s>
+<s> aħna rridu nilagħbu bil- karozzi s- sofor </s>
+<s> aħna rridu nilagħbu bir- rota s- safra </s>
+<s> aħna rridu nilagħbu bil- ballun l- aħdar </s>
+<s> aħna rridu nilagħbu bil- karozza l- ħadra </s>
+<s> aħna rridu nilagħbu bil- karozzi l- ħodor </s>
+<s> aħna rridu nilagħbu bir- rota l- ħadra </s>
+<s> aħna rridu nilagħbu bil- ballun l- aħmar </s>
+<s> aħna rridu nilagħbu bil- karozza l- ħamra </s>
+<s> aħna rridu nilagħbu bil- karozzi l- ħomor </s>
+<s> aħna rridu nilagħbu bir- rota l- ħamra </s>
+<s> aħna rridu nilagħbu bil- ballun l- abjad </s>
+<s> aħna rridu nilagħbu bil- karozza l- bajda </s>
+<s> aħna rridu nilagħbu bil- karozzi l- bojod </s>
+<s> aħna rridu nilagħbu bir- rota l- bajda </s>
+<s> aħna rridu nilagħbu bil- ballun il- vjola </s>
+<s> aħna rridu nilagħbu bil- karozza l- vjola </s>
+<s> aħna rridu nilagħbu bil- karozzi l- vjola </s>
+<s> aħna rridu nilagħbu bir- rota l- vjola </s>
+<s> aħna rridu nilagħbu bil- ballun ir- roża </s>
+<s> aħna rridu nilagħbu bil- karozza r- roża </s>
+<s> aħna rridu nilagħbu bil- karozzi r- roża </s>
+<s> aħna rridu nilagħbu bir- rota r- roża </s>
+<s> intom tridu tilagħbu bil- ballun il- blu </s>
+<s> intom tridu tilagħbu bil- karozza l- bluna </s>
+<s> intom tridu tilagħbu bil- karozzi l- bluni </s>
+<s> intom tridu tilagħbu bir- rota l- bluna </s>
+<s> intom tridu tilagħbu bil- ballun l- iswed </s>
+<s> intom tridu tilagħbu bil- karozza s- sewda </s>
+<s> intom tridu tilagħbu bil- karozzi s- suwed </s>
+<s> intom tridu tilagħbu bir- rota s- sewda </s>
+<s> intom tridu tilagħbu bil- ballun l- isfar </s>
+<s> intom tridu tilagħbu bil- karozza s- safra </s>
+<s> intom tridu tilagħbu bil- karozzi s- sofor </s>
+<s> intom tridu tilagħbu bir- rota s- safra </s>
+<s> intom tridu tilagħbu bil- ballun l- aħdar </s>
+<s> intom tridu tilagħbu bil- karozza l- ħadra </s>
+<s> intom tridu tilagħbu bil- karozzi l- ħodor </s>
+<s> intom tridu tilagħbu bir- rota l- ħadra </s>
+<s> intom tridu tilagħbu bil- ballun l- aħmar </s>
+<s> intom tridu tilagħbu bil- karozza l- ħamra </s>
+<s> intom tridu tilagħbu bil- karozzi l- ħomor </s>
+<s> intom tridu tilagħbu bir- rota l- ħamra </s>
+<s> intom tridu tilagħbu bil- ballun l- abjad </s>
+<s> intom tridu tilagħbu bil- karozza l- bajda </s>
+<s> intom tridu tilagħbu bil- karozzi l- bojod </s>
+<s> intom tridu tilagħbu bir- rota l- bajda </s>
+<s> intom tridu tilagħbu bil- ballun il- vjola </s>
+<s> intom tridu tilagħbu bil- karozza l- vjola </s>
+<s> intom tridu tilagħbu bil- karozzi l- vjola </s>
+<s> intom tridu tilagħbu bir- rota l- vjola </s>
+<s> intom tridu tilagħbu bil- ballun ir- roża </s>
+<s> intom tridu tilagħbu bil- karozza r- roża </s>
+<s> intom tridu tilagħbu bil- karozzi r- roża </s>
+<s> intom tridu tilagħbu bir- rota r- roża </s>
+<s> huma jridu jilagħbu bil- ballun il- blu </s>
+<s> huma jridu jilagħbu bil- karozza l- bluna </s>
+<s> huma jridu jilagħbu bil- karozzi l- bluni </s>
+<s> huma jridu jilagħbu bir- rota l- bluna </s>
+<s> huma jridu jilagħbu bil- ballun l- iswed </s>
+<s> huma jridu jilagħbu bil- karozza s- sewda </s>
+<s> huma jridu jilagħbu bil- karozzi s- suwed </s>
+<s> huma jridu jilagħbu bir- rota s- sewda </s>
+<s> huma jridu jilagħbu bil- ballun l- isfar </s>
+<s> huma jridu jilagħbu bil- karozza s- safra </s>
+<s> huma jridu jilagħbu bil- karozzi s- sofor </s>
+<s> huma jridu jilagħbu bir- rota s- safra </s>
+<s> huma jridu jilagħbu bil- ballun l- aħdar </s>
+<s> huma jridu jilagħbu bil- karozza l- ħadra </s>
+<s> huma jridu jilagħbu bil- karozzi l- ħodor </s>
+<s> huma jridu jilagħbu bir- rota l- ħadra </s>
+<s> huma jridu jilagħbu bil- ballun l- aħmar </s>
+<s> huma jridu jilagħbu bil- karozza l- ħamra </s>
+<s> huma jridu jilagħbu bil- karozzi l- ħomor </s>
+<s> huma jridu jilagħbu bir- rota l- ħamra </s>
+<s> huma jridu jilagħbu bil- ballun l- abjad </s>
+<s> huma jridu jilagħbu bil- karozza l- bajda </s>
+<s> huma jridu jilagħbu bil- karozzi l- bojod </s>
+<s> huma jridu jilagħbu bir- rota l- bajda </s>
+<s> huma jridu jilagħbu bil- ballun il- vjola </s>
+<s> huma jridu jilagħbu bil- karozza l- vjola </s>
+<s> huma jridu jilagħbu bil- karozzi l- vjola </s>
+<s> huma jridu jilagħbu bir- rota l- vjola </s>
+<s> huma jridu jilagħbu bil- ballun ir- roża </s>
+<s> huma jridu jilagħbu bil- karozza r- roża </s>
+<s> huma jridu jilagħbu bil- karozzi r- roża </s>
+<s> huma jridu jilagħbu bir- rota r- roża </s>
+<s> jien irrid nilbes il- kalzetti l- bluni </s>
+<s> jien irrid nilbes par kalzetti bluni </s>
+<s> jien irrid nilbes il- kalzetta l- bluna </s>
+<s> jien irrid nilbes is- sandli l- blu </s>
+<s> jien irrid nilbes is- sandlija l- bluna </s>
+<s> jien irrid nilbes il- buz il- blu </s>
+<s> jien irrid nilbes il- karkur il- blu </s>
+<s> jien irrid nilbes il- karkura l- bluna </s>
+<s> jien irrid nilbes il- papoċċa l- bluna </s>
+<s> jien irrid nilbes il- papoċċ il- blu </s>
+<s> jien irrid nilbes il- flokk il- blu </s>
+<s> jien irrid nilbes il- qmis il- bluna </s>
+<s> jien irrid nilbes il- ġersi l- blu </s>
+<s> jien irrid nilbes il- qalziet il- blu </s>
+<s> jien irrid nilbes il- ġins il- blu </s>
+<s> jien irrid nilbes ix- xorts il- blu </s>
+<s> jien irrid nilbes id- dublett il- blu </s>
+<s> jien irrid nilbes il- libsa l- bluna </s>
+<s> jien irrid nilbes il- ġakketta l- bluna </s>
+<s> jien irrid nilbes il- beritta l- bluna </s>
+<s> jien irrid nilbes il- kappell il- blu </s>
+<s> jien irrid nilbes il- malja l- bluna </s>
+<s> jien irrid nilbes iċ- ċinturin il- blu </s>
+<s> jien irrid nilbes il- fardal il- blu </s>
+<s> jien irrid nilbes l- ingwanti l- bluni </s>
+<s> jien irrid nilbes l- ingwanta l- bluna </s>
+<s> jien irrid nilbes l- ingravata l- bluna </s>
+<s> jien irrid nilbes iċ- ċoff il- blu </s>
+<s> jien irrid nilbes il- kowt il- blu </s>
+<s> jien irrid nilbes ix- xalla l- bluna </s>
+<s> jien irrid nilbes il- piġama l- bluna </s>
+<s> jien irrid nilbes iż- żarbun l- iswed </s>
+<s> jien irrid nilbes iż- żarbuna s- sewda </s>
+<s> jien irrid nilbes il- kalzetti s- suwed </s>
+<s> jien irrid nilbes par kalzetti suwed </s>
+<s> jien irrid nilbes il- kalzetta s- sewda </s>
+<s> jien irrid nilbes is- sandli l- iswed </s>
+<s> jien irrid nilbes is- sandlija s- sewda </s>
+<s> jien irrid nilbes il- buz l- iswed </s>
+<s> jien irrid nilbes il- karkur l- iswed </s>
+<s> jien irrid nilbes il- karkura s- sewda </s>
+<s> jien irrid nilbes il- papoċċa s- sewda </s>
+<s> jien irrid nilbes il- papoċċ l- iswed </s>
+<s> jien irrid nilbes il- flokk l- iswed </s>
+<s> jien irrid nilbes il- qmis is- sewda </s>
+<s> jien irrid nilbes il- ġersi l- iswed </s>
+<s> jien irrid nilbes il- qalziet l- iswed </s>
+<s> jien irrid nilbes il- ġins l- iswed </s>
+<s> jien irrid nilbes ix- xorts l- iswed </s>
+<s> jien irrid nilbes id- dublett l- iswed </s>
+<s> jien irrid nilbes il- libsa s- sewda </s>
+<s> jien irrid nilbes il- ġakketta s- sewda </s>
+<s> jien irrid nilbes il- beritta s- sewda </s>
+<s> jien irrid nilbes il- kappell l- iswed </s>
+<s> jien irrid nilbes il- malja s- sewda </s>
+<s> jien irrid nilbes iċ- ċinturin l- iswed </s>
+<s> jien irrid nilbes il- fardal l- iswed </s>
+<s> jien irrid nilbes l- ingwanti s- suwed </s>
+<s> jien irrid nilbes l- ingwanta s- sewda </s>
+<s> jien irrid nilbes l- ingravata s- sewda </s>
+<s> jien irrid nilbes iċ- ċoff l- iswed </s>
+<s> jien irrid nilbes il- kowt l- iswed </s>
+<s> jien irrid nilbes ix- xalla s- sewda </s>
+<s> jien irrid nilbes il- piġama s- sewda </s>
+<s> jien irrid nilbes il- kalzetti s- sofor </s>
+<s> jien irrid nilbes par kalzetti sofor </s>
+<s> jien irrid nilbes il- kalzetta s- safra </s>
+<s> jien irrid nilbes il- karkur l- isfar </s>
+<s> jien irrid nilbes il- karkura s- safra </s>
+<s> jien irrid nilbes il- papoċċa s- safra </s>
+<s> jien irrid nilbes il- papoċċ l- isfar </s>
+<s> jien irrid nilbes il- flokk l- isfar </s>
+<s> jien irrid nilbes il- qmis is- safra </s>
+<s> jien irrid nilbes il- ġersi l- isfar </s>
+<s> jien irrid nilbes il- qalziet l- isfar </s>
+<s> jien irrid nilbes ix- xorts l- isfar </s>
+<s> jien irrid nilbes id- dublett l- isfar </s>
+<s> jien irrid nilbes il- libsa s- safra </s>
+<s> jien irrid nilbes il- ġakketta s- safra </s>
+<s> jien irrid nilbes il- beritta s- safra </s>
+<s> jien irrid nilbes il- kappell l- isfar </s>
+<s> jien irrid nilbes il- malja s- safra </s>
+<s> jien irrid nilbes il- fardal l- isfar </s>
+<s> jien irrid nilbes l- ingwanti s- sofor </s>
+<s> jien irrid nilbes l- ingwanta s- safra </s>
+<s> jien irrid nilbes l- ingravata s- safra </s>
+<s> jien irrid nilbes iċ- ċoff l- isfar </s>
+<s> jien irrid nilbes il- kowt l- isfar </s>
+<s> jien irrid nilbes ix- xalla s- safra </s>
+<s> jien irrid nilbes il- piġama s- safra </s>
+<s> jien irrid nilbes il- kalzetti l- ħodor </s>
+<s> jien irrid nilbes par kalzetti ħodor </s>
+<s> jien irrid nilbes il- kalzetta l- ħadra </s>
+<s> jien irrid nilbes il- buz l- aħdar </s>
+<s> jien irrid nilbes il- karkur l- aħdar </s>
+<s> jien irrid nilbes il- karkura l- ħadra </s>
+<s> jien irrid nilbes il- papoċċa l- ħadra </s>
+<s> jien irrid nilbes il- papoċċ l- aħdar </s>
+<s> jien irrid nilbes il- flokk l- aħdar </s>
+<s> jien irrid nilbes il- qmis il- ħadra </s>
+<s> jien irrid nilbes il- ġersi l- aħdar </s>
+<s> jien irrid nilbes il- qalziet l- aħdar </s>
+<s> jien irrid nilbes ix- xorts l- aħdar </s>
+<s> jien irrid nilbes id- dublett l- aħdar </s>
+<s> jien irrid nilbes il- libsa l- ħadra </s>
+<s> jien irrid nilbes il- ġakketta l- ħadra </s>
+<s> jien irrid nilbes il- beritta l- ħadra </s>
+<s> jien irrid nilbes il- kappell l- aħdar </s>
+<s> jien irrid nilbes il- malja l- ħadra </s>
+<s> jien irrid nilbes il- fardal l- aħdar </s>
+<s> jien irrid nilbes l- ingwanti l- ħodor </s>
+<s> jien irrid nilbes l- ingwanta l- ħadra </s>
+<s> jien irrid nilbes l- ingravata l- ħadra </s>
+<s> jien irrid nilbes iċ- ċoff l- aħdar </s>
+<s> jien irrid nilbes il- kowt l- ħadra </s>
+<s> jien irrid nilbes ix- xalla l- ħadra </s>
+<s> jien irrid nilbes il- piġama l- ħadra </s>
+<s> jien irrid nilbes il- kalzetti l- ħomor </s>
+<s> jien irrid nilbes par kalzetti ħomor </s>
+<s> jien irrid nilbes il- kalzetta l- ħamra </s>
+<s> jien irrid nilbes il- karkur l- aħmar </s>
+<s> jien irrid nilbes il- karkura l- ħamra </s>
+<s> jien irrid nilbes il- papoċċa l- ħamra </s>
+<s> jien irrid nilbes il- papoċċ l- aħmar </s>
+<s> jien irrid nilbes il- flokk l- aħmar </s>
+<s> jien irrid nilbes il- qmis il- ħamra </s>
+<s> jien irrid nilbes il- ġersi l- aħmar </s>
+<s> jien irrid nilbes il- qalziet l- aħmar </s>
+<s> jien irrid nilbes ix- xorts l- aħmar </s>
+<s> jien irrid nilbes id- dublett l- aħmar </s>
+<s> jien irrid nilbes il- libsa l- ħamra </s>
+<s> jien irrid nilbes il- ġakketta l- ħamra </s>
+<s> jien irrid nilbes il- beritta l- ħamra </s>
+<s> jien irrid nilbes il- kappell l- aħmar </s>
+<s> jien irrid nilbes il- malja l- ħamra </s>
+<s> jien irrid nilbes il- fardal l- aħmar </s>
+<s> jien irrid nilbes l- ingwanti l- ħomor </s>
+<s> jien irrid nilbes l- ingwanta l- ħamra </s>
+<s> jien irrid nilbes l- ingravata l- ħamra </s>
+<s> jien irrid nilbes iċ- ċoff l- aħmar </s>
+<s> jien irrid nilbes il- kowt l- aħmar </s>
+<s> jien irrid nilbes ix- xalla l- ħamra </s>
+<s> jien irrid nilbes il- piġama l- ħamra </s>
+<s> jien irrid nilbes iż- żarbun l- abjad </s>
+<s> jien irrid nilbes iż- żarbuna l- bajda </s>
+<s> jien irrid nilbes il- kalzetti l- bojod </s>
+<s> jien irrid nilbes par kalzetti bojod </s>
+<s> jien irrid nilbes il- kalzetta l- bajda </s>
+<s> jien irrid nilbes is- sandli l- abjad </s>
+<s> jien irrid nilbes is- sandlija l- bajda </s>
+<s> jien irrid nilbes il- buz l- abjad </s>
+<s> jien irrid nilbes il- karkur l- abjad </s>
+<s> jien irrid nilbes il- karkura l- bajda </s>
+<s> jien irrid nilbes il- papoċċa l- bajda </s>
+<s> jien irrid nilbes il- papoċċ l- abjad </s>
+<s> jien irrid nilbes il- flokk l- abjad </s>
+<s> jien irrid nilbes il- qmis il- bajda </s>
+<s> jien irrid nilbes il- ġersi l- abjad </s>
+<s> jien irrid nilbes il- qalziet l- abjad </s>
+<s> jien irrid nilbes ix- xorts l- abjad </s>
+<s> jien irrid nilbes id- dublett l- abjad </s>
+<s> jien irrid nilbes il- libsa l- bajda </s>
+<s> jien irrid nilbes il- ġakketta l- bajda </s>
+<s> jien irrid nilbes il- beritta l- bajda </s>
+<s> jien irrid nilbes il- kappell l- abjad </s>
+<s> jien irrid nilbes il- malja l- bajda </s>
+<s> jien irrid nilbes iċ- ċinturin l- abjad </s>
+<s> jien irrid nilbes il- fardal l- abjad </s>
+<s> jien irrid nilbes l- ingwanti l- bojod </s>
+<s> jien irrid nilbes l- ingwanta l- bajda </s>
+<s> jien irrid nilbes l- ingravata l- bajda </s>
+<s> jien irrid nilbes iċ- ċoff l- abjad </s>
+<s> jien irrid nilbes il- kowt l- abjad </s>
+<s> jien irrid nilbes ix- xalla l- bajda </s>
+<s> jien irrid nilbes il- piġama l- bajda </s>
+<s> jien irrid nilbes il- kalzetti l- vjola </s>
+<s> jien irrid nilbes par kalzetti vjola </s>
+<s> jien irrid nilbes il- kalzetta l- vjola </s>
+<s> jien irrid nilbes il- karkur il- vjola </s>
+<s> jien irrid nilbes il- karkura l- vjola </s>
+<s> jien irrid nilbes il- papoċċa l- vjola </s>
+<s> jien irrid nilbes il- papoċċ il- vjola </s>
+<s> jien irrid nilbes il- flokk il- vjola </s>
+<s> jien irrid nilbes il- qmis il- vjola </s>
+<s> jien irrid nilbes il- ġersi l- vjola </s>
+<s> jien irrid nilbes il- qalziet il- vjola </s>
+<s> jien irrid nilbes ix- xorts il- vjola </s>
+<s> jien irrid nilbes id- dublett il- vjola </s>
+<s> jien irrid nilbes il- libsa l- vjola </s>
+<s> jien irrid nilbes il- ġakketta l- vjola </s>
+<s> jien irrid nilbes il- beritta l- vjola </s>
+<s> jien irrid nilbes il- kappell il- vjola </s>
+<s> jien irrid nilbes il- malja l- vjola </s>
+<s> jien irrid nilbes il- fardal il- vjola </s>
+<s> jien irrid nilbes l- ingwanti l- vjola </s>
+<s> jien irrid nilbes l- ingwanta l- vjola </s>
+<s> jien irrid nilbes l- ingravata l- vjola </s>
+<s> jien irrid nilbes iċ- ċoff il- vjola </s>
+<s> jien irrid nilbes il- kowt il- vjola </s>
+<s> jien irrid nilbes ix- xalla l- vjola </s>
+<s> jien irrid nilbes il- piġama l- vjola </s>
+<s> jien irrid nilbes il- kalzetti r- roża </s>
+<s> jien irrid nilbes par kalzetti roża </s>
+<s> jien irrid nilbes il- kalzetta r- roża </s>
+<s> jien irrid nilbes il- karkur ir- roża </s>
+<s> jien irrid nilbes il- karkura r- roża </s>
+<s> jien irrid nilbes il- papoċċa r- roża </s>
+<s> jien irrid nilbes il- papoċċ ir- roża </s>
+<s> jien irrid nilbes il- flokk ir- roża </s>
+<s> jien irrid nilbes il- qmis ir- roża </s>
+<s> jien irrid nilbes il- ġersi r- roża </s>
+<s> jien irrid nilbes il- qalziet ir- roża </s>
+<s> jien irrid nilbes ix- xorts ir- roża </s>
+<s> jien irrid nilbes id- dublett ir- roża </s>
+<s> jien irrid nilbes il- libsa r- roża </s>
+<s> jien irrid nilbes il- ġakketta r- roża </s>
+<s> jien irrid nilbes il- beritta r- roża </s>
+<s> jien irrid nilbes il- kappell ir- roża </s>
+<s> jien irrid nilbes il- malja r- roża </s>
+<s> jien irrid nilbes il- fardal ir- roża </s>
+<s> jien irrid nilbes l- ingwanti r- roża </s>
+<s> jien irrid nilbes l- ingwanta r- roża </s>
+<s> jien irrid nilbes l- ingravata r- roża </s>
+<s> jien irrid nilbes iċ- ċoff ir- roża </s>
+<s> jien irrid nilbes il- kowt ir- roża </s>
+<s> jien irrid nilbes ix- xalla r- roża </s>
+<s> jien irrid nilbes il- piġama r- roża </s>
+<s> int trid tilbes il- kalzetti l- bluni </s>
+<s> int trid tilbes par kalzetti bluni </s>
+<s> int trid tilbes il- kalzetta l- bluna </s>
+<s> int trid tilbes is- sandli l- blu </s>
+<s> int trid tilbes is- sandlija l- bluna </s>
+<s> int trid tilbes il- buz il- blu </s>
+<s> int trid tilbes il- karkur il- blu </s>
+<s> int trid tilbes il- karkura l- bluna </s>
+<s> int trid tilbes il- papoċċa l- bluna </s>
+<s> int trid tilbes il- papoċċ il- blu </s>
+<s> int trid tilbes il- flokk il- blu </s>
+<s> int trid tilbes il- qmis il- bluna </s>
+<s> int trid tilbes il- ġersi l- blu </s>
+<s> int trid tilbes il- qalziet il- blu </s>
+<s> int trid tilbes il- ġins il- blu </s>
+<s> int trid tilbes ix- xorts il- blu </s>
+<s> int trid tilbes id- dublett il- blu </s>
+<s> int trid tilbes il- libsa l- bluna </s>
+<s> int trid tilbes il- ġakketta l- bluna </s>
+<s> int trid tilbes il- beritta l- bluna </s>
+<s> int trid tilbes il- kappell il- blu </s>
+<s> int trid tilbes il- malja l- bluna </s>
+<s> int trid tilbes iċ- ċinturin il- blu </s>
+<s> int trid tilbes il- fardal il- blu </s>
+<s> int trid tilbes l- ingwanti l- bluni </s>
+<s> int trid tilbes l- ingwanta l- bluna </s>
+<s> int trid tilbes l- ingravata l- bluna </s>
+<s> int trid tilbes iċ- ċoff il- blu </s>
+<s> int trid tilbes il- kowt il- blu </s>
+<s> int trid tilbes ix- xalla l- bluna </s>
+<s> int trid tilbes il- piġama l- bluna </s>
+<s> int trid tilbes iż- żarbun l- iswed </s>
+<s> int trid tilbes iż- żarbuna s- sewda </s>
+<s> int trid tilbes il- kalzetti s- suwed </s>
+<s> int trid tilbes par kalzetti suwed </s>
+<s> int trid tilbes il- kalzetta s- sewda </s>
+<s> int trid tilbes is- sandli l- iswed </s>
+<s> int trid tilbes is- sandlija s- sewda </s>
+<s> int trid tilbes il- buz l- iswed </s>
+<s> int trid tilbes il- karkur l- iswed </s>
+<s> int trid tilbes il- karkura s- sewda </s>
+<s> int trid tilbes il- papoċċa s- sewda </s>
+<s> int trid tilbes il- papoċċ l- iswed </s>
+<s> int trid tilbes il- flokk l- iswed </s>
+<s> int trid tilbes il- qmis is- sewda </s>
+<s> int trid tilbes il- ġersi l- iswed </s>
+<s> int trid tilbes il- qalziet l- iswed </s>
+<s> int trid tilbes il- ġins l- iswed </s>
+<s> int trid tilbes ix- xorts l- iswed </s>
+<s> int trid tilbes id- dublett l- iswed </s>
+<s> int trid tilbes il- libsa s- sewda </s>
+<s> int trid tilbes il- ġakketta s- sewda </s>
+<s> int trid tilbes il- beritta s- sewda </s>
+<s> int trid tilbes il- kappell l- iswed </s>
+<s> int trid tilbes il- malja s- sewda </s>
+<s> int trid tilbes iċ- ċinturin l- iswed </s>
+<s> int trid tilbes il- fardal l- iswed </s>
+<s> int trid tilbes l- ingwanti s- suwed </s>
+<s> int trid tilbes l- ingwanta s- sewda </s>
+<s> int trid tilbes l- ingravata s- sewda </s>
+<s> int trid tilbes iċ- ċoff l- iswed </s>
+<s> int trid tilbes il- kowt l- iswed </s>
+<s> int trid tilbes ix- xalla s- sewda </s>
+<s> int trid tilbes il- piġama s- sewda </s>
+<s> int trid tilbes il- kalzetti s- sofor </s>
+<s> int trid tilbes par kalzetti sofor </s>
+<s> int trid tilbes il- kalzetta s- safra </s>
+<s> int trid tilbes il- karkur l- isfar </s>
+<s> int trid tilbes il- karkura s- safra </s>
+<s> int trid tilbes il- papoċċa s- safra </s>
+<s> int trid tilbes il- papoċċ l- isfar </s>
+<s> int trid tilbes il- flokk l- isfar </s>
+<s> int trid tilbes il- qmis is- safra </s>
+<s> int trid tilbes il- ġersi l- isfar </s>
+<s> int trid tilbes il- qalziet l- isfar </s>
+<s> int trid tilbes ix- xorts l- isfar </s>
+<s> int trid tilbes id- dublett l- isfar </s>
+<s> int trid tilbes il- libsa s- safra </s>
+<s> int trid tilbes il- ġakketta s- safra </s>
+<s> int trid tilbes il- beritta s- safra </s>
+<s> int trid tilbes il- kappell l- isfar </s>
+<s> int trid tilbes il- malja s- safra </s>
+<s> int trid tilbes il- fardal l- isfar </s>
+<s> int trid tilbes l- ingwanti s- sofor </s>
+<s> int trid tilbes l- ingwanta s- safra </s>
+<s> int trid tilbes l- ingravata s- safra </s>
+<s> int trid tilbes iċ- ċoff l- isfar </s>
+<s> int trid tilbes il- kowt l- isfar </s>
+<s> int trid tilbes ix- xalla s- safra </s>
+<s> int trid tilbes il- piġama s- safra </s>
+<s> int trid tilbes il- kalzetti l- ħodor </s>
+<s> int trid tilbes par kalzetti ħodor </s>
+<s> int trid tilbes il- kalzetta l- ħadra </s>
+<s> int trid tilbes il- buz l- aħdar </s>
+<s> int trid tilbes il- karkur l- aħdar </s>
+<s> int trid tilbes il- karkura l- ħadra </s>
+<s> int trid tilbes il- papoċċa l- ħadra </s>
+<s> int trid tilbes il- papoċċ l- aħdar </s>
+<s> int trid tilbes il- flokk l- aħdar </s>
+<s> int trid tilbes il- qmis il- ħadra </s>
+<s> int trid tilbes il- ġersi l- aħdar </s>
+<s> int trid tilbes il- qalziet l- aħdar </s>
+<s> int trid tilbes ix- xorts l- aħdar </s>
+<s> int trid tilbes id- dublett l- aħdar </s>
+<s> int trid tilbes il- libsa l- ħadra </s>
+<s> int trid tilbes il- ġakketta l- ħadra </s>
+<s> int trid tilbes il- beritta l- ħadra </s>
+<s> int trid tilbes il- kappell l- aħdar </s>
+<s> int trid tilbes il- malja l- ħadra </s>
+<s> int trid tilbes il- fardal l- aħdar </s>
+<s> int trid tilbes l- ingwanti l- ħodor </s>
+<s> int trid tilbes l- ingwanta l- ħadra </s>
+<s> int trid tilbes l- ingravata l- ħadra </s>
+<s> int trid tilbes iċ- ċoff l- aħdar </s>
+<s> int trid tilbes il- kowt l- ħadra </s>
+<s> int trid tilbes ix- xalla l- ħadra </s>
+<s> int trid tilbes il- piġama l- ħadra </s>
+<s> int trid tilbes il- kalzetti l- ħomor </s>
+<s> int trid tilbes par kalzetti ħomor </s>
+<s> int trid tilbes il- kalzetta l- ħamra </s>
+<s> int trid tilbes il- karkur l- aħmar </s>
+<s> int trid tilbes il- karkura l- ħamra </s>
+<s> int trid tilbes il- papoċċa l- ħamra </s>
+<s> int trid tilbes il- papoċċ l- aħmar </s>
+<s> int trid tilbes il- flokk l- aħmar </s>
+<s> int trid tilbes il- qmis il- ħamra </s>
+<s> int trid tilbes il- ġersi l- aħmar </s>
+<s> int trid tilbes il- qalziet l- aħmar </s>
+<s> int trid tilbes ix- xorts l- aħmar </s>
+<s> int trid tilbes id- dublett l- aħmar </s>
+<s> int trid tilbes il- libsa l- ħamra </s>
+<s> int trid tilbes il- ġakketta l- ħamra </s>
+<s> int trid tilbes il- beritta l- ħamra </s>
+<s> int trid tilbes il- kappell l- aħmar </s>
+<s> int trid tilbes il- malja l- ħamra </s>
+<s> int trid tilbes il- fardal l- aħmar </s>
+<s> int trid tilbes l- ingwanti l- ħomor </s>
+<s> int trid tilbes l- ingwanta l- ħamra </s>
+<s> int trid tilbes l- ingravata l- ħamra </s>
+<s> int trid tilbes iċ- ċoff l- aħmar </s>
+<s> int trid tilbes il- kowt l- aħmar </s>
+<s> int trid tilbes ix- xalla l- ħamra </s>
+<s> int trid tilbes il- piġama l- ħamra </s>
+<s> int trid tilbes iż- żarbun l- abjad </s>
+<s> int trid tilbes iż- żarbuna l- bajda </s>
+<s> int trid tilbes il- kalzetti l- bojod </s>
+<s> int trid tilbes par kalzetti bojod </s>
+<s> int trid tilbes il- kalzetta l- bajda </s>
+<s> int trid tilbes is- sandli l- abjad </s>
+<s> int trid tilbes is- sandlija l- bajda </s>
+<s> int trid tilbes il- buz l- abjad </s>
+<s> int trid tilbes il- karkur l- abjad </s>
+<s> int trid tilbes il- karkura l- bajda </s>
+<s> int trid tilbes il- papoċċa l- bajda </s>
+<s> int trid tilbes il- papoċċ l- abjad </s>
+<s> int trid tilbes il- flokk l- abjad </s>
+<s> int trid tilbes il- qmis il- bajda </s>
+<s> int trid tilbes il- ġersi l- abjad </s>
+<s> int trid tilbes il- qalziet l- abjad </s>
+<s> int trid tilbes ix- xorts l- abjad </s>
+<s> int trid tilbes id- dublett l- abjad </s>
+<s> int trid tilbes il- libsa l- bajda </s>
+<s> int trid tilbes il- ġakketta l- bajda </s>
+<s> int trid tilbes il- beritta l- bajda </s>
+<s> int trid tilbes il- kappell l- abjad </s>
+<s> int trid tilbes il- malja l- bajda </s>
+<s> int trid tilbes iċ- ċinturin l- abjad </s>
+<s> int trid tilbes il- fardal l- abjad </s>
+<s> int trid tilbes l- ingwanti l- bojod </s>
+<s> int trid tilbes l- ingwanta l- bajda </s>
+<s> int trid tilbes l- ingravata l- bajda </s>
+<s> int trid tilbes iċ- ċoff l- abjad </s>
+<s> int trid tilbes il- kowt l- abjad </s>
+<s> int trid tilbes ix- xalla l- bajda </s>
+<s> int trid tilbes il- piġama l- bajda </s>
+<s> int trid tilbes il- kalzetti l- vjola </s>
+<s> int trid tilbes par kalzetti vjola </s>
+<s> int trid tilbes il- kalzetta l- vjola </s>
+<s> int trid tilbes il- karkur il- vjola </s>
+<s> int trid tilbes il- karkura l- vjola </s>
+<s> int trid tilbes il- papoċċa l- vjola </s>
+<s> int trid tilbes il- papoċċ il- vjola </s>
+<s> int trid tilbes il- flokk il- vjola </s>
+<s> int trid tilbes il- qmis il- vjola </s>
+<s> int trid tilbes il- ġersi l- vjola </s>
+<s> int trid tilbes il- qalziet il- vjola </s>
+<s> int trid tilbes ix- xorts il- vjola </s>
+<s> int trid tilbes id- dublett il- vjola </s>
+<s> int trid tilbes il- libsa l- vjola </s>
+<s> int trid tilbes il- ġakketta l- vjola </s>
+<s> int trid tilbes il- beritta l- vjola </s>
+<s> int trid tilbes il- kappell il- vjola </s>
+<s> int trid tilbes il- malja l- vjola </s>
+<s> int trid tilbes il- fardal il- vjola </s>
+<s> int trid tilbes l- ingwanti l- vjola </s>
+<s> int trid tilbes l- ingwanta l- vjola </s>
+<s> int trid tilbes l- ingravata l- vjola </s>
+<s> int trid tilbes iċ- ċoff il- vjola </s>
+<s> int trid tilbes il- kowt il- vjola </s>
+<s> int trid tilbes ix- xalla l- vjola </s>
+<s> int trid tilbes il- piġama l- vjola </s>
+<s> int trid tilbes il- kalzetti r- roża </s>
+<s> int trid tilbes par kalzetti roża </s>
+<s> int trid tilbes il- kalzetta r- roża </s>
+<s> int trid tilbes il- karkur ir- roża </s>
+<s> int trid tilbes il- karkura r- roża </s>
+<s> int trid tilbes il- papoċċa r- roża </s>
+<s> int trid tilbes il- papoċċ ir- roża </s>
+<s> int trid tilbes il- flokk ir- roża </s>
+<s> int trid tilbes il- qmis ir- roża </s>
+<s> int trid tilbes il- ġersi r- roża </s>
+<s> int trid tilbes il- qalziet ir- roża </s>
+<s> int trid tilbes ix- xorts ir- roża </s>
+<s> int trid tilbes id- dublett ir- roża </s>
+<s> int trid tilbes il- libsa r- roża </s>
+<s> int trid tilbes il- ġakketta r- roża </s>
+<s> int trid tilbes il- beritta r- roża </s>
+<s> int trid tilbes il- kappell ir- roża </s>
+<s> int trid tilbes il- malja r- roża </s>
+<s> int trid tilbes il- fardal ir- roża </s>
+<s> int trid tilbes l- ingwanti r- roża </s>
+<s> int trid tilbes l- ingwanta r- roża </s>
+<s> int trid tilbes l- ingravata r- roża </s>
+<s> int trid tilbes iċ- ċoff ir- roża </s>
+<s> int trid tilbes il- kowt ir- roża </s>
+<s> int trid tilbes ix- xalla r- roża </s>
+<s> int trid tilbes il- piġama r- roża </s>
+<s> hu jrid jilbes il- kalzetti l- bluni </s>
+<s> hu jrid jilbes par kalzetti bluni </s>
+<s> hu jrid jilbes il- kalzetta l- bluna </s>
+<s> hu jrid jilbes is- sandli l- blu </s>
+<s> hu jrid jilbes is- sandlija l- bluna </s>
+<s> hu jrid jilbes il- buz il- blu </s>
+<s> hu jrid jilbes il- karkur il- blu </s>
+<s> hu jrid jilbes il- karkura l- bluna </s>
+<s> hu jrid jilbes il- papoċċa l- bluna </s>
+<s> hu jrid jilbes il- papoċċ il- blu </s>
+<s> hu jrid jilbes il- flokk il- blu </s>
+<s> hu jrid jilbes il- qmis il- bluna </s>
+<s> hu jrid jilbes il- ġersi l- blu </s>
+<s> hu jrid jilbes il- qalziet il- blu </s>
+<s> hu jrid jilbes il- ġins il- blu </s>
+<s> hu jrid jilbes ix- xorts il- blu </s>
+<s> hu jrid jilbes id- dublett il- blu </s>
+<s> hu jrid jilbes il- libsa l- bluna </s>
+<s> hu jrid jilbes il- ġakketta l- bluna </s>
+<s> hu jrid jilbes il- beritta l- bluna </s>
+<s> hu jrid jilbes il- kappell il- blu </s>
+<s> hu jrid jilbes il- malja l- bluna </s>
+<s> hu jrid jilbes iċ- ċinturin il- blu </s>
+<s> hu jrid jilbes il- fardal il- blu </s>
+<s> hu jrid jilbes l- ingwanti l- bluni </s>
+<s> hu jrid jilbes l- ingwanta l- bluna </s>
+<s> hu jrid jilbes l- ingravata l- bluna </s>
+<s> hu jrid jilbes iċ- ċoff il- blu </s>
+<s> hu jrid jilbes il- kowt il- blu </s>
+<s> hu jrid jilbes ix- xalla l- bluna </s>
+<s> hu jrid jilbes il- piġama l- bluna </s>
+<s> hu jrid jilbes iż- żarbun l- iswed </s>
+<s> hu jrid jilbes iż- żarbuna s- sewda </s>
+<s> hu jrid jilbes il- kalzetti s- suwed </s>
+<s> hu jrid jilbes par kalzetti suwed </s>
+<s> hu jrid jilbes il- kalzetta s- sewda </s>
+<s> hu jrid jilbes is- sandli l- iswed </s>
+<s> hu jrid jilbes is- sandlija s- sewda </s>
+<s> hu jrid jilbes il- buz l- iswed </s>
+<s> hu jrid jilbes il- karkur l- iswed </s>
+<s> hu jrid jilbes il- karkura s- sewda </s>
+<s> hu jrid jilbes il- papoċċa s- sewda </s>
+<s> hu jrid jilbes il- papoċċ l- iswed </s>
+<s> hu jrid jilbes il- flokk l- iswed </s>
+<s> hu jrid jilbes il- qmis is- sewda </s>
+<s> hu jrid jilbes il- ġersi l- iswed </s>
+<s> hu jrid jilbes il- qalziet l- iswed </s>
+<s> hu jrid jilbes il- ġins l- iswed </s>
+<s> hu jrid jilbes ix- xorts l- iswed </s>
+<s> hu jrid jilbes id- dublett l- iswed </s>
+<s> hu jrid jilbes il- libsa s- sewda </s>
+<s> hu jrid jilbes il- ġakketta s- sewda </s>
+<s> hu jrid jilbes il- beritta s- sewda </s>
+<s> hu jrid jilbes il- kappell l- iswed </s>
+<s> hu jrid jilbes il- malja s- sewda </s>
+<s> hu jrid jilbes iċ- ċinturin l- iswed </s>
+<s> hu jrid jilbes il- fardal l- iswed </s>
+<s> hu jrid jilbes l- ingwanti s- suwed </s>
+<s> hu jrid jilbes l- ingwanta s- sewda </s>
+<s> hu jrid jilbes l- ingravata s- sewda </s>
+<s> hu jrid jilbes iċ- ċoff l- iswed </s>
+<s> hu jrid jilbes il- kowt l- iswed </s>
+<s> hu jrid jilbes ix- xalla s- sewda </s>
+<s> hu jrid jilbes il- piġama s- sewda </s>
+<s> hu jrid jilbes il- kalzetti s- sofor </s>
+<s> hu jrid jilbes par kalzetti sofor </s>
+<s> hu jrid jilbes il- kalzetta s- safra </s>
+<s> hu jrid jilbes il- karkur l- isfar </s>
+<s> hu jrid jilbes il- karkura s- safra </s>
+<s> hu jrid jilbes il- papoċċa s- safra </s>
+<s> hu jrid jilbes il- papoċċ l- isfar </s>
+<s> hu jrid jilbes il- flokk l- isfar </s>
+<s> hu jrid jilbes il- qmis is- safra </s>
+<s> hu jrid jilbes il- ġersi l- isfar </s>
+<s> hu jrid jilbes il- qalziet l- isfar </s>
+<s> hu jrid jilbes ix- xorts l- isfar </s>
+<s> hu jrid jilbes id- dublett l- isfar </s>
+<s> hu jrid jilbes il- libsa s- safra </s>
+<s> hu jrid jilbes il- ġakketta s- safra </s>
+<s> hu jrid jilbes il- beritta s- safra </s>
+<s> hu jrid jilbes il- kappell l- isfar </s>
+<s> hu jrid jilbes il- malja s- safra </s>
+<s> hu jrid jilbes il- fardal l- isfar </s>
+<s> hu jrid jilbes l- ingwanti s- sofor </s>
+<s> hu jrid jilbes l- ingwanta s- safra </s>
+<s> hu jrid jilbes l- ingravata s- safra </s>
+<s> hu jrid jilbes iċ- ċoff l- isfar </s>
+<s> hu jrid jilbes il- kowt l- isfar </s>
+<s> hu jrid jilbes ix- xalla s- safra </s>
+<s> hu jrid jilbes il- piġama s- safra </s>
+<s> hu jrid jilbes il- kalzetti l- ħodor </s>
+<s> hu jrid jilbes par kalzetti ħodor </s>
+<s> hu jrid jilbes il- kalzetta l- ħadra </s>
+<s> hu jrid jilbes il- buz l- aħdar </s>
+<s> hu jrid jilbes il- karkur l- aħdar </s>
+<s> hu jrid jilbes il- karkura l- ħadra </s>
+<s> hu jrid jilbes il- papoċċa l- ħadra </s>
+<s> hu jrid jilbes il- papoċċ l- aħdar </s>
+<s> hu jrid jilbes il- flokk l- aħdar </s>
+<s> hu jrid jilbes il- qmis il- ħadra </s>
+<s> hu jrid jilbes il- ġersi l- aħdar </s>
+<s> hu jrid jilbes il- qalziet l- aħdar </s>
+<s> hu jrid jilbes ix- xorts l- aħdar </s>
+<s> hu jrid jilbes id- dublett l- aħdar </s>
+<s> hu jrid jilbes il- libsa l- ħadra </s>
+<s> hu jrid jilbes il- ġakketta l- ħadra </s>
+<s> hu jrid jilbes il- beritta l- ħadra </s>
+<s> hu jrid jilbes il- kappell l- aħdar </s>
+<s> hu jrid jilbes il- malja l- ħadra </s>
+<s> hu jrid jilbes il- fardal l- aħdar </s>
+<s> hu jrid jilbes l- ingwanti l- ħodor </s>
+<s> hu jrid jilbes l- ingwanta l- ħadra </s>
+<s> hu jrid jilbes l- ingravata l- ħadra </s>
+<s> hu jrid jilbes iċ- ċoff l- aħdar </s>
+<s> hu jrid jilbes il- kowt l- ħadra </s>
+<s> hu jrid jilbes ix- xalla l- ħadra </s>
+<s> hu jrid jilbes il- piġama l- ħadra </s>
+<s> hu jrid jilbes il- kalzetti l- ħomor </s>
+<s> hu jrid jilbes par kalzetti ħomor </s>
+<s> hu jrid jilbes il- kalzetta l- ħamra </s>
+<s> hu jrid jilbes il- karkur l- aħmar </s>
+<s> hu jrid jilbes il- karkura l- ħamra </s>
+<s> hu jrid jilbes il- papoċċa l- ħamra </s>
+<s> hu jrid jilbes il- papoċċ l- aħmar </s>
+<s> hu jrid jilbes il- flokk l- aħmar </s>
+<s> hu jrid jilbes il- qmis il- ħamra </s>
+<s> hu jrid jilbes il- ġersi l- aħmar </s>
+<s> hu jrid jilbes il- qalziet l- aħmar </s>
+<s> hu jrid jilbes ix- xorts l- aħmar </s>
+<s> hu jrid jilbes id- dublett l- aħmar </s>
+<s> hu jrid jilbes il- libsa l- ħamra </s>
+<s> hu jrid jilbes il- ġakketta l- ħamra </s>
+<s> hu jrid jilbes il- beritta l- ħamra </s>
+<s> hu jrid jilbes il- kappell l- aħmar </s>
+<s> hu jrid jilbes il- malja l- ħamra </s>
+<s> hu jrid jilbes il- fardal l- aħmar </s>
+<s> hu jrid jilbes l- ingwanti l- ħomor </s>
+<s> hu jrid jilbes l- ingwanta l- ħamra </s>
+<s> hu jrid jilbes l- ingravata l- ħamra </s>
+<s> hu jrid jilbes iċ- ċoff l- aħmar </s>
+<s> hu jrid jilbes il- kowt l- aħmar </s>
+<s> hu jrid jilbes ix- xalla l- ħamra </s>
+<s> hu jrid jilbes il- piġama l- ħamra </s>
+<s> hu jrid jilbes iż- żarbun l- abjad </s>
+<s> hu jrid jilbes iż- żarbuna l- bajda </s>
+<s> hu jrid jilbes il- kalzetti l- bojod </s>
+<s> hu jrid jilbes par kalzetti bojod </s>
+<s> hu jrid jilbes il- kalzetta l- bajda </s>
+<s> hu jrid jilbes is- sandli l- abjad </s>
+<s> hu jrid jilbes is- sandlija l- bajda </s>
+<s> hu jrid jilbes il- buz l- abjad </s>
+<s> hu jrid jilbes il- karkur l- abjad </s>
+<s> hu jrid jilbes il- karkura l- bajda </s>
+<s> hu jrid jilbes il- papoċċa l- bajda </s>
+<s> hu jrid jilbes il- papoċċ l- abjad </s>
+<s> hu jrid jilbes il- flokk l- abjad </s>
+<s> hu jrid jilbes il- qmis il- bajda </s>
+<s> hu jrid jilbes il- ġersi l- abjad </s>
+<s> hu jrid jilbes il- qalziet l- abjad </s>
+<s> hu jrid jilbes ix- xorts l- abjad </s>
+<s> hu jrid jilbes id- dublett l- abjad </s>
+<s> hu jrid jilbes il- libsa l- bajda </s>
+<s> hu jrid jilbes il- ġakketta l- bajda </s>
+<s> hu jrid jilbes il- beritta l- bajda </s>
+<s> hu jrid jilbes il- kappell l- abjad </s>
+<s> hu jrid jilbes il- malja l- bajda </s>
+<s> hu jrid jilbes iċ- ċinturin l- abjad </s>
+<s> hu jrid jilbes il- fardal l- abjad </s>
+<s> hu jrid jilbes l- ingwanti l- bojod </s>
+<s> hu jrid jilbes l- ingwanta l- bajda </s>
+<s> hu jrid jilbes l- ingravata l- bajda </s>
+<s> hu jrid jilbes iċ- ċoff l- abjad </s>
+<s> hu jrid jilbes il- kowt l- abjad </s>
+<s> hu jrid jilbes ix- xalla l- bajda </s>
+<s> hu jrid jilbes il- piġama l- bajda </s>
+<s> hu jrid jilbes il- kalzetti l- vjola </s>
+<s> hu jrid jilbes par kalzetti vjola </s>
+<s> hu jrid jilbes il- kalzetta l- vjola </s>
+<s> hu jrid jilbes il- karkur il- vjola </s>
+<s> hu jrid jilbes il- karkura l- vjola </s>
+<s> hu jrid jilbes il- papoċċa l- vjola </s>
+<s> hu jrid jilbes il- papoċċ il- vjola </s>
+<s> hu jrid jilbes il- flokk il- vjola </s>
+<s> hu jrid jilbes il- qmis il- vjola </s>
+<s> hu jrid jilbes il- ġersi l- vjola </s>
+<s> hu jrid jilbes il- qalziet il- vjola </s>
+<s> hu jrid jilbes ix- xorts il- vjola </s>
+<s> hu jrid jilbes id- dublett il- vjola </s>
+<s> hu jrid jilbes il- libsa l- vjola </s>
+<s> hu jrid jilbes il- ġakketta l- vjola </s>
+<s> hu jrid jilbes il- beritta l- vjola </s>
+<s> hu jrid jilbes il- kappell il- vjola </s>
+<s> hu jrid jilbes il- malja l- vjola </s>
+<s> hu jrid jilbes il- fardal il- vjola </s>
+<s> hu jrid jilbes l- ingwanti l- vjola </s>
+<s> hu jrid jilbes l- ingwanta l- vjola </s>
+<s> hu jrid jilbes l- ingravata l- vjola </s>
+<s> hu jrid jilbes iċ- ċoff il- vjola </s>
+<s> hu jrid jilbes il- kowt il- vjola </s>
+<s> hu jrid jilbes ix- xalla l- vjola </s>
+<s> hu jrid jilbes il- piġama l- vjola </s>
+<s> hu jrid jilbes il- kalzetti r- roża </s>
+<s> hu jrid jilbes par kalzetti roża </s>
+<s> hu jrid jilbes il- kalzetta r- roża </s>
+<s> hu jrid jilbes il- karkur ir- roża </s>
+<s> hu jrid jilbes il- karkura r- roża </s>
+<s> hu jrid jilbes il- papoċċa r- roża </s>
+<s> hu jrid jilbes il- papoċċ ir- roża </s>
+<s> hu jrid jilbes il- flokk ir- roża </s>
+<s> hu jrid jilbes il- qmis ir- roża </s>
+<s> hu jrid jilbes il- ġersi r- roża </s>
+<s> hu jrid jilbes il- qalziet ir- roża </s>
+<s> hu jrid jilbes ix- xorts ir- roża </s>
+<s> hu jrid jilbes id- dublett ir- roża </s>
+<s> hu jrid jilbes il- libsa r- roża </s>
+<s> hu jrid jilbes il- ġakketta r- roża </s>
+<s> hu jrid jilbes il- beritta r- roża </s>
+<s> hu jrid jilbes il- kappell ir- roża </s>
+<s> hu jrid jilbes il- malja r- roża </s>
+<s> hu jrid jilbes il- fardal ir- roża </s>
+<s> hu jrid jilbes l- ingwanti r- roża </s>
+<s> hu jrid jilbes l- ingwanta r- roża </s>
+<s> hu jrid jilbes l- ingravata r- roża </s>
+<s> hu jrid jilbes iċ- ċoff ir- roża </s>
+<s> hu jrid jilbes il- kowt ir- roża </s>
+<s> hu jrid jilbes ix- xalla r- roża </s>
+<s> hu jrid jilbes il- piġama r- roża </s>
+<s> hi trid tilbes il- kalzetti l- bluni </s>
+<s> hi trid tilbes par kalzetti bluni </s>
+<s> hi trid tilbes il- kalzetta l- bluna </s>
+<s> hi trid tilbes is- sandli l- blu </s>
+<s> hi trid tilbes is- sandlija l- bluna </s>
+<s> hi trid tilbes il- buz il- blu </s>
+<s> hi trid tilbes il- karkur il- blu </s>
+<s> hi trid tilbes il- karkura l- bluna </s>
+<s> hi trid tilbes il- papoċċa l- bluna </s>
+<s> hi trid tilbes il- papoċċ il- blu </s>
+<s> hi trid tilbes il- flokk il- blu </s>
+<s> hi trid tilbes il- qmis il- bluna </s>
+<s> hi trid tilbes il- ġersi l- blu </s>
+<s> hi trid tilbes il- qalziet il- blu </s>
+<s> hi trid tilbes il- ġins il- blu </s>
+<s> hi trid tilbes ix- xorts il- blu </s>
+<s> hi trid tilbes id- dublett il- blu </s>
+<s> hi trid tilbes il- libsa l- bluna </s>
+<s> hi trid tilbes il- ġakketta l- bluna </s>
+<s> hi trid tilbes il- beritta l- bluna </s>
+<s> hi trid tilbes il- kappell il- blu </s>
+<s> hi trid tilbes il- malja l- bluna </s>
+<s> hi trid tilbes iċ- ċinturin il- blu </s>
+<s> hi trid tilbes il- fardal il- blu </s>
+<s> hi trid tilbes l- ingwanti l- bluni </s>
+<s> hi trid tilbes l- ingwanta l- bluna </s>
+<s> hi trid tilbes l- ingravata l- bluna </s>
+<s> hi trid tilbes iċ- ċoff il- blu </s>
+<s> hi trid tilbes il- kowt il- blu </s>
+<s> hi trid tilbes ix- xalla l- bluna </s>
+<s> hi trid tilbes il- piġama l- bluna </s>
+<s> hi trid tilbes iż- żarbun l- iswed </s>
+<s> hi trid tilbes iż- żarbuna s- sewda </s>
+<s> hi trid tilbes il- kalzetti s- suwed </s>
+<s> hi trid tilbes par kalzetti suwed </s>
+<s> hi trid tilbes il- kalzetta s- sewda </s>
+<s> hi trid tilbes is- sandli l- iswed </s>
+<s> hi trid tilbes is- sandlija s- sewda </s>
+<s> hi trid tilbes il- buz l- iswed </s>
+<s> hi trid tilbes il- karkur l- iswed </s>
+<s> hi trid tilbes il- karkura s- sewda </s>
+<s> hi trid tilbes il- papoċċa s- sewda </s>
+<s> hi trid tilbes il- papoċċ l- iswed </s>
+<s> hi trid tilbes il- flokk l- iswed </s>
+<s> hi trid tilbes il- qmis is- sewda </s>
+<s> hi trid tilbes il- ġersi l- iswed </s>
+<s> hi trid tilbes il- qalziet l- iswed </s>
+<s> hi trid tilbes il- ġins l- iswed </s>
+<s> hi trid tilbes ix- xorts l- iswed </s>
+<s> hi trid tilbes id- dublett l- iswed </s>
+<s> hi trid tilbes il- libsa s- sewda </s>
+<s> hi trid tilbes il- ġakketta s- sewda </s>
+<s> hi trid tilbes il- beritta s- sewda </s>
+<s> hi trid tilbes il- kappell l- iswed </s>
+<s> hi trid tilbes il- malja s- sewda </s>
+<s> hi trid tilbes iċ- ċinturin l- iswed </s>
+<s> hi trid tilbes il- fardal l- iswed </s>
+<s> hi trid tilbes l- ingwanti s- suwed </s>
+<s> hi trid tilbes l- ingwanta s- sewda </s>
+<s> hi trid tilbes l- ingravata s- sewda </s>
+<s> hi trid tilbes iċ- ċoff l- iswed </s>
+<s> hi trid tilbes il- kowt l- iswed </s>
+<s> hi trid tilbes ix- xalla s- sewda </s>
+<s> hi trid tilbes il- piġama s- sewda </s>
+<s> hi trid tilbes il- kalzetti s- sofor </s>
+<s> hi trid tilbes par kalzetti sofor </s>
+<s> hi trid tilbes il- kalzetta s- safra </s>
+<s> hi trid tilbes il- karkur l- isfar </s>
+<s> hi trid tilbes il- karkura s- safra </s>
+<s> hi trid tilbes il- papoċċa s- safra </s>
+<s> hi trid tilbes il- papoċċ l- isfar </s>
+<s> hi trid tilbes il- flokk l- isfar </s>
+<s> hi trid tilbes il- qmis is- safra </s>
+<s> hi trid tilbes il- ġersi l- isfar </s>
+<s> hi trid tilbes il- qalziet l- isfar </s>
+<s> hi trid tilbes ix- xorts l- isfar </s>
+<s> hi trid tilbes id- dublett l- isfar </s>
+<s> hi trid tilbes il- libsa s- safra </s>
+<s> hi trid tilbes il- ġakketta s- safra </s>
+<s> hi trid tilbes il- beritta s- safra </s>
+<s> hi trid tilbes il- kappell l- isfar </s>
+<s> hi trid tilbes il- malja s- safra </s>
+<s> hi trid tilbes il- fardal l- isfar </s>
+<s> hi trid tilbes l- ingwanti s- sofor </s>
+<s> hi trid tilbes l- ingwanta s- safra </s>
+<s> hi trid tilbes l- ingravata s- safra </s>
+<s> hi trid tilbes iċ- ċoff l- isfar </s>
+<s> hi trid tilbes il- kowt l- isfar </s>
+<s> hi trid tilbes ix- xalla s- safra </s>
+<s> hi trid tilbes il- piġama s- safra </s>
+<s> hi trid tilbes il- kalzetti l- ħodor </s>
+<s> hi trid tilbes par kalzetti ħodor </s>
+<s> hi trid tilbes il- kalzetta l- ħadra </s>
+<s> hi trid tilbes il- buz l- aħdar </s>
+<s> hi trid tilbes il- karkur l- aħdar </s>
+<s> hi trid tilbes il- karkura l- ħadra </s>
+<s> hi trid tilbes il- papoċċa l- ħadra </s>
+<s> hi trid tilbes il- papoċċ l- aħdar </s>
+<s> hi trid tilbes il- flokk l- aħdar </s>
+<s> hi trid tilbes il- qmis il- ħadra </s>
+<s> hi trid tilbes il- ġersi l- aħdar </s>
+<s> hi trid tilbes il- qalziet l- aħdar </s>
+<s> hi trid tilbes ix- xorts l- aħdar </s>
+<s> hi trid tilbes id- dublett l- aħdar </s>
+<s> hi trid tilbes il- libsa l- ħadra </s>
+<s> hi trid tilbes il- ġakketta l- ħadra </s>
+<s> hi trid tilbes il- beritta l- ħadra </s>
+<s> hi trid tilbes il- kappell l- aħdar </s>
+<s> hi trid tilbes il- malja l- ħadra </s>
+<s> hi trid tilbes il- fardal l- aħdar </s>
+<s> hi trid tilbes l- ingwanti l- ħodor </s>
+<s> hi trid tilbes l- ingwanta l- ħadra </s>
+<s> hi trid tilbes l- ingravata l- ħadra </s>
+<s> hi trid tilbes iċ- ċoff l- aħdar </s>
+<s> hi trid tilbes il- kowt l- ħadra </s>
+<s> hi trid tilbes ix- xalla l- ħadra </s>
+<s> hi trid tilbes il- piġama l- ħadra </s>
+<s> hi trid tilbes il- kalzetti l- ħomor </s>
+<s> hi trid tilbes par kalzetti ħomor </s>
+<s> hi trid tilbes il- kalzetta l- ħamra </s>
+<s> hi trid tilbes il- karkur l- aħmar </s>
+<s> hi trid tilbes il- karkura l- ħamra </s>
+<s> hi trid tilbes il- papoċċa l- ħamra </s>
+<s> hi trid tilbes il- papoċċ l- aħmar </s>
+<s> hi trid tilbes il- flokk l- aħmar </s>
+<s> hi trid tilbes il- qmis il- ħamra </s>
+<s> hi trid tilbes il- ġersi l- aħmar </s>
+<s> hi trid tilbes il- qalziet l- aħmar </s>
+<s> hi trid tilbes ix- xorts l- aħmar </s>
+<s> hi trid tilbes id- dublett l- aħmar </s>
+<s> hi trid tilbes il- libsa l- ħamra </s>
+<s> hi trid tilbes il- ġakketta l- ħamra </s>
+<s> hi trid tilbes il- beritta l- ħamra </s>
+<s> hi trid tilbes il- kappell l- aħmar </s>
+<s> hi trid tilbes il- malja l- ħamra </s>
+<s> hi trid tilbes il- fardal l- aħmar </s>
+<s> hi trid tilbes l- ingwanti l- ħomor </s>
+<s> hi trid tilbes l- ingwanta l- ħamra </s>
+<s> hi trid tilbes l- ingravata l- ħamra </s>
+<s> hi trid tilbes iċ- ċoff l- aħmar </s>
+<s> hi trid tilbes il- kowt l- aħmar </s>
+<s> hi trid tilbes ix- xalla l- ħamra </s>
+<s> hi trid tilbes il- piġama l- ħamra </s>
+<s> hi trid tilbes iż- żarbun l- abjad </s>
+<s> hi trid tilbes iż- żarbuna l- bajda </s>
+<s> hi trid tilbes il- kalzetti l- bojod </s>
+<s> hi trid tilbes par kalzetti bojod </s>
+<s> hi trid tilbes il- kalzetta l- bajda </s>
+<s> hi trid tilbes is- sandli l- abjad </s>
+<s> hi trid tilbes is- sandlija l- bajda </s>
+<s> hi trid tilbes il- buz l- abjad </s>
+<s> hi trid tilbes il- karkur l- abjad </s>
+<s> hi trid tilbes il- karkura l- bajda </s>
+<s> hi trid tilbes il- papoċċa l- bajda </s>
+<s> hi trid tilbes il- papoċċ l- abjad </s>
+<s> hi trid tilbes il- flokk l- abjad </s>
+<s> hi trid tilbes il- qmis il- bajda </s>
+<s> hi trid tilbes il- ġersi l- abjad </s>
+<s> hi trid tilbes il- qalziet l- abjad </s>
+<s> hi trid tilbes ix- xorts l- abjad </s>
+<s> hi trid tilbes id- dublett l- abjad </s>
+<s> hi trid tilbes il- libsa l- bajda </s>
+<s> hi trid tilbes il- ġakketta l- bajda </s>
+<s> hi trid tilbes il- beritta l- bajda </s>
+<s> hi trid tilbes il- kappell l- abjad </s>
+<s> hi trid tilbes il- malja l- bajda </s>
+<s> hi trid tilbes iċ- ċinturin l- abjad </s>
+<s> hi trid tilbes il- fardal l- abjad </s>
+<s> hi trid tilbes l- ingwanti l- bojod </s>
+<s> hi trid tilbes l- ingwanta l- bajda </s>
+<s> hi trid tilbes l- ingravata l- bajda </s>
+<s> hi trid tilbes iċ- ċoff l- abjad </s>
+<s> hi trid tilbes il- kowt l- abjad </s>
+<s> hi trid tilbes ix- xalla l- bajda </s>
+<s> hi trid tilbes il- piġama l- bajda </s>
+<s> hi trid tilbes il- kalzetti l- vjola </s>
+<s> hi trid tilbes par kalzetti vjola </s>
+<s> hi trid tilbes il- kalzetta l- vjola </s>
+<s> hi trid tilbes il- karkur il- vjola </s>
+<s> hi trid tilbes il- karkura l- vjola </s>
+<s> hi trid tilbes il- papoċċa l- vjola </s>
+<s> hi trid tilbes il- papoċċ il- vjola </s>
+<s> hi trid tilbes il- flokk il- vjola </s>
+<s> hi trid tilbes il- qmis il- vjola </s>
+<s> hi trid tilbes il- ġersi l- vjola </s>
+<s> hi trid tilbes il- qalziet il- vjola </s>
+<s> hi trid tilbes ix- xorts il- vjola </s>
+<s> hi trid tilbes id- dublett il- vjola </s>
+<s> hi trid tilbes il- libsa l- vjola </s>
+<s> hi trid tilbes il- ġakketta l- vjola </s>
+<s> hi trid tilbes il- beritta l- vjola </s>
+<s> hi trid tilbes il- kappell il- vjola </s>
+<s> hi trid tilbes il- malja l- vjola </s>
+<s> hi trid tilbes il- fardal il- vjola </s>
+<s> hi trid tilbes l- ingwanti l- vjola </s>
+<s> hi trid tilbes l- ingwanta l- vjola </s>
+<s> hi trid tilbes l- ingravata l- vjola </s>
+<s> hi trid tilbes iċ- ċoff il- vjola </s>
+<s> hi trid tilbes il- kowt il- vjola </s>
+<s> hi trid tilbes ix- xalla l- vjola </s>
+<s> hi trid tilbes il- piġama l- vjola </s>
+<s> hi trid tilbes il- kalzetti r- roża </s>
+<s> hi trid tilbes par kalzetti roża </s>
+<s> hi trid tilbes il- kalzetta r- roża </s>
+<s> hi trid tilbes il- karkur ir- roża </s>
+<s> hi trid tilbes il- karkura r- roża </s>
+<s> hi trid tilbes il- papoċċa r- roża </s>
+<s> hi trid tilbes il- papoċċ ir- roża </s>
+<s> hi trid tilbes il- flokk ir- roża </s>
+<s> hi trid tilbes il- qmis ir- roża </s>
+<s> hi trid tilbes il- ġersi r- roża </s>
+<s> hi trid tilbes il- qalziet ir- roża </s>
+<s> hi trid tilbes ix- xorts ir- roża </s>
+<s> hi trid tilbes id- dublett ir- roża </s>
+<s> hi trid tilbes il- libsa r- roża </s>
+<s> hi trid tilbes il- ġakketta r- roża </s>
+<s> hi trid tilbes il- beritta r- roża </s>
+<s> hi trid tilbes il- kappell ir- roża </s>
+<s> hi trid tilbes il- malja r- roża </s>
+<s> hi trid tilbes il- fardal ir- roża </s>
+<s> hi trid tilbes l- ingwanti r- roża </s>
+<s> hi trid tilbes l- ingwanta r- roża </s>
+<s> hi trid tilbes l- ingravata r- roża </s>
+<s> hi trid tilbes iċ- ċoff ir- roża </s>
+<s> hi trid tilbes il- kowt ir- roża </s>
+<s> hi trid tilbes ix- xalla r- roża </s>
+<s> hi trid tilbes il- piġama r- roża </s>
+<s> aħna rridu nilbsu il- kalzetti l- bluni </s>
+<s> aħna rridu nilbsu par kalzetti bluni </s>
+<s> aħna rridu nilbsu il- kalzetta l- bluna </s>
+<s> aħna rridu nilbsu is- sandli l- blu </s>
+<s> aħna rridu nilbsu is- sandlija l- bluna </s>
+<s> aħna rridu nilbsu il- buz il- blu </s>
+<s> aħna rridu nilbsu il- karkur il- blu </s>
+<s> aħna rridu nilbsu il- karkura l- bluna </s>
+<s> aħna rridu nilbsu il- papoċċa l- bluna </s>
+<s> aħna rridu nilbsu il- papoċċ il- blu </s>
+<s> aħna rridu nilbsu il- flokk il- blu </s>
+<s> aħna rridu nilbsu il- qmis il- bluna </s>
+<s> aħna rridu nilbsu il- ġersi l- blu </s>
+<s> aħna rridu nilbsu il- qalziet il- blu </s>
+<s> aħna rridu nilbsu il- ġins il- blu </s>
+<s> aħna rridu nilbsu ix- xorts il- blu </s>
+<s> aħna rridu nilbsu id- dublett il- blu </s>
+<s> aħna rridu nilbsu il- libsa l- bluna </s>
+<s> aħna rridu nilbsu il- ġakketta l- bluna </s>
+<s> aħna rridu nilbsu il- beritta l- bluna </s>
+<s> aħna rridu nilbsu il- kappell il- blu </s>
+<s> aħna rridu nilbsu il- malja l- bluna </s>
+<s> aħna rridu nilbsu iċ- ċinturin il- blu </s>
+<s> aħna rridu nilbsu il- fardal il- blu </s>
+<s> aħna rridu nilbsu l- ingwanti l- bluni </s>
+<s> aħna rridu nilbsu l- ingwanta l- bluna </s>
+<s> aħna rridu nilbsu l- ingravata l- bluna </s>
+<s> aħna rridu nilbsu iċ- ċoff il- blu </s>
+<s> aħna rridu nilbsu il- kowt il- blu </s>
+<s> aħna rridu nilbsu ix- xalla l- bluna </s>
+<s> aħna rridu nilbsu il- piġama l- bluna </s>
+<s> aħna rridu nilbsu iż- żarbun l- iswed </s>
+<s> aħna rridu nilbsu iż- żarbuna s- sewda </s>
+<s> aħna rridu nilbsu il- kalzetti s- suwed </s>
+<s> aħna rridu nilbsu par kalzetti suwed </s>
+<s> aħna rridu nilbsu il- kalzetta s- sewda </s>
+<s> aħna rridu nilbsu is- sandli l- iswed </s>
+<s> aħna rridu nilbsu is- sandlija s- sewda </s>
+<s> aħna rridu nilbsu il- buz l- iswed </s>
+<s> aħna rridu nilbsu il- karkur l- iswed </s>
+<s> aħna rridu nilbsu il- karkura s- sewda </s>
+<s> aħna rridu nilbsu il- papoċċa s- sewda </s>
+<s> aħna rridu nilbsu il- papoċċ l- iswed </s>
+<s> aħna rridu nilbsu il- flokk l- iswed </s>
+<s> aħna rridu nilbsu il- qmis is- sewda </s>
+<s> aħna rridu nilbsu il- ġersi l- iswed </s>
+<s> aħna rridu nilbsu il- qalziet l- iswed </s>
+<s> aħna rridu nilbsu il- ġins l- iswed </s>
+<s> aħna rridu nilbsu ix- xorts l- iswed </s>
+<s> aħna rridu nilbsu id- dublett l- iswed </s>
+<s> aħna rridu nilbsu il- libsa s- sewda </s>
+<s> aħna rridu nilbsu il- ġakketta s- sewda </s>
+<s> aħna rridu nilbsu il- beritta s- sewda </s>
+<s> aħna rridu nilbsu il- kappell l- iswed </s>
+<s> aħna rridu nilbsu il- malja s- sewda </s>
+<s> aħna rridu nilbsu iċ- ċinturin l- iswed </s>
+<s> aħna rridu nilbsu il- fardal l- iswed </s>
+<s> aħna rridu nilbsu l- ingwanti s- suwed </s>
+<s> aħna rridu nilbsu l- ingwanta s- sewda </s>
+<s> aħna rridu nilbsu l- ingravata s- sewda </s>
+<s> aħna rridu nilbsu iċ- ċoff l- iswed </s>
+<s> aħna rridu nilbsu il- kowt l- iswed </s>
+<s> aħna rridu nilbsu ix- xalla s- sewda </s>
+<s> aħna rridu nilbsu il- piġama s- sewda </s>
+<s> aħna rridu nilbsu il- kalzetti s- sofor </s>
+<s> aħna rridu nilbsu par kalzetti sofor </s>
+<s> aħna rridu nilbsu il- kalzetta s- safra </s>
+<s> aħna rridu nilbsu il- karkur l- isfar </s>
+<s> aħna rridu nilbsu il- karkura s- safra </s>
+<s> aħna rridu nilbsu il- papoċċa s- safra </s>
+<s> aħna rridu nilbsu il- papoċċ l- isfar </s>
+<s> aħna rridu nilbsu il- flokk l- isfar </s>
+<s> aħna rridu nilbsu il- qmis is- safra </s>
+<s> aħna rridu nilbsu il- ġersi l- isfar </s>
+<s> aħna rridu nilbsu il- qalziet l- isfar </s>
+<s> aħna rridu nilbsu ix- xorts l- isfar </s>
+<s> aħna rridu nilbsu id- dublett l- isfar </s>
+<s> aħna rridu nilbsu il- libsa s- safra </s>
+<s> aħna rridu nilbsu il- ġakketta s- safra </s>
+<s> aħna rridu nilbsu il- beritta s- safra </s>
+<s> aħna rridu nilbsu il- kappell l- isfar </s>
+<s> aħna rridu nilbsu il- malja s- safra </s>
+<s> aħna rridu nilbsu il- fardal l- isfar </s>
+<s> aħna rridu nilbsu l- ingwanti s- sofor </s>
+<s> aħna rridu nilbsu l- ingwanta s- safra </s>
+<s> aħna rridu nilbsu l- ingravata s- safra </s>
+<s> aħna rridu nilbsu iċ- ċoff l- isfar </s>
+<s> aħna rridu nilbsu il- kowt l- isfar </s>
+<s> aħna rridu nilbsu ix- xalla s- safra </s>
+<s> aħna rridu nilbsu il- piġama s- safra </s>
+<s> aħna rridu nilbsu il- kalzetti l- ħodor </s>
+<s> aħna rridu nilbsu par kalzetti ħodor </s>
+<s> aħna rridu nilbsu il- kalzetta l- ħadra </s>
+<s> aħna rridu nilbsu il- buz l- aħdar </s>
+<s> aħna rridu nilbsu il- karkur l- aħdar </s>
+<s> aħna rridu nilbsu il- karkura l- ħadra </s>
+<s> aħna rridu nilbsu il- papoċċa l- ħadra </s>
+<s> aħna rridu nilbsu il- papoċċ l- aħdar </s>
+<s> aħna rridu nilbsu il- flokk l- aħdar </s>
+<s> aħna rridu nilbsu il- qmis il- ħadra </s>
+<s> aħna rridu nilbsu il- ġersi l- aħdar </s>
+<s> aħna rridu nilbsu il- qalziet l- aħdar </s>
+<s> aħna rridu nilbsu ix- xorts l- aħdar </s>
+<s> aħna rridu nilbsu id- dublett l- aħdar </s>
+<s> aħna rridu nilbsu il- libsa l- ħadra </s>
+<s> aħna rridu nilbsu il- ġakketta l- ħadra </s>
+<s> aħna rridu nilbsu il- beritta l- ħadra </s>
+<s> aħna rridu nilbsu il- kappell l- aħdar </s>
+<s> aħna rridu nilbsu il- malja l- ħadra </s>
+<s> aħna rridu nilbsu il- fardal l- aħdar </s>
+<s> aħna rridu nilbsu l- ingwanti l- ħodor </s>
+<s> aħna rridu nilbsu l- ingwanta l- ħadra </s>
+<s> aħna rridu nilbsu l- ingravata l- ħadra </s>
+<s> aħna rridu nilbsu iċ- ċoff l- aħdar </s>
+<s> aħna rridu nilbsu il- kowt l- ħadra </s>
+<s> aħna rridu nilbsu ix- xalla l- ħadra </s>
+<s> aħna rridu nilbsu il- piġama l- ħadra </s>
+<s> aħna rridu nilbsu il- kalzetti l- ħomor </s>
+<s> aħna rridu nilbsu par kalzetti ħomor </s>
+<s> aħna rridu nilbsu il- kalzetta l- ħamra </s>
+<s> aħna rridu nilbsu il- karkur l- aħmar </s>
+<s> aħna rridu nilbsu il- karkura l- ħamra </s>
+<s> aħna rridu nilbsu il- papoċċa l- ħamra </s>
+<s> aħna rridu nilbsu il- papoċċ l- aħmar </s>
+<s> aħna rridu nilbsu il- flokk l- aħmar </s>
+<s> aħna rridu nilbsu il- qmis il- ħamra </s>
+<s> aħna rridu nilbsu il- ġersi l- aħmar </s>
+<s> aħna rridu nilbsu il- qalziet l- aħmar </s>
+<s> aħna rridu nilbsu ix- xorts l- aħmar </s>
+<s> aħna rridu nilbsu id- dublett l- aħmar </s>
+<s> aħna rridu nilbsu il- libsa l- ħamra </s>
+<s> aħna rridu nilbsu il- ġakketta l- ħamra </s>
+<s> aħna rridu nilbsu il- beritta l- ħamra </s>
+<s> aħna rridu nilbsu il- kappell l- aħmar </s>
+<s> aħna rridu nilbsu il- malja l- ħamra </s>
+<s> aħna rridu nilbsu il- fardal l- aħmar </s>
+<s> aħna rridu nilbsu l- ingwanti l- ħomor </s>
+<s> aħna rridu nilbsu l- ingwanta l- ħamra </s>
+<s> aħna rridu nilbsu l- ingravata l- ħamra </s>
+<s> aħna rridu nilbsu iċ- ċoff l- aħmar </s>
+<s> aħna rridu nilbsu il- kowt l- aħmar </s>
+<s> aħna rridu nilbsu ix- xalla l- ħamra </s>
+<s> aħna rridu nilbsu il- piġama l- ħamra </s>
+<s> aħna rridu nilbsu iż- żarbun l- abjad </s>
+<s> aħna rridu nilbsu iż- żarbuna l- bajda </s>
+<s> aħna rridu nilbsu il- kalzetti l- bojod </s>
+<s> aħna rridu nilbsu par kalzetti bojod </s>
+<s> aħna rridu nilbsu il- kalzetta l- bajda </s>
+<s> aħna rridu nilbsu is- sandli l- abjad </s>
+<s> aħna rridu nilbsu is- sandlija l- bajda </s>
+<s> aħna rridu nilbsu il- buz l- abjad </s>
+<s> aħna rridu nilbsu il- karkur l- abjad </s>
+<s> aħna rridu nilbsu il- karkura l- bajda </s>
+<s> aħna rridu nilbsu il- papoċċa l- bajda </s>
+<s> aħna rridu nilbsu il- papoċċ l- abjad </s>
+<s> aħna rridu nilbsu il- flokk l- abjad </s>
+<s> aħna rridu nilbsu il- qmis il- bajda </s>
+<s> aħna rridu nilbsu il- ġersi l- abjad </s>
+<s> aħna rridu nilbsu il- qalziet l- abjad </s>
+<s> aħna rridu nilbsu ix- xorts l- abjad </s>
+<s> aħna rridu nilbsu id- dublett l- abjad </s>
+<s> aħna rridu nilbsu il- libsa l- bajda </s>
+<s> aħna rridu nilbsu il- ġakketta l- bajda </s>
+<s> aħna rridu nilbsu il- beritta l- bajda </s>
+<s> aħna rridu nilbsu il- kappell l- abjad </s>
+<s> aħna rridu nilbsu il- malja l- bajda </s>
+<s> aħna rridu nilbsu iċ- ċinturin l- abjad </s>
+<s> aħna rridu nilbsu il- fardal l- abjad </s>
+<s> aħna rridu nilbsu l- ingwanti l- bojod </s>
+<s> aħna rridu nilbsu l- ingwanta l- bajda </s>
+<s> aħna rridu nilbsu l- ingravata l- bajda </s>
+<s> aħna rridu nilbsu iċ- ċoff l- abjad </s>
+<s> aħna rridu nilbsu il- kowt l- abjad </s>
+<s> aħna rridu nilbsu ix- xalla l- bajda </s>
+<s> aħna rridu nilbsu il- piġama l- bajda </s>
+<s> aħna rridu nilbsu il- kalzetti l- vjola </s>
+<s> aħna rridu nilbsu par kalzetti vjola </s>
+<s> aħna rridu nilbsu il- kalzetta l- vjola </s>
+<s> aħna rridu nilbsu il- karkur il- vjola </s>
+<s> aħna rridu nilbsu il- karkura l- vjola </s>
+<s> aħna rridu nilbsu il- papoċċa l- vjola </s>
+<s> aħna rridu nilbsu il- papoċċ il- vjola </s>
+<s> aħna rridu nilbsu il- flokk il- vjola </s>
+<s> aħna rridu nilbsu il- qmis il- vjola </s>
+<s> aħna rridu nilbsu il- ġersi l- vjola </s>
+<s> aħna rridu nilbsu il- qalziet il- vjola </s>
+<s> aħna rridu nilbsu ix- xorts il- vjola </s>
+<s> aħna rridu nilbsu id- dublett il- vjola </s>
+<s> aħna rridu nilbsu il- libsa l- vjola </s>
+<s> aħna rridu nilbsu il- ġakketta l- vjola </s>
+<s> aħna rridu nilbsu il- beritta l- vjola </s>
+<s> aħna rridu nilbsu il- kappell il- vjola </s>
+<s> aħna rridu nilbsu il- malja l- vjola </s>
+<s> aħna rridu nilbsu il- fardal il- vjola </s>
+<s> aħna rridu nilbsu l- ingwanti l- vjola </s>
+<s> aħna rridu nilbsu l- ingwanta l- vjola </s>
+<s> aħna rridu nilbsu l- ingravata l- vjola </s>
+<s> aħna rridu nilbsu iċ- ċoff il- vjola </s>
+<s> aħna rridu nilbsu il- kowt il- vjola </s>
+<s> aħna rridu nilbsu ix- xalla l- vjola </s>
+<s> aħna rridu nilbsu il- piġama l- vjola </s>
+<s> aħna rridu nilbsu il- kalzetti r- roża </s>
+<s> aħna rridu nilbsu par kalzetti roża </s>
+<s> aħna rridu nilbsu il- kalzetta r- roża </s>
+<s> aħna rridu nilbsu il- karkur ir- roża </s>
+<s> aħna rridu nilbsu il- karkura r- roża </s>
+<s> aħna rridu nilbsu il- papoċċa r- roża </s>
+<s> aħna rridu nilbsu il- papoċċ ir- roża </s>
+<s> aħna rridu nilbsu il- flokk ir- roża </s>
+<s> aħna rridu nilbsu il- qmis ir- roża </s>
+<s> aħna rridu nilbsu il- ġersi r- roża </s>
+<s> aħna rridu nilbsu il- qalziet ir- roża </s>
+<s> aħna rridu nilbsu ix- xorts ir- roża </s>
+<s> aħna rridu nilbsu id- dublett ir- roża </s>
+<s> aħna rridu nilbsu il- libsa r- roża </s>
+<s> aħna rridu nilbsu il- ġakketta r- roża </s>
+<s> aħna rridu nilbsu il- beritta r- roża </s>
+<s> aħna rridu nilbsu il- kappell ir- roża </s>
+<s> aħna rridu nilbsu il- malja r- roża </s>
+<s> aħna rridu nilbsu il- fardal ir- roża </s>
+<s> aħna rridu nilbsu l- ingwanti r- roża </s>
+<s> aħna rridu nilbsu l- ingwanta r- roża </s>
+<s> aħna rridu nilbsu l- ingravata r- roża </s>
+<s> aħna rridu nilbsu iċ- ċoff ir- roża </s>
+<s> aħna rridu nilbsu il- kowt ir- roża </s>
+<s> aħna rridu nilbsu ix- xalla r- roża </s>
+<s> aħna rridu nilbsu il- piġama r- roża </s>
+<s> intom tridu tilbsu il- kalzetti l- bluni </s>
+<s> intom tridu tilbsu par kalzetti bluni </s>
+<s> intom tridu tilbsu il- kalzetta l- bluna </s>
+<s> intom tridu tilbsu is- sandli l- blu </s>
+<s> intom tridu tilbsu is- sandlija l- bluna </s>
+<s> intom tridu tilbsu il- buz il- blu </s>
+<s> intom tridu tilbsu il- karkur il- blu </s>
+<s> intom tridu tilbsu il- karkura l- bluna </s>
+<s> intom tridu tilbsu il- papoċċa l- bluna </s>
+<s> intom tridu tilbsu il- papoċċ il- blu </s>
+<s> intom tridu tilbsu il- flokk il- blu </s>
+<s> intom tridu tilbsu il- qmis il- bluna </s>
+<s> intom tridu tilbsu il- ġersi l- blu </s>
+<s> intom tridu tilbsu il- qalziet il- blu </s>
+<s> intom tridu tilbsu il- ġins il- blu </s>
+<s> intom tridu tilbsu ix- xorts il- blu </s>
+<s> intom tridu tilbsu id- dublett il- blu </s>
+<s> intom tridu tilbsu il- libsa l- bluna </s>
+<s> intom tridu tilbsu il- ġakketta l- bluna </s>
+<s> intom tridu tilbsu il- beritta l- bluna </s>
+<s> intom tridu tilbsu il- kappell il- blu </s>
+<s> intom tridu tilbsu il- malja l- bluna </s>
+<s> intom tridu tilbsu iċ- ċinturin il- blu </s>
+<s> intom tridu tilbsu il- fardal il- blu </s>
+<s> intom tridu tilbsu l- ingwanti l- bluni </s>
+<s> intom tridu tilbsu l- ingwanta l- bluna </s>
+<s> intom tridu tilbsu l- ingravata l- bluna </s>
+<s> intom tridu tilbsu iċ- ċoff il- blu </s>
+<s> intom tridu tilbsu il- kowt il- blu </s>
+<s> intom tridu tilbsu ix- xalla l- bluna </s>
+<s> intom tridu tilbsu il- piġama l- bluna </s>
+<s> intom tridu tilbsu iż- żarbun l- iswed </s>
+<s> intom tridu tilbsu iż- żarbuna s- sewda </s>
+<s> intom tridu tilbsu il- kalzetti s- suwed </s>
+<s> intom tridu tilbsu par kalzetti suwed </s>
+<s> intom tridu tilbsu il- kalzetta s- sewda </s>
+<s> intom tridu tilbsu is- sandli l- iswed </s>
+<s> intom tridu tilbsu is- sandlija s- sewda </s>
+<s> intom tridu tilbsu il- buz l- iswed </s>
+<s> intom tridu tilbsu il- karkur l- iswed </s>
+<s> intom tridu tilbsu il- karkura s- sewda </s>
+<s> intom tridu tilbsu il- papoċċa s- sewda </s>
+<s> intom tridu tilbsu il- papoċċ l- iswed </s>
+<s> intom tridu tilbsu il- flokk l- iswed </s>
+<s> intom tridu tilbsu il- qmis is- sewda </s>
+<s> intom tridu tilbsu il- ġersi l- iswed </s>
+<s> intom tridu tilbsu il- qalziet l- iswed </s>
+<s> intom tridu tilbsu il- ġins l- iswed </s>
+<s> intom tridu tilbsu ix- xorts l- iswed </s>
+<s> intom tridu tilbsu id- dublett l- iswed </s>
+<s> intom tridu tilbsu il- libsa s- sewda </s>
+<s> intom tridu tilbsu il- ġakketta s- sewda </s>
+<s> intom tridu tilbsu il- beritta s- sewda </s>
+<s> intom tridu tilbsu il- kappell l- iswed </s>
+<s> intom tridu tilbsu il- malja s- sewda </s>
+<s> intom tridu tilbsu iċ- ċinturin l- iswed </s>
+<s> intom tridu tilbsu il- fardal l- iswed </s>
+<s> intom tridu tilbsu l- ingwanti s- suwed </s>
+<s> intom tridu tilbsu l- ingwanta s- sewda </s>
+<s> intom tridu tilbsu l- ingravata s- sewda </s>
+<s> intom tridu tilbsu iċ- ċoff l- iswed </s>
+<s> intom tridu tilbsu il- kowt l- iswed </s>
+<s> intom tridu tilbsu ix- xalla s- sewda </s>
+<s> intom tridu tilbsu il- piġama s- sewda </s>
+<s> intom tridu tilbsu il- kalzetti s- sofor </s>
+<s> intom tridu tilbsu par kalzetti sofor </s>
+<s> intom tridu tilbsu il- kalzetta s- safra </s>
+<s> intom tridu tilbsu il- karkur l- isfar </s>
+<s> intom tridu tilbsu il- karkura s- safra </s>
+<s> intom tridu tilbsu il- papoċċa s- safra </s>
+<s> intom tridu tilbsu il- papoċċ l- isfar </s>
+<s> intom tridu tilbsu il- flokk l- isfar </s>
+<s> intom tridu tilbsu il- qmis is- safra </s>
+<s> intom tridu tilbsu il- ġersi l- isfar </s>
+<s> intom tridu tilbsu il- qalziet l- isfar </s>
+<s> intom tridu tilbsu ix- xorts l- isfar </s>
+<s> intom tridu tilbsu id- dublett l- isfar </s>
+<s> intom tridu tilbsu il- libsa s- safra </s>
+<s> intom tridu tilbsu il- ġakketta s- safra </s>
+<s> intom tridu tilbsu il- beritta s- safra </s>
+<s> intom tridu tilbsu il- kappell l- isfar </s>
+<s> intom tridu tilbsu il- malja s- safra </s>
+<s> intom tridu tilbsu il- fardal l- isfar </s>
+<s> intom tridu tilbsu l- ingwanti s- sofor </s>
+<s> intom tridu tilbsu l- ingwanta s- safra </s>
+<s> intom tridu tilbsu l- ingravata s- safra </s>
+<s> intom tridu tilbsu iċ- ċoff l- isfar </s>
+<s> intom tridu tilbsu il- kowt l- isfar </s>
+<s> intom tridu tilbsu ix- xalla s- safra </s>
+<s> intom tridu tilbsu il- piġama s- safra </s>
+<s> intom tridu tilbsu il- kalzetti l- ħodor </s>
+<s> intom tridu tilbsu par kalzetti ħodor </s>
+<s> intom tridu tilbsu il- kalzetta l- ħadra </s>
+<s> intom tridu tilbsu il- buz l- aħdar </s>
+<s> intom tridu tilbsu il- karkur l- aħdar </s>
+<s> intom tridu tilbsu il- karkura l- ħadra </s>
+<s> intom tridu tilbsu il- papoċċa l- ħadra </s>
+<s> intom tridu tilbsu il- papoċċ l- aħdar </s>
+<s> intom tridu tilbsu il- flokk l- aħdar </s>
+<s> intom tridu tilbsu il- qmis il- ħadra </s>
+<s> intom tridu tilbsu il- ġersi l- aħdar </s>
+<s> intom tridu tilbsu il- qalziet l- aħdar </s>
+<s> intom tridu tilbsu ix- xorts l- aħdar </s>
+<s> intom tridu tilbsu id- dublett l- aħdar </s>
+<s> intom tridu tilbsu il- libsa l- ħadra </s>
+<s> intom tridu tilbsu il- ġakketta l- ħadra </s>
+<s> intom tridu tilbsu il- beritta l- ħadra </s>
+<s> intom tridu tilbsu il- kappell l- aħdar </s>
+<s> intom tridu tilbsu il- malja l- ħadra </s>
+<s> intom tridu tilbsu il- fardal l- aħdar </s>
+<s> intom tridu tilbsu l- ingwanti l- ħodor </s>
+<s> intom tridu tilbsu l- ingwanta l- ħadra </s>
+<s> intom tridu tilbsu l- ingravata l- ħadra </s>
+<s> intom tridu tilbsu iċ- ċoff l- aħdar </s>
+<s> intom tridu tilbsu il- kowt l- ħadra </s>
+<s> intom tridu tilbsu ix- xalla l- ħadra </s>
+<s> intom tridu tilbsu il- piġama l- ħadra </s>
+<s> intom tridu tilbsu il- kalzetti l- ħomor </s>
+<s> intom tridu tilbsu par kalzetti ħomor </s>
+<s> intom tridu tilbsu il- kalzetta l- ħamra </s>
+<s> intom tridu tilbsu il- karkur l- aħmar </s>
+<s> intom tridu tilbsu il- karkura l- ħamra </s>
+<s> intom tridu tilbsu il- papoċċa l- ħamra </s>
+<s> intom tridu tilbsu il- papoċċ l- aħmar </s>
+<s> intom tridu tilbsu il- flokk l- aħmar </s>
+<s> intom tridu tilbsu il- qmis il- ħamra </s>
+<s> intom tridu tilbsu il- ġersi l- aħmar </s>
+<s> intom tridu tilbsu il- qalziet l- aħmar </s>
+<s> intom tridu tilbsu ix- xorts l- aħmar </s>
+<s> intom tridu tilbsu id- dublett l- aħmar </s>
+<s> intom tridu tilbsu il- libsa l- ħamra </s>
+<s> intom tridu tilbsu il- ġakketta l- ħamra </s>
+<s> intom tridu tilbsu il- beritta l- ħamra </s>
+<s> intom tridu tilbsu il- kappell l- aħmar </s>
+<s> intom tridu tilbsu il- malja l- ħamra </s>
+<s> intom tridu tilbsu il- fardal l- aħmar </s>
+<s> intom tridu tilbsu l- ingwanti l- ħomor </s>
+<s> intom tridu tilbsu l- ingwanta l- ħamra </s>
+<s> intom tridu tilbsu l- ingravata l- ħamra </s>
+<s> intom tridu tilbsu iċ- ċoff l- aħmar </s>
+<s> intom tridu tilbsu il- kowt l- aħmar </s>
+<s> intom tridu tilbsu ix- xalla l- ħamra </s>
+<s> intom tridu tilbsu il- piġama l- ħamra </s>
+<s> intom tridu tilbsu iż- żarbun l- abjad </s>
+<s> intom tridu tilbsu iż- żarbuna l- bajda </s>
+<s> intom tridu tilbsu il- kalzetti l- bojod </s>
+<s> intom tridu tilbsu par kalzetti bojod </s>
+<s> intom tridu tilbsu il- kalzetta l- bajda </s>
+<s> intom tridu tilbsu is- sandli l- abjad </s>
+<s> intom tridu tilbsu is- sandlija l- bajda </s>
+<s> intom tridu tilbsu il- buz l- abjad </s>
+<s> intom tridu tilbsu il- karkur l- abjad </s>
+<s> intom tridu tilbsu il- karkura l- bajda </s>
+<s> intom tridu tilbsu il- papoċċa l- bajda </s>
+<s> intom tridu tilbsu il- papoċċ l- abjad </s>
+<s> intom tridu tilbsu il- flokk l- abjad </s>
+<s> intom tridu tilbsu il- qmis il- bajda </s>
+<s> intom tridu tilbsu il- ġersi l- abjad </s>
+<s> intom tridu tilbsu il- qalziet l- abjad </s>
+<s> intom tridu tilbsu ix- xorts l- abjad </s>
+<s> intom tridu tilbsu id- dublett l- abjad </s>
+<s> intom tridu tilbsu il- libsa l- bajda </s>
+<s> intom tridu tilbsu il- ġakketta l- bajda </s>
+<s> intom tridu tilbsu il- beritta l- bajda </s>
+<s> intom tridu tilbsu il- kappell l- abjad </s>
+<s> intom tridu tilbsu il- malja l- bajda </s>
+<s> intom tridu tilbsu iċ- ċinturin l- abjad </s>
+<s> intom tridu tilbsu il- fardal l- abjad </s>
+<s> intom tridu tilbsu l- ingwanti l- bojod </s>
+<s> intom tridu tilbsu l- ingwanta l- bajda </s>
+<s> intom tridu tilbsu l- ingravata l- bajda </s>
+<s> intom tridu tilbsu iċ- ċoff l- abjad </s>
+<s> intom tridu tilbsu il- kowt l- abjad </s>
+<s> intom tridu tilbsu ix- xalla l- bajda </s>
+<s> intom tridu tilbsu il- piġama l- bajda </s>
+<s> intom tridu tilbsu il- kalzetti l- vjola </s>
+<s> intom tridu tilbsu par kalzetti vjola </s>
+<s> intom tridu tilbsu il- kalzetta l- vjola </s>
+<s> intom tridu tilbsu il- karkur il- vjola </s>
+<s> intom tridu tilbsu il- karkura l- vjola </s>
+<s> intom tridu tilbsu il- papoċċa l- vjola </s>
+<s> intom tridu tilbsu il- papoċċ il- vjola </s>
+<s> intom tridu tilbsu il- flokk il- vjola </s>
+<s> intom tridu tilbsu il- qmis il- vjola </s>
+<s> intom tridu tilbsu il- ġersi l- vjola </s>
+<s> intom tridu tilbsu il- qalziet il- vjola </s>
+<s> intom tridu tilbsu ix- xorts il- vjola </s>
+<s> intom tridu tilbsu id- dublett il- vjola </s>
+<s> intom tridu tilbsu il- libsa l- vjola </s>
+<s> intom tridu tilbsu il- ġakketta l- vjola </s>
+<s> intom tridu tilbsu il- beritta l- vjola </s>
+<s> intom tridu tilbsu il- kappell il- vjola </s>
+<s> intom tridu tilbsu il- malja l- vjola </s>
+<s> intom tridu tilbsu il- fardal il- vjola </s>
+<s> intom tridu tilbsu l- ingwanti l- vjola </s>
+<s> intom tridu tilbsu l- ingwanta l- vjola </s>
+<s> intom tridu tilbsu l- ingravata l- vjola </s>
+<s> intom tridu tilbsu iċ- ċoff il- vjola </s>
+<s> intom tridu tilbsu il- kowt il- vjola </s>
+<s> intom tridu tilbsu ix- xalla l- vjola </s>
+<s> intom tridu tilbsu il- piġama l- vjola </s>
+<s> intom tridu tilbsu il- kalzetti r- roża </s>
+<s> intom tridu tilbsu par kalzetti roża </s>
+<s> intom tridu tilbsu il- kalzetta r- roża </s>
+<s> intom tridu tilbsu il- karkur ir- roża </s>
+<s> intom tridu tilbsu il- karkura r- roża </s>
+<s> intom tridu tilbsu il- papoċċa r- roża </s>
+<s> intom tridu tilbsu il- papoċċ ir- roża </s>
+<s> intom tridu tilbsu il- flokk ir- roża </s>
+<s> intom tridu tilbsu il- qmis ir- roża </s>
+<s> intom tridu tilbsu il- ġersi r- roża </s>
+<s> intom tridu tilbsu il- qalziet ir- roża </s>
+<s> intom tridu tilbsu ix- xorts ir- roża </s>
+<s> intom tridu tilbsu id- dublett ir- roża </s>
+<s> intom tridu tilbsu il- libsa r- roża </s>
+<s> intom tridu tilbsu il- ġakketta r- roża </s>
+<s> intom tridu tilbsu il- beritta r- roża </s>
+<s> intom tridu tilbsu il- kappell ir- roża </s>
+<s> intom tridu tilbsu il- malja r- roża </s>
+<s> intom tridu tilbsu il- fardal ir- roża </s>
+<s> intom tridu tilbsu l- ingwanti r- roża </s>
+<s> intom tridu tilbsu l- ingwanta r- roża </s>
+<s> intom tridu tilbsu l- ingravata r- roża </s>
+<s> intom tridu tilbsu iċ- ċoff ir- roża </s>
+<s> intom tridu tilbsu il- kowt ir- roża </s>
+<s> intom tridu tilbsu ix- xalla r- roża </s>
+<s> intom tridu tilbsu il- piġama r- roża </s>
+<s> huma jridu jilbsu il- kalzetti l- bluni </s>
+<s> huma jridu jilbsu par kalzetti bluni </s>
+<s> huma jridu jilbsu il- kalzetta l- bluna </s>
+<s> huma jridu jilbsu is- sandli l- blu </s>
+<s> huma jridu jilbsu is- sandlija l- bluna </s>
+<s> huma jridu jilbsu il- buz il- blu </s>
+<s> huma jridu jilbsu il- karkur il- blu </s>
+<s> huma jridu jilbsu il- karkura l- bluna </s>
+<s> huma jridu jilbsu il- papoċċa l- bluna </s>
+<s> huma jridu jilbsu il- papoċċ il- blu </s>
+<s> huma jridu jilbsu il- flokk il- blu </s>
+<s> huma jridu jilbsu il- qmis il- bluna </s>
+<s> huma jridu jilbsu il- ġersi l- blu </s>
+<s> huma jridu jilbsu il- qalziet il- blu </s>
+<s> huma jridu jilbsu il- ġins il- blu </s>
+<s> huma jridu jilbsu ix- xorts il- blu </s>
+<s> huma jridu jilbsu id- dublett il- blu </s>
+<s> huma jridu jilbsu il- libsa l- bluna </s>
+<s> huma jridu jilbsu il- ġakketta l- bluna </s>
+<s> huma jridu jilbsu il- beritta l- bluna </s>
+<s> huma jridu jilbsu il- kappell il- blu </s>
+<s> huma jridu jilbsu il- malja l- bluna </s>
+<s> huma jridu jilbsu iċ- ċinturin il- blu </s>
+<s> huma jridu jilbsu il- fardal il- blu </s>
+<s> huma jridu jilbsu l- ingwanti l- bluni </s>
+<s> huma jridu jilbsu l- ingwanta l- bluna </s>
+<s> huma jridu jilbsu l- ingravata l- bluna </s>
+<s> huma jridu jilbsu iċ- ċoff il- blu </s>
+<s> huma jridu jilbsu il- kowt il- blu </s>
+<s> huma jridu jilbsu ix- xalla l- bluna </s>
+<s> huma jridu jilbsu il- piġama l- bluna </s>
+<s> huma jridu jilbsu iż- żarbun l- iswed </s>
+<s> huma jridu jilbsu iż- żarbuna s- sewda </s>
+<s> huma jridu jilbsu il- kalzetti s- suwed </s>
+<s> huma jridu jilbsu par kalzetti suwed </s>
+<s> huma jridu jilbsu il- kalzetta s- sewda </s>
+<s> huma jridu jilbsu is- sandli l- iswed </s>
+<s> huma jridu jilbsu is- sandlija s- sewda </s>
+<s> huma jridu jilbsu il- buz l- iswed </s>
+<s> huma jridu jilbsu il- karkur l- iswed </s>
+<s> huma jridu jilbsu il- karkura s- sewda </s>
+<s> huma jridu jilbsu il- papoċċa s- sewda </s>
+<s> huma jridu jilbsu il- papoċċ l- iswed </s>
+<s> huma jridu jilbsu il- flokk l- iswed </s>
+<s> huma jridu jilbsu il- qmis is- sewda </s>
+<s> huma jridu jilbsu il- ġersi l- iswed </s>
+<s> huma jridu jilbsu il- qalziet l- iswed </s>
+<s> huma jridu jilbsu il- ġins l- iswed </s>
+<s> huma jridu jilbsu ix- xorts l- iswed </s>
+<s> huma jridu jilbsu id- dublett l- iswed </s>
+<s> huma jridu jilbsu il- libsa s- sewda </s>
+<s> huma jridu jilbsu il- ġakketta s- sewda </s>
+<s> huma jridu jilbsu il- beritta s- sewda </s>
+<s> huma jridu jilbsu il- kappell l- iswed </s>
+<s> huma jridu jilbsu il- malja s- sewda </s>
+<s> huma jridu jilbsu iċ- ċinturin l- iswed </s>
+<s> huma jridu jilbsu il- fardal l- iswed </s>
+<s> huma jridu jilbsu l- ingwanti s- suwed </s>
+<s> huma jridu jilbsu l- ingwanta s- sewda </s>
+<s> huma jridu jilbsu l- ingravata s- sewda </s>
+<s> huma jridu jilbsu iċ- ċoff l- iswed </s>
+<s> huma jridu jilbsu il- kowt l- iswed </s>
+<s> huma jridu jilbsu ix- xalla s- sewda </s>
+<s> huma jridu jilbsu il- piġama s- sewda </s>
+<s> huma jridu jilbsu il- kalzetti s- sofor </s>
+<s> huma jridu jilbsu par kalzetti sofor </s>
+<s> huma jridu jilbsu il- kalzetta s- safra </s>
+<s> huma jridu jilbsu il- karkur l- isfar </s>
+<s> huma jridu jilbsu il- karkura s- safra </s>
+<s> huma jridu jilbsu il- papoċċa s- safra </s>
+<s> huma jridu jilbsu il- papoċċ l- isfar </s>
+<s> huma jridu jilbsu il- flokk l- isfar </s>
+<s> huma jridu jilbsu il- qmis is- safra </s>
+<s> huma jridu jilbsu il- ġersi l- isfar </s>
+<s> huma jridu jilbsu il- qalziet l- isfar </s>
+<s> huma jridu jilbsu ix- xorts l- isfar </s>
+<s> huma jridu jilbsu id- dublett l- isfar </s>
+<s> huma jridu jilbsu il- libsa s- safra </s>
+<s> huma jridu jilbsu il- ġakketta s- safra </s>
+<s> huma jridu jilbsu il- beritta s- safra </s>
+<s> huma jridu jilbsu il- kappell l- isfar </s>
+<s> huma jridu jilbsu il- malja s- safra </s>
+<s> huma jridu jilbsu il- fardal l- isfar </s>
+<s> huma jridu jilbsu l- ingwanti s- sofor </s>
+<s> huma jridu jilbsu l- ingwanta s- safra </s>
+<s> huma jridu jilbsu l- ingravata s- safra </s>
+<s> huma jridu jilbsu iċ- ċoff l- isfar </s>
+<s> huma jridu jilbsu il- kowt l- isfar </s>
+<s> huma jridu jilbsu ix- xalla s- safra </s>
+<s> huma jridu jilbsu il- piġama s- safra </s>
+<s> huma jridu jilbsu il- kalzetti l- ħodor </s>
+<s> huma jridu jilbsu par kalzetti ħodor </s>
+<s> huma jridu jilbsu il- kalzetta l- ħadra </s>
+<s> huma jridu jilbsu il- buz l- aħdar </s>
+<s> huma jridu jilbsu il- karkur l- aħdar </s>
+<s> huma jridu jilbsu il- karkura l- ħadra </s>
+<s> huma jridu jilbsu il- papoċċa l- ħadra </s>
+<s> huma jridu jilbsu il- papoċċ l- aħdar </s>
+<s> huma jridu jilbsu il- flokk l- aħdar </s>
+<s> huma jridu jilbsu il- qmis il- ħadra </s>
+<s> huma jridu jilbsu il- ġersi l- aħdar </s>
+<s> huma jridu jilbsu il- qalziet l- aħdar </s>
+<s> huma jridu jilbsu ix- xorts l- aħdar </s>
+<s> huma jridu jilbsu id- dublett l- aħdar </s>
+<s> huma jridu jilbsu il- libsa l- ħadra </s>
+<s> huma jridu jilbsu il- ġakketta l- ħadra </s>
+<s> huma jridu jilbsu il- beritta l- ħadra </s>
+<s> huma jridu jilbsu il- kappell l- aħdar </s>
+<s> huma jridu jilbsu il- malja l- ħadra </s>
+<s> huma jridu jilbsu il- fardal l- aħdar </s>
+<s> huma jridu jilbsu l- ingwanti l- ħodor </s>
+<s> huma jridu jilbsu l- ingwanta l- ħadra </s>
+<s> huma jridu jilbsu l- ingravata l- ħadra </s>
+<s> huma jridu jilbsu iċ- ċoff l- aħdar </s>
+<s> huma jridu jilbsu il- kowt l- ħadra </s>
+<s> huma jridu jilbsu ix- xalla l- ħadra </s>
+<s> huma jridu jilbsu il- piġama l- ħadra </s>
+<s> huma jridu jilbsu il- kalzetti l- ħomor </s>
+<s> huma jridu jilbsu par kalzetti ħomor </s>
+<s> huma jridu jilbsu il- kalzetta l- ħamra </s>
+<s> huma jridu jilbsu il- karkur l- aħmar </s>
+<s> huma jridu jilbsu il- karkura l- ħamra </s>
+<s> huma jridu jilbsu il- papoċċa l- ħamra </s>
+<s> huma jridu jilbsu il- papoċċ l- aħmar </s>
+<s> huma jridu jilbsu il- flokk l- aħmar </s>
+<s> huma jridu jilbsu il- qmis il- ħamra </s>
+<s> huma jridu jilbsu il- ġersi l- aħmar </s>
+<s> huma jridu jilbsu il- qalziet l- aħmar </s>
+<s> huma jridu jilbsu ix- xorts l- aħmar </s>
+<s> huma jridu jilbsu id- dublett l- aħmar </s>
+<s> huma jridu jilbsu il- libsa l- ħamra </s>
+<s> huma jridu jilbsu il- ġakketta l- ħamra </s>
+<s> huma jridu jilbsu il- beritta l- ħamra </s>
+<s> huma jridu jilbsu il- kappell l- aħmar </s>
+<s> huma jridu jilbsu il- malja l- ħamra </s>
+<s> huma jridu jilbsu il- fardal l- aħmar </s>
+<s> huma jridu jilbsu l- ingwanti l- ħomor </s>
+<s> huma jridu jilbsu l- ingwanta l- ħamra </s>
+<s> huma jridu jilbsu l- ingravata l- ħamra </s>
+<s> huma jridu jilbsu iċ- ċoff l- aħmar </s>
+<s> huma jridu jilbsu il- kowt l- aħmar </s>
+<s> huma jridu jilbsu ix- xalla l- ħamra </s>
+<s> huma jridu jilbsu il- piġama l- ħamra </s>
+<s> huma jridu jilbsu iż- żarbun l- abjad </s>
+<s> huma jridu jilbsu iż- żarbuna l- bajda </s>
+<s> huma jridu jilbsu il- kalzetti l- bojod </s>
+<s> huma jridu jilbsu par kalzetti bojod </s>
+<s> huma jridu jilbsu il- kalzetta l- bajda </s>
+<s> huma jridu jilbsu is- sandli l- abjad </s>
+<s> huma jridu jilbsu is- sandlija l- bajda </s>
+<s> huma jridu jilbsu il- buz l- abjad </s>
+<s> huma jridu jilbsu il- karkur l- abjad </s>
+<s> huma jridu jilbsu il- karkura l- bajda </s>
+<s> huma jridu jilbsu il- papoċċa l- bajda </s>
+<s> huma jridu jilbsu il- papoċċ l- abjad </s>
+<s> huma jridu jilbsu il- flokk l- abjad </s>
+<s> huma jridu jilbsu il- qmis il- bajda </s>
+<s> huma jridu jilbsu il- ġersi l- abjad </s>
+<s> huma jridu jilbsu il- qalziet l- abjad </s>
+<s> huma jridu jilbsu ix- xorts l- abjad </s>
+<s> huma jridu jilbsu id- dublett l- abjad </s>
+<s> huma jridu jilbsu il- libsa l- bajda </s>
+<s> huma jridu jilbsu il- ġakketta l- bajda </s>
+<s> huma jridu jilbsu il- beritta l- bajda </s>
+<s> huma jridu jilbsu il- kappell l- abjad </s>
+<s> huma jridu jilbsu il- malja l- bajda </s>
+<s> huma jridu jilbsu iċ- ċinturin l- abjad </s>
+<s> huma jridu jilbsu il- fardal l- abjad </s>
+<s> huma jridu jilbsu l- ingwanti l- bojod </s>
+<s> huma jridu jilbsu l- ingwanta l- bajda </s>
+<s> huma jridu jilbsu l- ingravata l- bajda </s>
+<s> huma jridu jilbsu iċ- ċoff l- abjad </s>
+<s> huma jridu jilbsu il- kowt l- abjad </s>
+<s> huma jridu jilbsu ix- xalla l- bajda </s>
+<s> huma jridu jilbsu il- piġama l- bajda </s>
+<s> huma jridu jilbsu il- kalzetti l- vjola </s>
+<s> huma jridu jilbsu par kalzetti vjola </s>
+<s> huma jridu jilbsu il- kalzetta l- vjola </s>
+<s> huma jridu jilbsu il- karkur il- vjola </s>
+<s> huma jridu jilbsu il- karkura l- vjola </s>
+<s> huma jridu jilbsu il- papoċċa l- vjola </s>
+<s> huma jridu jilbsu il- papoċċ il- vjola </s>
+<s> huma jridu jilbsu il- flokk il- vjola </s>
+<s> huma jridu jilbsu il- qmis il- vjola </s>
+<s> huma jridu jilbsu il- ġersi l- vjola </s>
+<s> huma jridu jilbsu il- qalziet il- vjola </s>
+<s> huma jridu jilbsu ix- xorts il- vjola </s>
+<s> huma jridu jilbsu id- dublett il- vjola </s>
+<s> huma jridu jilbsu il- libsa l- vjola </s>
+<s> huma jridu jilbsu il- ġakketta l- vjola </s>
+<s> huma jridu jilbsu il- beritta l- vjola </s>
+<s> huma jridu jilbsu il- kappell il- vjola </s>
+<s> huma jridu jilbsu il- malja l- vjola </s>
+<s> huma jridu jilbsu il- fardal il- vjola </s>
+<s> huma jridu jilbsu l- ingwanti l- vjola </s>
+<s> huma jridu jilbsu l- ingwanta l- vjola </s>
+<s> huma jridu jilbsu l- ingravata l- vjola </s>
+<s> huma jridu jilbsu iċ- ċoff il- vjola </s>
+<s> huma jridu jilbsu il- kowt il- vjola </s>
+<s> huma jridu jilbsu ix- xalla l- vjola </s>
+<s> huma jridu jilbsu il- piġama l- vjola </s>
+<s> huma jridu jilbsu il- kalzetti r- roża </s>
+<s> huma jridu jilbsu par kalzetti roża </s>
+<s> huma jridu jilbsu il- kalzetta r- roża </s>
+<s> huma jridu jilbsu il- karkur ir- roża </s>
+<s> huma jridu jilbsu il- karkura r- roża </s>
+<s> huma jridu jilbsu il- papoċċa r- roża </s>
+<s> huma jridu jilbsu il- papoċċ ir- roża </s>
+<s> huma jridu jilbsu il- flokk ir- roża </s>
+<s> huma jridu jilbsu il- qmis ir- roża </s>
+<s> huma jridu jilbsu il- ġersi r- roża </s>
+<s> huma jridu jilbsu il- qalziet ir- roża </s>
+<s> huma jridu jilbsu ix- xorts ir- roża </s>
+<s> huma jridu jilbsu id- dublett ir- roża </s>
+<s> huma jridu jilbsu il- libsa r- roża </s>
+<s> huma jridu jilbsu il- ġakketta r- roża </s>
+<s> huma jridu jilbsu il- beritta r- roża </s>
+<s> huma jridu jilbsu il- kappell ir- roża </s>
+<s> huma jridu jilbsu il- malja r- roża </s>
+<s> huma jridu jilbsu il- fardal ir- roża </s>
+<s> huma jridu jilbsu l- ingwanti r- roża </s>
+<s> huma jridu jilbsu l- ingwanta r- roża </s>
+<s> huma jridu jilbsu l- ingravata r- roża </s>
+<s> huma jridu jilbsu iċ- ċoff ir- roża </s>
+<s> huma jridu jilbsu il- kowt ir- roża </s>
+<s> huma jridu jilbsu ix- xalla r- roża </s>
+<s> huma jridu jilbsu il- piġama r- roża </s>
+<s> A B Ċ D E F Ġ G GĦ H Ħ I IE J K L M N O P Q R S T U V W X Ż Z </s>
+<s> 0 1 2 3 4 5 6 7 8 9 </s>

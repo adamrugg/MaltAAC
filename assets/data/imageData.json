@@ -1,0 +1,2613 @@
+[
+    {
+      "id": 1,
+      "Word": "A",
+      "Category": "Alfabett",
+      "Image": "A"
+    },
+    {
+      "id": 2,
+      "Word": "B",
+      "Category": "Alfabett",
+      "Image": "B"
+    },
+    {
+      "id": 3,
+      "Word": "D",
+      "Category": "Alfabett",
+      "Image": "D"
+    },
+    {
+      "id": 4,
+      "Word": "E",
+      "Category": "Alfabett",
+      "Image": "E"
+    },
+    {
+      "id": 5,
+      "Word": "F",
+      "Category": "Alfabett",
+      "Image": "F"
+    },
+    {
+      "id": 6,
+      "Word": "G",
+      "Category": "Alfabett",
+      "Image": "G"
+    },
+    {
+      "id": 7,
+      "Word": "GĦ",
+      "Category": "Alfabett",
+      "Image": "GĦ"
+    },
+    {
+      "id": 8,
+      "Word": "H",
+      "Category": "Alfabett",
+      "Image": "H"
+    },
+    {
+      "id": 9,
+      "Word": "I",
+      "Category": "Alfabett",
+      "Image": "I"
+    },
+    {
+      "id": 10,
+      "Word": "IE",
+      "Category": "Alfabett",
+      "Image": "IE"
+    },
+    {
+      "id": 11,
+      "Word": "J",
+      "Category": "Alfabett",
+      "Image": "J"
+    },
+    {
+      "id": 12,
+      "Word": "K",
+      "Category": "Alfabett",
+      "Image": "K"
+    },
+    {
+      "id": 13,
+      "Word": "L",
+      "Category": "Alfabett",
+      "Image": "L"
+    },
+    {
+      "id": 14,
+      "Word": "M",
+      "Category": "Alfabett",
+      "Image": "M"
+    },
+    {
+      "id": 15,
+      "Word": "N",
+      "Category": "Alfabett",
+      "Image": "N"
+    },
+    {
+      "id": 16,
+      "Word": "O",
+      "Category": "Alfabett",
+      "Image": "O"
+    },
+    {
+      "id": 17,
+      "Word": "P",
+      "Category": "Alfabett",
+      "Image": "P"
+    },
+    {
+      "id": 18,
+      "Word": "Q",
+      "Category": "Alfabett",
+      "Image": "Q"
+    },
+    {
+      "id": 19,
+      "Word": "R",
+      "Category": "Alfabett",
+      "Image": "R"
+    },
+    {
+      "id": 20,
+      "Word": "S",
+      "Category": "Alfabett",
+      "Image": "S"
+    },
+    {
+      "id": 21,
+      "Word": "T",
+      "Category": "Alfabett",
+      "Image": "T"
+    },
+    {
+      "id": 22,
+      "Word": "U",
+      "Category": "Alfabett",
+      "Image": "U"
+    },
+    {
+      "id": 23,
+      "Word": "V",
+      "Category": "Alfabett",
+      "Image": "V"
+    },
+    {
+      "id": 24,
+      "Word": "W",
+      "Category": "Alfabett",
+      "Image": "W"
+    },
+    {
+      "id": 25,
+      "Word": "X",
+      "Category": "Alfabett",
+      "Image": "X"
+    },
+    {
+      "id": 26,
+      "Word": "Z",
+      "Category": "Alfabett",
+      "Image": "Z"
+    },
+    {
+      "id": 27,
+      "Word": "Ċ",
+      "Category": "Alfabett",
+      "Image": "Ċ"
+    },
+    {
+      "id": 28,
+      "Word": "Ġ",
+      "Category": "Alfabett",
+      "Image": "Ġ"
+    },
+    {
+      "id": 29,
+      "Word": "Ħ",
+      "Category": "Alfabett",
+      "Image": "Ħ"
+    },
+    {
+      "id": 30,
+      "Word": "Ż",
+      "Category": "Alfabett",
+      "Image": "Ż"
+    },
+    {
+      "id": 31,
+      "Word": "bil-",
+      "Category": "Artikli",
+      "Image": "bil-"
+    },
+    {
+      "id": 32,
+      "Word": "bir-",
+      "Category": "Artikli",
+      "Image": "bir-"
+    },
+    {
+      "id": 33,
+      "Word": "bit-",
+      "Category": "Artikli",
+      "Image": "bit-"
+    },
+    {
+      "id": 34,
+      "Word": "biz-",
+      "Category": "Artikli",
+      "Image": "biz-"
+    },
+    {
+      "id": 35,
+      "Word": "biż-",
+      "Category": "Artikli",
+      "Image": "biż-"
+    },
+    {
+      "id": 36,
+      "Word": "d-",
+      "Category": "Artikli",
+      "Image": "d-"
+    },
+    {
+      "id": 37,
+      "Word": "f'",
+      "Category": "Artikli",
+      "Image": "f'"
+    },
+    {
+      "id": 38,
+      "Word": "id-",
+      "Category": "Artikli",
+      "Image": "id-"
+    },
+    {
+      "id": 39,
+      "Word": "il-",
+      "Category": "Artikli",
+      "Image": "il-"
+    },
+    {
+      "id": 40,
+      "Word": "in-",
+      "Category": "Artikli",
+      "Image": "in-"
+    },
+    {
+      "id": 41,
+      "Word": "ir-",
+      "Category": "Artikli",
+      "Image": "ir-"
+    },
+    {
+      "id": 42,
+      "Word": "is-",
+      "Category": "Artikli",
+      "Image": "is-"
+    },
+    {
+      "id": 43,
+      "Word": "it-",
+      "Category": "Artikli",
+      "Image": "it-"
+    },
+    {
+      "id": 44,
+      "Word": "ix-",
+      "Category": "Artikli",
+      "Image": "ix-"
+    },
+    {
+      "id": 45,
+      "Word": "iċ-",
+      "Category": "Artikli",
+      "Image": "iċ-"
+    },
+    {
+      "id": 46,
+      "Word": "iż-",
+      "Category": "Artikli",
+      "Image": "iż-"
+    },
+    {
+      "id": 47,
+      "Word": "l-",
+      "Category": "Artikli",
+      "Image": "l-"
+    },
+    {
+      "id": 48,
+      "Word": "r-",
+      "Category": "Artikli",
+      "Image": "r-"
+    },
+    {
+      "id": 49,
+      "Word": "s-",
+      "Category": "Artikli",
+      "Image": "s-"
+    },
+    {
+      "id": 50,
+      "Word": "t-",
+      "Category": "Artikli",
+      "Image": "t-"
+    },
+    {
+      "id": 51,
+      "Word": "tal-",
+      "Category": "Artikli",
+      "Image": "tal-"
+    },
+    {
+      "id": 52,
+      "Word": "eċitat",
+      "Category": "Emozzjonijiet",
+      "Image": "eċitat"
+    },
+    {
+      "id": 53,
+      "Word": "eċitata",
+      "Category": "Emozzjonijiet",
+      "Image": "eċitata"
+    },
+    {
+      "id": 54,
+      "Word": "eċitati",
+      "Category": "Emozzjonijiet",
+      "Image": "eċitati"
+    },
+    {
+      "id": 55,
+      "Word": "ferħan",
+      "Category": "Emozzjonijiet",
+      "Image": "ferħan"
+    },
+    {
+      "id": 56,
+      "Word": "ferħana",
+      "Category": "Emozzjonijiet",
+      "Image": "ferħana"
+    },
+    {
+      "id": 57,
+      "Word": "ferħanin",
+      "Category": "Emozzjonijiet",
+      "Image": "ferħanin"
+    },
+    {
+      "id": 58,
+      "Word": "imdejqin",
+      "Category": "Emozzjonijiet",
+      "Image": "imdejqin"
+    },
+    {
+      "id": 59,
+      "Word": "irrabjati",
+      "Category": "Emozzjonijiet",
+      "Image": "irrabjati"
+    },
+    {
+      "id": 60,
+      "Word": "mdejjaq",
+      "Category": "Emozzjonijiet",
+      "Image": "mdejjaq"
+    },
+    {
+      "id": 61,
+      "Word": "mdejqa",
+      "Category": "Emozzjonijiet",
+      "Image": "mdejqa"
+    },
+    {
+      "id": 62,
+      "Word": "mdejqin",
+      "Category": "Emozzjonijiet",
+      "Image": "mdejqin"
+    },
+    {
+      "id": 63,
+      "Word": "nervuż",
+      "Category": "Emozzjonijiet",
+      "Image": "nervuż"
+    },
+    {
+      "id": 64,
+      "Word": "nervuża",
+      "Category": "Emozzjonijiet",
+      "Image": "nervuża"
+    },
+    {
+      "id": 65,
+      "Word": "nervużi",
+      "Category": "Emozzjonijiet",
+      "Image": "nervużi"
+    },
+    {
+      "id": 66,
+      "Word": "rrabjat",
+      "Category": "Emozzjonijiet",
+      "Image": "rrabjat"
+    },
+    {
+      "id": 67,
+      "Word": "rrabjata",
+      "Category": "Emozzjonijiet",
+      "Image": "rrabjata"
+    },
+    {
+      "id": 68,
+      "Word": "rrabjati",
+      "Category": "Emozzjonijiet",
+      "Image": "rrabjati"
+    },
+    {
+      "id": 69,
+      "Word": "bajd",
+      "Category": "Ikel",
+      "Image": "bajd"
+    },
+    {
+      "id": 70,
+      "Word": "bajda",
+      "Category": "Ikel",
+      "Image": "bajda"
+    },
+    {
+      "id": 71,
+      "Word": "banana",
+      "Category": "Ikel",
+      "Image": "banana"
+    },
+    {
+      "id": 72,
+      "Word": "bettieħ",
+      "Category": "Ikel",
+      "Image": "bettieħ"
+    },
+    {
+      "id": 73,
+      "Word": "bettieħa",
+      "Category": "Ikel",
+      "Image": "bettieħa"
+    },
+    {
+      "id": 74,
+      "Word": "butir",
+      "Category": "Ikel",
+      "Image": "butir"
+    },
+    {
+      "id": 75,
+      "Word": "dulliegħ",
+      "Category": "Ikel",
+      "Image": "dulliegħ"
+    },
+    {
+      "id": 76,
+      "Word": "dulliegħa",
+      "Category": "Ikel",
+      "Image": "dulliegħa"
+    },
+    {
+      "id": 77,
+      "Word": "frawli",
+      "Category": "Ikel",
+      "Image": "frawli"
+    },
+    {
+      "id": 78,
+      "Word": "frott",
+      "Category": "Ikel",
+      "Image": "frott"
+    },
+    {
+      "id": 79,
+      "Word": "galletti",
+      "Category": "Ikel",
+      "Image": "galletti"
+    },
+    {
+      "id": 80,
+      "Word": "gallettina",
+      "Category": "Ikel",
+      "Image": "gallettina"
+    },
+    {
+      "id": 81,
+      "Word": "gallettini",
+      "Category": "Ikel",
+      "Image": "gallettini"
+    },
+    {
+      "id": 82,
+      "Word": "għaġin",
+      "Category": "Ikel",
+      "Image": "għaġin"
+    },
+    {
+      "id": 83,
+      "Word": "għeneb",
+      "Category": "Ikel",
+      "Image": "għeneb"
+    },
+    {
+      "id": 84,
+      "Word": "hamburger",
+      "Category": "Ikel",
+      "Image": "hamburger"
+    },
+    {
+      "id": 85,
+      "Word": "irkotta",
+      "Category": "Ikel",
+      "Image": "irkotta"
+    },
+    {
+      "id": 86,
+      "Word": "kejk",
+      "Category": "Ikel",
+      "Image": "kejk"
+    },
+    {
+      "id": 87,
+      "Word": "lanġas",
+      "Category": "Ikel",
+      "Image": "lanġas"
+    },
+    {
+      "id": 88,
+      "Word": "lanġasa",
+      "Category": "Ikel",
+      "Image": "lanġasa"
+    },
+    {
+      "id": 89,
+      "Word": "larinġ",
+      "Category": "Ikel",
+      "Image": "larinġ"
+    },
+    {
+      "id": 90,
+      "Word": "larinġa",
+      "Category": "Ikel",
+      "Image": "larinġa"
+    },
+    {
+      "id": 91,
+      "Word": "laħam",
+      "Category": "Ikel",
+      "Image": "laħam"
+    },
+    {
+      "id": 92,
+      "Word": "magħsur",
+      "Category": "Ikel",
+      "Image": "magħsur"
+    },
+    {
+      "id": 93,
+      "Word": "pastizz",
+      "Category": "Ikel",
+      "Image": "pastizz"
+    },
+    {
+      "id": 94,
+      "Word": "pastizzi",
+      "Category": "Ikel",
+      "Image": "pastizzi"
+    },
+    {
+      "id": 95,
+      "Word": "perżut",
+      "Category": "Ikel",
+      "Image": "perżut"
+    },
+    {
+      "id": 96,
+      "Word": "pizza",
+      "Category": "Ikel",
+      "Image": "pizza"
+    },
+    {
+      "id": 97,
+      "Word": "piżelli",
+      "Category": "Ikel",
+      "Image": "piżelli"
+    },
+    {
+      "id": 98,
+      "Word": "platt",
+      "Category": "Ikel",
+      "Image": "platt"
+    },
+    {
+      "id": 99,
+      "Word": "ross",
+      "Category": "Ikel",
+      "Image": "ross"
+    },
+    {
+      "id": 100,
+      "Word": "skutella",
+      "Category": "Ikel",
+      "Image": "skutella"
+    },
+    {
+      "id": 101,
+      "Word": "soppa",
+      "Category": "Ikel",
+      "Image": "soppa"
+    },
+    {
+      "id": 102,
+      "Word": "spagetti",
+      "Category": "Ikel",
+      "Image": "spagetti"
+    },
+    {
+      "id": 103,
+      "Word": "tiġieġ",
+      "Category": "Ikel",
+      "Image": "tiġieġ"
+    },
+    {
+      "id": 104,
+      "Word": "tiġieġa",
+      "Category": "Ikel",
+      "Image": "tiġieġa"
+    },
+    {
+      "id": 105,
+      "Word": "tuffieħ",
+      "Category": "Ikel",
+      "Image": "tuffieħ"
+    },
+    {
+      "id": 106,
+      "Word": "tuffieħa",
+      "Category": "Ikel",
+      "Image": "tuffieħa"
+    },
+    {
+      "id": 107,
+      "Word": "yogurt",
+      "Category": "Ikel",
+      "Image": "yogurt"
+    },
+    {
+      "id": 108,
+      "Word": "zalza",
+      "Category": "Ikel",
+      "Image": "zalza"
+    },
+    {
+      "id": 109,
+      "Word": "ċereali",
+      "Category": "Ikel",
+      "Image": "ċereali"
+    },
+    {
+      "id": 110,
+      "Word": "ċikkulata",
+      "Category": "Ikel",
+      "Image": "ċikkulata"
+    },
+    {
+      "id": 111,
+      "Word": "ċikkulatini",
+      "Category": "Ikel",
+      "Image": "ċikkulatini"
+    },
+    {
+      "id": 112,
+      "Word": "ġelat",
+      "Category": "Ikel",
+      "Image": "ġelat"
+    },
+    {
+      "id": 113,
+      "Word": "ġobon",
+      "Category": "Ikel",
+      "Image": "ġobon"
+    },
+    {
+      "id": 114,
+      "Word": "ħawħ",
+      "Category": "Ikel",
+      "Image": "ħawħ"
+    },
+    {
+      "id": 115,
+      "Word": "ħawħa",
+      "Category": "Ikel",
+      "Image": "ħawħa"
+    },
+    {
+      "id": 116,
+      "Word": "ħelu",
+      "Category": "Ikel",
+      "Image": "ħelu"
+    },
+    {
+      "id": 117,
+      "Word": "ħobż",
+      "Category": "Ikel",
+      "Image": "ħobż"
+    },
+    {
+      "id": 118,
+      "Word": "ħut",
+      "Category": "Ikel",
+      "Image": "ħut"
+    },
+    {
+      "id": 119,
+      "Word": "ħuta",
+      "Category": "Ikel",
+      "Image": "ħuta"
+    },
+    {
+      "id": 120,
+      "Word": "żejt",
+      "Category": "Ikel",
+      "Image": "żejt"
+    },
+    {
+      "id": 121,
+      "Word": "Alfabett",
+      "Category": "Kategoriji",
+      "Image": "Alfabett"
+    },
+    {
+      "id": 122,
+      "Word": "Artikli",
+      "Category": "Kategoriji",
+      "Image": "Artikli"
+    },
+    {
+      "id": 123,
+      "Word": "Emozzjonijiet",
+      "Category": "Kategoriji",
+      "Image": "Emozzjonijiet"
+    },
+    {
+      "id": 124,
+      "Word": "Ikel (1)",
+      "Category": "Kategoriji",
+      "Image": "Ikel (1)"
+    },
+    {
+      "id": 125,
+      "Word": "Ikel(1)",
+      "Category": "Kategoriji",
+      "Image": "Ikel(1)"
+    },
+    {
+      "id": 126,
+      "Word": "Ikel",
+      "Category": "Kategoriji",
+      "Image": "Ikel"
+    },
+    {
+      "id": 127,
+      "Word": "Kuluri",
+      "Category": "Kategoriji",
+      "Image": "Kuluri"
+    },
+    {
+      "id": 128,
+      "Word": "Numri",
+      "Category": "Kategoriji",
+      "Image": "Numri"
+    },
+    {
+      "id": 129,
+      "Word": "Pronomi",
+      "Category": "Kategoriji",
+      "Image": "Pronomi"
+    },
+    {
+      "id": 130,
+      "Word": "Uġigħ (1)",
+      "Category": "Kategoriji",
+      "Image": "Uġigħ (1)"
+    },
+    {
+      "id": 131,
+      "Word": "Uġigħ",
+      "Category": "Kategoriji",
+      "Image": "Uġigħ"
+    },
+    {
+      "id": 132,
+      "Word": "Verbi",
+      "Category": "Kategoriji",
+      "Image": "Verbi"
+    },
+    {
+      "id": 133,
+      "Word": "Xorb",
+      "Category": "Kategoriji",
+      "Image": "Xorb"
+    },
+    {
+      "id": 134,
+      "Word": "Ġenerali",
+      "Category": "Kategoriji",
+      "Image": "Ġenerali"
+    },
+    {
+      "id": 135,
+      "Word": "Ġisem",
+      "Category": "Kategoriji",
+      "Image": "Ġisem"
+    },
+    {
+      "id": 136,
+      "Word": "Ġugarelli",
+      "Category": "Kategoriji",
+      "Image": "Ġugarelli"
+    },
+    {
+      "id": 137,
+      "Word": "Ħwejjeġ",
+      "Category": "Kategoriji",
+      "Image": "Ħwejjeġ"
+    },
+    {
+      "id": 138,
+      "Word": "abjad",
+      "Category": "Kuluri",
+      "Image": "abjad"
+    },
+    {
+      "id": 139,
+      "Word": "aħdar",
+      "Category": "Kuluri",
+      "Image": "aħdar"
+    },
+    {
+      "id": 140,
+      "Word": "aħmar",
+      "Category": "Kuluri",
+      "Image": "aħmar"
+    },
+    {
+      "id": 141,
+      "Word": "blu",
+      "Category": "Kuluri",
+      "Image": "blu"
+    },
+    {
+      "id": 142,
+      "Word": "bluna",
+      "Category": "Kuluri",
+      "Image": "bluna"
+    },
+    {
+      "id": 143,
+      "Word": "bluni",
+      "Category": "Kuluri",
+      "Image": "bluni"
+    },
+    {
+      "id": 144,
+      "Word": "bojod",
+      "Category": "Kuluri",
+      "Image": "bojod"
+    },
+    {
+      "id": 145,
+      "Word": "isfar",
+      "Category": "Kuluri",
+      "Image": "isfar"
+    },
+    {
+      "id": 146,
+      "Word": "iswed",
+      "Category": "Kuluri",
+      "Image": "iswed"
+    },
+    {
+      "id": 147,
+      "Word": "roża",
+      "Category": "Kuluri",
+      "Image": "roża"
+    },
+    {
+      "id": 148,
+      "Word": "safra",
+      "Category": "Kuluri",
+      "Image": "safra"
+    },
+    {
+      "id": 149,
+      "Word": "sewda",
+      "Category": "Kuluri",
+      "Image": "sewda"
+    },
+    {
+      "id": 150,
+      "Word": "sofor",
+      "Category": "Kuluri",
+      "Image": "sofor"
+    },
+    {
+      "id": 151,
+      "Word": "suwed",
+      "Category": "Kuluri",
+      "Image": "suwed"
+    },
+    {
+      "id": 152,
+      "Word": "vjola",
+      "Category": "Kuluri",
+      "Image": "vjola"
+    },
+    {
+      "id": 153,
+      "Word": "ħadra",
+      "Category": "Kuluri",
+      "Image": "ħadra"
+    },
+    {
+      "id": 154,
+      "Word": "ħamra",
+      "Category": "Kuluri",
+      "Image": "ħamra"
+    },
+    {
+      "id": 155,
+      "Word": "ħodor",
+      "Category": "Kuluri",
+      "Image": "ħodor"
+    },
+    {
+      "id": 156,
+      "Word": "ħomor",
+      "Category": "Kuluri",
+      "Image": "ħomor"
+    },
+    {
+      "id": 157,
+      "Word": "0",
+      "Category": "Numri",
+      "Image": "0"
+    },
+    {
+      "id": 158,
+      "Word": "1",
+      "Category": "Numri",
+      "Image": "1"
+    },
+    {
+      "id": 159,
+      "Word": "2",
+      "Category": "Numri",
+      "Image": "2"
+    },
+    {
+      "id": 160,
+      "Word": "3",
+      "Category": "Numri",
+      "Image": "3"
+    },
+    {
+      "id": 161,
+      "Word": "4",
+      "Category": "Numri",
+      "Image": "4"
+    },
+    {
+      "id": 162,
+      "Word": "5",
+      "Category": "Numri",
+      "Image": "5"
+    },
+    {
+      "id": 163,
+      "Word": "6",
+      "Category": "Numri",
+      "Image": "6"
+    },
+    {
+      "id": 164,
+      "Word": "7",
+      "Category": "Numri",
+      "Image": "7"
+    },
+    {
+      "id": 165,
+      "Word": "8",
+      "Category": "Numri",
+      "Image": "8"
+    },
+    {
+      "id": 166,
+      "Word": "9",
+      "Category": "Numri",
+      "Image": "9"
+    },
+    {
+      "id": 167,
+      "Word": "aħna",
+      "Category": "Pronomi",
+      "Image": "aħna"
+    },
+    {
+      "id": 168,
+      "Word": "hi",
+      "Category": "Pronomi",
+      "Image": "hi"
+    },
+    {
+      "id": 169,
+      "Word": "hu",
+      "Category": "Pronomi",
+      "Image": "hu"
+    },
+    {
+      "id": 170,
+      "Word": "huma",
+      "Category": "Pronomi",
+      "Image": "huma"
+    },
+    {
+      "id": 171,
+      "Word": "int",
+      "Category": "Pronomi",
+      "Image": "int"
+    },
+    {
+      "id": 172,
+      "Word": "intom",
+      "Category": "Pronomi",
+      "Image": "intom"
+    },
+    {
+      "id": 173,
+      "Word": "jien",
+      "Category": "Pronomi",
+      "Image": "jien"
+    },
+    {
+      "id": 174,
+      "Word": "allerġija",
+      "Category": "Uġigħ",
+      "Image": "allerġija"
+    },
+    {
+      "id": 175,
+      "Word": "demm",
+      "Category": "Uġigħ",
+      "Image": "demm"
+    },
+    {
+      "id": 176,
+      "Word": "deni",
+      "Category": "Uġigħ",
+      "Image": "deni"
+    },
+    {
+      "id": 177,
+      "Word": "dijarea",
+      "Category": "Uġigħ",
+      "Image": "dijarea"
+    },
+    {
+      "id": 178,
+      "Word": "marid",
+      "Category": "Uġigħ",
+      "Image": "marid"
+    },
+    {
+      "id": 179,
+      "Word": "marida",
+      "Category": "Uġigħ",
+      "Image": "marida"
+    },
+    {
+      "id": 180,
+      "Word": "morda",
+      "Category": "Uġigħ",
+      "Image": "morda"
+    },
+    {
+      "id": 181,
+      "Word": "raxx",
+      "Category": "Uġigħ",
+      "Image": "raxx"
+    },
+    {
+      "id": 182,
+      "Word": "riħ",
+      "Category": "Uġigħ",
+      "Image": "riħ"
+    },
+    {
+      "id": 183,
+      "Word": "sogħla",
+      "Category": "Uġigħ",
+      "Image": "sogħla"
+    },
+    {
+      "id": 184,
+      "Word": "għandek",
+      "Category": "Verbi",
+      "Image": "għandek"
+    },
+    {
+      "id": 185,
+      "Word": "għandha",
+      "Category": "Verbi",
+      "Image": "għandha"
+    },
+    {
+      "id": 186,
+      "Word": "għandhom",
+      "Category": "Verbi",
+      "Image": "għandhom"
+    },
+    {
+      "id": 187,
+      "Word": "għandi",
+      "Category": "Verbi",
+      "Image": "għandi"
+    },
+    {
+      "id": 188,
+      "Word": "għandkom",
+      "Category": "Verbi",
+      "Image": "għandkom"
+    },
+    {
+      "id": 189,
+      "Word": "għandna",
+      "Category": "Verbi",
+      "Image": "għandna"
+    },
+    {
+      "id": 190,
+      "Word": "għandu",
+      "Category": "Verbi",
+      "Image": "għandu"
+    },
+    {
+      "id": 191,
+      "Word": "ieqaf",
+      "Category": "Verbi",
+      "Image": "ieqaf"
+    },
+    {
+      "id": 192,
+      "Word": "immur",
+      "Category": "Verbi",
+      "Image": "immur"
+    },
+    {
+      "id": 193,
+      "Word": "inħobb",
+      "Category": "Verbi",
+      "Image": "inħobb"
+    },
+    {
+      "id": 194,
+      "Word": "inħoss",
+      "Category": "Verbi",
+      "Image": "inħoss"
+    },
+    {
+      "id": 195,
+      "Word": "inħossni",
+      "Category": "Verbi",
+      "Image": "inħossni"
+    },
+    {
+      "id": 196,
+      "Word": "inħossu",
+      "Category": "Verbi",
+      "Image": "inħossu"
+    },
+    {
+      "id": 197,
+      "Word": "inħossuna",
+      "Category": "Verbi",
+      "Image": "inħossuna"
+    },
+    {
+      "id": 198,
+      "Word": "irrid",
+      "Category": "Verbi",
+      "Image": "irrid"
+    },
+    {
+      "id": 199,
+      "Word": "iħoss",
+      "Category": "Verbi",
+      "Image": "iħoss"
+    },
+    {
+      "id": 200,
+      "Word": "iħossu",
+      "Category": "Verbi",
+      "Image": "iħossu"
+    },
+    {
+      "id": 201,
+      "Word": "iħossuhom",
+      "Category": "Verbi",
+      "Image": "iħossuhom"
+    },
+    {
+      "id": 202,
+      "Word": "jaf",
+      "Category": "Verbi",
+      "Image": "jaf"
+    },
+    {
+      "id": 203,
+      "Word": "jafu",
+      "Category": "Verbi",
+      "Image": "jafu"
+    },
+    {
+      "id": 204,
+      "Word": "jafux",
+      "Category": "Verbi",
+      "Image": "jafux"
+    },
+    {
+      "id": 205,
+      "Word": "jafx",
+      "Category": "Verbi",
+      "Image": "jafx"
+    },
+    {
+      "id": 206,
+      "Word": "jaqra",
+      "Category": "Verbi",
+      "Image": "jaqra"
+    },
+    {
+      "id": 207,
+      "Word": "jaqraw",
+      "Category": "Verbi",
+      "Image": "jaqraw"
+    },
+    {
+      "id": 208,
+      "Word": "jieklu",
+      "Category": "Verbi",
+      "Image": "jieklu"
+    },
+    {
+      "id": 209,
+      "Word": "jiekol",
+      "Category": "Verbi",
+      "Image": "jiekol"
+    },
+    {
+      "id": 210,
+      "Word": "jilagħbu",
+      "Category": "Verbi",
+      "Image": "jilagħbu"
+    },
+    {
+      "id": 211,
+      "Word": "jilbes",
+      "Category": "Verbi",
+      "Image": "jilbes"
+    },
+    {
+      "id": 212,
+      "Word": "jilbsu",
+      "Category": "Verbi",
+      "Image": "jilbsu"
+    },
+    {
+      "id": 213,
+      "Word": "jilgħab",
+      "Category": "Verbi",
+      "Image": "jilgħab"
+    },
+    {
+      "id": 214,
+      "Word": "jixorbu",
+      "Category": "Verbi",
+      "Image": "jixorbu"
+    },
+    {
+      "id": 215,
+      "Word": "jixrob",
+      "Category": "Verbi",
+      "Image": "jixrob"
+    },
+    {
+      "id": 216,
+      "Word": "jrid",
+      "Category": "Verbi",
+      "Image": "jrid"
+    },
+    {
+      "id": 217,
+      "Word": "jridu",
+      "Category": "Verbi",
+      "Image": "jridu"
+    },
+    {
+      "id": 218,
+      "Word": "jridux",
+      "Category": "Verbi",
+      "Image": "jridux"
+    },
+    {
+      "id": 219,
+      "Word": "jridx",
+      "Category": "Verbi",
+      "Image": "jridx"
+    },
+    {
+      "id": 220,
+      "Word": "juġagħha",
+      "Category": "Verbi",
+      "Image": "juġagħha"
+    },
+    {
+      "id": 221,
+      "Word": "juġagħhom",
+      "Category": "Verbi",
+      "Image": "juġagħhom"
+    },
+    {
+      "id": 222,
+      "Word": "juġagħkom",
+      "Category": "Verbi",
+      "Image": "juġagħkom"
+    },
+    {
+      "id": 223,
+      "Word": "juġagħna",
+      "Category": "Verbi",
+      "Image": "juġagħna"
+    },
+    {
+      "id": 224,
+      "Word": "juġagħni",
+      "Category": "Verbi",
+      "Image": "juġagħni"
+    },
+    {
+      "id": 225,
+      "Word": "juġgħak",
+      "Category": "Verbi",
+      "Image": "juġgħak"
+    },
+    {
+      "id": 226,
+      "Word": "juġgħu",
+      "Category": "Verbi",
+      "Image": "juġgħu"
+    },
+    {
+      "id": 227,
+      "Word": "juża",
+      "Category": "Verbi",
+      "Image": "juża"
+    },
+    {
+      "id": 228,
+      "Word": "jużaw",
+      "Category": "Verbi",
+      "Image": "jużaw"
+    },
+    {
+      "id": 229,
+      "Word": "jħobb",
+      "Category": "Verbi",
+      "Image": "jħobb"
+    },
+    {
+      "id": 230,
+      "Word": "jħobbu",
+      "Category": "Verbi",
+      "Image": "jħobbu"
+    },
+    {
+      "id": 231,
+      "Word": "jħobbux",
+      "Category": "Verbi",
+      "Image": "jħobbux"
+    },
+    {
+      "id": 232,
+      "Word": "jħobbx",
+      "Category": "Verbi",
+      "Image": "jħobbx"
+    },
+    {
+      "id": 233,
+      "Word": "ma nħobbx",
+      "Category": "Verbi",
+      "Image": "ma nħobbx"
+    },
+    {
+      "id": 234,
+      "Word": "ma rridx",
+      "Category": "Verbi",
+      "Image": "ma rridx"
+    },
+    {
+      "id": 235,
+      "Word": "naf",
+      "Category": "Verbi",
+      "Image": "naf"
+    },
+    {
+      "id": 236,
+      "Word": "nafu",
+      "Category": "Verbi",
+      "Image": "nafu"
+    },
+    {
+      "id": 237,
+      "Word": "nafux",
+      "Category": "Verbi",
+      "Image": "nafux"
+    },
+    {
+      "id": 238,
+      "Word": "nafx",
+      "Category": "Verbi",
+      "Image": "nafx"
+    },
+    {
+      "id": 239,
+      "Word": "naqra",
+      "Category": "Verbi",
+      "Image": "naqra"
+    },
+    {
+      "id": 240,
+      "Word": "naqraw",
+      "Category": "Verbi",
+      "Image": "naqraw"
+    },
+    {
+      "id": 241,
+      "Word": "nieklu",
+      "Category": "Verbi",
+      "Image": "nieklu"
+    },
+    {
+      "id": 242,
+      "Word": "niekol",
+      "Category": "Verbi",
+      "Image": "niekol"
+    },
+    {
+      "id": 243,
+      "Word": "nilagħbu",
+      "Category": "Verbi",
+      "Image": "nilagħbu"
+    },
+    {
+      "id": 244,
+      "Word": "nilbes",
+      "Category": "Verbi",
+      "Image": "nilbes"
+    },
+    {
+      "id": 245,
+      "Word": "nilbsu",
+      "Category": "Verbi",
+      "Image": "nilbsu"
+    },
+    {
+      "id": 246,
+      "Word": "nilgħab",
+      "Category": "Verbi",
+      "Image": "nilgħab"
+    },
+    {
+      "id": 247,
+      "Word": "nixorbu",
+      "Category": "Verbi",
+      "Image": "nixorbu"
+    },
+    {
+      "id": 248,
+      "Word": "nixrob",
+      "Category": "Verbi",
+      "Image": "nixrob"
+    },
+    {
+      "id": 249,
+      "Word": "norqod",
+      "Category": "Verbi",
+      "Image": "norqod"
+    },
+    {
+      "id": 250,
+      "Word": "nuża",
+      "Category": "Verbi",
+      "Image": "nuża"
+    },
+    {
+      "id": 251,
+      "Word": "nużaw",
+      "Category": "Verbi",
+      "Image": "nużaw"
+    },
+    {
+      "id": 252,
+      "Word": "nħobbu",
+      "Category": "Verbi",
+      "Image": "nħobbu"
+    },
+    {
+      "id": 253,
+      "Word": "nħobbux",
+      "Category": "Verbi",
+      "Image": "nħobbux"
+    },
+    {
+      "id": 254,
+      "Word": "nħobbx",
+      "Category": "Verbi",
+      "Image": "nħobbx"
+    },
+    {
+      "id": 255,
+      "Word": "rridu",
+      "Category": "Verbi",
+      "Image": "rridu"
+    },
+    {
+      "id": 256,
+      "Word": "rridux",
+      "Category": "Verbi",
+      "Image": "rridux"
+    },
+    {
+      "id": 257,
+      "Word": "rridx",
+      "Category": "Verbi",
+      "Image": "rridx"
+    },
+    {
+      "id": 258,
+      "Word": "stenna",
+      "Category": "Verbi",
+      "Image": "stenna"
+    },
+    {
+      "id": 259,
+      "Word": "taf",
+      "Category": "Verbi",
+      "Image": "taf"
+    },
+    {
+      "id": 260,
+      "Word": "tafu",
+      "Category": "Verbi",
+      "Image": "tafu"
+    },
+    {
+      "id": 261,
+      "Word": "tafux",
+      "Category": "Verbi",
+      "Image": "tafux"
+    },
+    {
+      "id": 262,
+      "Word": "tafx",
+      "Category": "Verbi",
+      "Image": "tafx"
+    },
+    {
+      "id": 263,
+      "Word": "taqra",
+      "Category": "Verbi",
+      "Image": "taqra"
+    },
+    {
+      "id": 264,
+      "Word": "taqraw",
+      "Category": "Verbi",
+      "Image": "taqraw"
+    },
+    {
+      "id": 265,
+      "Word": "tieklu",
+      "Category": "Verbi",
+      "Image": "tieklu"
+    },
+    {
+      "id": 266,
+      "Word": "tiekol",
+      "Category": "Verbi",
+      "Image": "tiekol"
+    },
+    {
+      "id": 267,
+      "Word": "tilagħbu",
+      "Category": "Verbi",
+      "Image": "tilagħbu"
+    },
+    {
+      "id": 268,
+      "Word": "tilbes",
+      "Category": "Verbi",
+      "Image": "tilbes"
+    },
+    {
+      "id": 269,
+      "Word": "tilbsu",
+      "Category": "Verbi",
+      "Image": "tilbsu"
+    },
+    {
+      "id": 270,
+      "Word": "tilgħab",
+      "Category": "Verbi",
+      "Image": "tilgħab"
+    },
+    {
+      "id": 271,
+      "Word": "tixorbu",
+      "Category": "Verbi",
+      "Image": "tixorbu"
+    },
+    {
+      "id": 272,
+      "Word": "tixrob",
+      "Category": "Verbi",
+      "Image": "tixrob"
+    },
+    {
+      "id": 273,
+      "Word": "trid",
+      "Category": "Verbi",
+      "Image": "trid"
+    },
+    {
+      "id": 274,
+      "Word": "tridu",
+      "Category": "Verbi",
+      "Image": "tridu"
+    },
+    {
+      "id": 275,
+      "Word": "tridux",
+      "Category": "Verbi",
+      "Image": "tridux"
+    },
+    {
+      "id": 276,
+      "Word": "tridx",
+      "Category": "Verbi",
+      "Image": "tridx"
+    },
+    {
+      "id": 277,
+      "Word": "tuġagħha",
+      "Category": "Verbi",
+      "Image": "tuġagħha"
+    },
+    {
+      "id": 278,
+      "Word": "tuġagħhom",
+      "Category": "Verbi",
+      "Image": "tuġagħhom"
+    },
+    {
+      "id": 279,
+      "Word": "tuġagħkom",
+      "Category": "Verbi",
+      "Image": "tuġagħkom"
+    },
+    {
+      "id": 280,
+      "Word": "tuġagħna",
+      "Category": "Verbi",
+      "Image": "tuġagħna"
+    },
+    {
+      "id": 281,
+      "Word": "tuġagħni",
+      "Category": "Verbi",
+      "Image": "tuġagħni"
+    },
+    {
+      "id": 282,
+      "Word": "tuġgħak (1)",
+      "Category": "Verbi",
+      "Image": "tuġgħak (1)"
+    },
+    {
+      "id": 283,
+      "Word": "tuġgħak(1)",
+      "Category": "Verbi",
+      "Image": "tuġgħak(1)"
+    },
+    {
+      "id": 284,
+      "Word": "tuġgħak",
+      "Category": "Verbi",
+      "Image": "tuġgħak"
+    },
+    {
+      "id": 285,
+      "Word": "tuġgħu",
+      "Category": "Verbi",
+      "Image": "tuġgħu"
+    },
+    {
+      "id": 286,
+      "Word": "tuża",
+      "Category": "Verbi",
+      "Image": "tuża"
+    },
+    {
+      "id": 287,
+      "Word": "tużaw",
+      "Category": "Verbi",
+      "Image": "tużaw"
+    },
+    {
+      "id": 288,
+      "Word": "tħobb",
+      "Category": "Verbi",
+      "Image": "tħobb"
+    },
+    {
+      "id": 289,
+      "Word": "tħobbu",
+      "Category": "Verbi",
+      "Image": "tħobbu"
+    },
+    {
+      "id": 290,
+      "Word": "tħobbux",
+      "Category": "Verbi",
+      "Image": "tħobbux"
+    },
+    {
+      "id": 291,
+      "Word": "tħobbx",
+      "Category": "Verbi",
+      "Image": "tħobbx"
+    },
+    {
+      "id": 292,
+      "Word": "tħoss",
+      "Category": "Verbi",
+      "Image": "tħoss"
+    },
+    {
+      "id": 293,
+      "Word": "tħossha",
+      "Category": "Verbi",
+      "Image": "tħossha"
+    },
+    {
+      "id": 294,
+      "Word": "tħossok",
+      "Category": "Verbi",
+      "Image": "tħossok"
+    },
+    {
+      "id": 295,
+      "Word": "tħossu",
+      "Category": "Verbi",
+      "Image": "tħossu"
+    },
+    {
+      "id": 296,
+      "Word": "tħossukom",
+      "Category": "Verbi",
+      "Image": "tħossukom"
+    },
+    {
+      "id": 297,
+      "Word": "flixkun",
+      "Category": "Xorb",
+      "Image": "flixkun"
+    },
+    {
+      "id": 298,
+      "Word": "ilma",
+      "Category": "Xorb",
+      "Image": "ilma"
+    },
+    {
+      "id": 299,
+      "Word": "kafe`",
+      "Category": "Xorb",
+      "Image": "kafe`"
+    },
+    {
+      "id": 300,
+      "Word": "kikkra",
+      "Category": "Xorb",
+      "Image": "kikkra"
+    },
+    {
+      "id": 301,
+      "Word": "luminata",
+      "Category": "Xorb",
+      "Image": "luminata"
+    },
+    {
+      "id": 302,
+      "Word": "tazza",
+      "Category": "Xorb",
+      "Image": "tazza"
+    },
+    {
+      "id": 303,
+      "Word": "te`",
+      "Category": "Xorb",
+      "Image": "te`"
+    },
+    {
+      "id": 304,
+      "Word": "ħalib",
+      "Category": "Xorb",
+      "Image": "ħalib"
+    },
+    {
+      "id": 305,
+      "Word": "bard",
+      "Category": "Ġenerali",
+      "Image": "bard"
+    },
+    {
+      "id": 306,
+      "Word": "biċċa",
+      "Category": "Ġenerali",
+      "Image": "biċċa"
+    },
+    {
+      "id": 307,
+      "Word": "bonġu",
+      "Category": "Ġenerali",
+      "Image": "bonġu"
+    },
+    {
+      "id": 308,
+      "Word": "bye",
+      "Category": "Ġenerali",
+      "Image": "bye"
+    },
+    {
+      "id": 309,
+      "Word": "ftit",
+      "Category": "Ġenerali",
+      "Image": "ftit"
+    },
+    {
+      "id": 310,
+      "Word": "grazzi",
+      "Category": "Ġenerali",
+      "Image": "grazzi"
+    },
+    {
+      "id": 311,
+      "Word": "iva",
+      "Category": "Ġenerali",
+      "Image": "iva"
+    },
+    {
+      "id": 312,
+      "Word": "le",
+      "Category": "Ġenerali",
+      "Image": "le"
+    },
+    {
+      "id": 313,
+      "Word": "ma",
+      "Category": "Ġenerali",
+      "Image": "ma"
+    },
+    {
+      "id": 314,
+      "Word": "par",
+      "Category": "Ġenerali",
+      "Image": "par"
+    },
+    {
+      "id": 315,
+      "Word": "qed",
+      "Category": "Ġenerali",
+      "Image": "qed"
+    },
+    {
+      "id": 316,
+      "Word": "skużi",
+      "Category": "Ġenerali",
+      "Image": "skużi"
+    },
+    {
+      "id": 317,
+      "Word": "sħana",
+      "Category": "Ġenerali",
+      "Image": "sħana"
+    },
+    {
+      "id": 318,
+      "Word": "u",
+      "Category": "Ġenerali",
+      "Image": "u"
+    },
+    {
+      "id": 319,
+      "Word": "ċaw",
+      "Category": "Ġenerali",
+      "Image": "ċaw"
+    },
+    {
+      "id": 320,
+      "Word": "ħello",
+      "Category": "Ġenerali",
+      "Image": "ħello"
+    },
+    {
+      "id": 321,
+      "Word": "dahar",
+      "Category": "Ġisem",
+      "Image": "dahar"
+    },
+    {
+      "id": 322,
+      "Word": "daharha",
+      "Category": "Ġisem",
+      "Image": "daharha"
+    },
+    {
+      "id": 323,
+      "Word": "daharhom",
+      "Category": "Ġisem",
+      "Image": "daharhom"
+    },
+    {
+      "id": 324,
+      "Word": "daharkom",
+      "Category": "Ġisem",
+      "Image": "daharkom"
+    },
+    {
+      "id": 325,
+      "Word": "daharna",
+      "Category": "Ġisem",
+      "Image": "daharna"
+    },
+    {
+      "id": 326,
+      "Word": "dahrek",
+      "Category": "Ġisem",
+      "Image": "dahrek"
+    },
+    {
+      "id": 327,
+      "Word": "dahri",
+      "Category": "Ġisem",
+      "Image": "dahri"
+    },
+    {
+      "id": 328,
+      "Word": "dahru",
+      "Category": "Ġisem",
+      "Image": "dahru"
+    },
+    {
+      "id": 329,
+      "Word": "għonq",
+      "Category": "Ġisem",
+      "Image": "għonq"
+    },
+    {
+      "id": 330,
+      "Word": "għonqha",
+      "Category": "Ġisem",
+      "Image": "għonqha"
+    },
+    {
+      "id": 331,
+      "Word": "għonqhom",
+      "Category": "Ġisem",
+      "Image": "għonqhom"
+    },
+    {
+      "id": 332,
+      "Word": "għonqi",
+      "Category": "Ġisem",
+      "Image": "għonqi"
+    },
+    {
+      "id": 333,
+      "Word": "għonqkom",
+      "Category": "Ġisem",
+      "Image": "għonqkom"
+    },
+    {
+      "id": 334,
+      "Word": "għonqna",
+      "Category": "Ġisem",
+      "Image": "għonqna"
+    },
+    {
+      "id": 335,
+      "Word": "għonqok",
+      "Category": "Ġisem",
+      "Image": "għonqok"
+    },
+    {
+      "id": 336,
+      "Word": "għonqu",
+      "Category": "Ġisem",
+      "Image": "għonqu"
+    },
+    {
+      "id": 337,
+      "Word": "id",
+      "Category": "Ġisem",
+      "Image": "id"
+    },
+    {
+      "id": 338,
+      "Word": "idejh",
+      "Category": "Ġisem",
+      "Image": "idejh"
+    },
+    {
+      "id": 339,
+      "Word": "idejha",
+      "Category": "Ġisem",
+      "Image": "idejha"
+    },
+    {
+      "id": 340,
+      "Word": "idejhom",
+      "Category": "Ġisem",
+      "Image": "idejhom"
+    },
+    {
+      "id": 341,
+      "Word": "idejja",
+      "Category": "Ġisem",
+      "Image": "idejja"
+    },
+    {
+      "id": 342,
+      "Word": "idejk",
+      "Category": "Ġisem",
+      "Image": "idejk"
+    },
+    {
+      "id": 343,
+      "Word": "idejkom",
+      "Category": "Ġisem",
+      "Image": "idejkom"
+    },
+    {
+      "id": 344,
+      "Word": "idejn",
+      "Category": "Ġisem",
+      "Image": "idejn"
+    },
+    {
+      "id": 345,
+      "Word": "idejna",
+      "Category": "Ġisem",
+      "Image": "idejna"
+    },
+    {
+      "id": 346,
+      "Word": "idek",
+      "Category": "Ġisem",
+      "Image": "idek"
+    },
+    {
+      "id": 347,
+      "Word": "idha",
+      "Category": "Ġisem",
+      "Image": "idha"
+    },
+    {
+      "id": 348,
+      "Word": "idhom",
+      "Category": "Ġisem",
+      "Image": "idhom"
+    },
+    {
+      "id": 349,
+      "Word": "idi",
+      "Category": "Ġisem",
+      "Image": "idi"
+    },
+    {
+      "id": 350,
+      "Word": "idkom",
+      "Category": "Ġisem",
+      "Image": "idkom"
+    },
+    {
+      "id": 351,
+      "Word": "idna",
+      "Category": "Ġisem",
+      "Image": "idna"
+    },
+    {
+      "id": 352,
+      "Word": "idu",
+      "Category": "Ġisem",
+      "Image": "idu"
+    },
+    {
+      "id": 353,
+      "Word": "ras",
+      "Category": "Ġisem",
+      "Image": "ras"
+    },
+    {
+      "id": 354,
+      "Word": "rasek",
+      "Category": "Ġisem",
+      "Image": "rasek"
+    },
+    {
+      "id": 355,
+      "Word": "rasha",
+      "Category": "Ġisem",
+      "Image": "rasha"
+    },
+    {
+      "id": 356,
+      "Word": "rashom",
+      "Category": "Ġisem",
+      "Image": "rashom"
+    },
+    {
+      "id": 357,
+      "Word": "rasi",
+      "Category": "Ġisem",
+      "Image": "rasi"
+    },
+    {
+      "id": 358,
+      "Word": "raskom",
+      "Category": "Ġisem",
+      "Image": "raskom"
+    },
+    {
+      "id": 359,
+      "Word": "rasna",
+      "Category": "Ġisem",
+      "Image": "rasna"
+    },
+    {
+      "id": 360,
+      "Word": "rasu",
+      "Category": "Ġisem",
+      "Image": "rasu"
+    },
+    {
+      "id": 361,
+      "Word": "saqajh",
+      "Category": "Ġisem",
+      "Image": "saqajh"
+    },
+    {
+      "id": 362,
+      "Word": "saqajha",
+      "Category": "Ġisem",
+      "Image": "saqajha"
+    },
+    {
+      "id": 363,
+      "Word": "saqajhom",
+      "Category": "Ġisem",
+      "Image": "saqajhom"
+    },
+    {
+      "id": 364,
+      "Word": "saqajja",
+      "Category": "Ġisem",
+      "Image": "saqajja"
+    },
+    {
+      "id": 365,
+      "Word": "saqajk",
+      "Category": "Ġisem",
+      "Image": "saqajk"
+    },
+    {
+      "id": 366,
+      "Word": "saqajkom",
+      "Category": "Ġisem",
+      "Image": "saqajkom"
+    },
+    {
+      "id": 367,
+      "Word": "saqajn",
+      "Category": "Ġisem",
+      "Image": "saqajn"
+    },
+    {
+      "id": 368,
+      "Word": "saqajna",
+      "Category": "Ġisem",
+      "Image": "saqajna"
+    },
+    {
+      "id": 369,
+      "Word": "sieq",
+      "Category": "Ġisem",
+      "Image": "sieq"
+    },
+    {
+      "id": 370,
+      "Word": "sieqek",
+      "Category": "Ġisem",
+      "Image": "sieqek"
+    },
+    {
+      "id": 371,
+      "Word": "sieqha",
+      "Category": "Ġisem",
+      "Image": "sieqha"
+    },
+    {
+      "id": 372,
+      "Word": "sieqhom",
+      "Category": "Ġisem",
+      "Image": "sieqhom"
+    },
+    {
+      "id": 373,
+      "Word": "sieqi",
+      "Category": "Ġisem",
+      "Image": "sieqi"
+    },
+    {
+      "id": 374,
+      "Word": "sieqkom",
+      "Category": "Ġisem",
+      "Image": "sieqkom"
+    },
+    {
+      "id": 375,
+      "Word": "sieqna",
+      "Category": "Ġisem",
+      "Image": "sieqna"
+    },
+    {
+      "id": 376,
+      "Word": "siequ",
+      "Category": "Ġisem",
+      "Image": "siequ"
+    },
+    {
+      "id": 377,
+      "Word": "sinna",
+      "Category": "Ġisem",
+      "Image": "sinna"
+    },
+    {
+      "id": 378,
+      "Word": "żaqq",
+      "Category": "Ġisem",
+      "Image": "żaqq"
+    },
+    {
+      "id": 379,
+      "Word": "żaqqek",
+      "Category": "Ġisem",
+      "Image": "żaqqek"
+    },
+    {
+      "id": 380,
+      "Word": "żaqqha",
+      "Category": "Ġisem",
+      "Image": "żaqqha"
+    },
+    {
+      "id": 381,
+      "Word": "żaqqhom",
+      "Category": "Ġisem",
+      "Image": "żaqqhom"
+    },
+    {
+      "id": 382,
+      "Word": "żaqqi",
+      "Category": "Ġisem",
+      "Image": "żaqqi"
+    },
+    {
+      "id": 383,
+      "Word": "żaqqkom",
+      "Category": "Ġisem",
+      "Image": "żaqqkom"
+    },
+    {
+      "id": 384,
+      "Word": "żaqqna",
+      "Category": "Ġisem",
+      "Image": "żaqqna"
+    },
+    {
+      "id": 385,
+      "Word": "żaqqu",
+      "Category": "Ġisem",
+      "Image": "żaqqu"
+    },
+    {
+      "id": 386,
+      "Word": "ballun",
+      "Category": "Ġugarelli",
+      "Image": "ballun"
+    },
+    {
+      "id": 387,
+      "Word": "karozza",
+      "Category": "Ġugarelli",
+      "Image": "karozza"
+    },
+    {
+      "id": 388,
+      "Word": "karozzi",
+      "Category": "Ġugarelli",
+      "Image": "karozzi"
+    },
+    {
+      "id": 389,
+      "Word": "kompjuter",
+      "Category": "Ġugarelli",
+      "Image": "kompjuter"
+    },
+    {
+      "id": 390,
+      "Word": "kotba",
+      "Category": "Ġugarelli",
+      "Image": "kotba"
+    },
+    {
+      "id": 391,
+      "Word": "ktieb",
+      "Category": "Ġugarelli",
+      "Image": "ktieb"
+    },
+    {
+      "id": 392,
+      "Word": "laptop",
+      "Category": "Ġugarelli",
+      "Image": "laptop"
+    },
+    {
+      "id": 393,
+      "Word": "mowbajl",
+      "Category": "Ġugarelli",
+      "Image": "mowbajl"
+    },
+    {
+      "id": 394,
+      "Word": "pupa",
+      "Category": "Ġugarelli",
+      "Image": "pupa"
+    },
+    {
+      "id": 395,
+      "Word": "pupi",
+      "Category": "Ġugarelli",
+      "Image": "pupi"
+    },
+    {
+      "id": 396,
+      "Word": "rota",
+      "Category": "Ġugarelli",
+      "Image": "rota"
+    },
+    {
+      "id": 397,
+      "Word": "tablet",
+      "Category": "Ġugarelli",
+      "Image": "tablet"
+    },
+    {
+      "id": 398,
+      "Word": "ġugarelli",
+      "Category": "Ġugarelli",
+      "Image": "ġugarelli"
+    },
+    {
+      "id": 399,
+      "Word": "beritta",
+      "Category": "Ħwejjeġ",
+      "Image": "beritta"
+    },
+    {
+      "id": 400,
+      "Word": "brazzuletta",
+      "Category": "Ħwejjeġ",
+      "Image": "brazzuletta"
+    },
+    {
+      "id": 401,
+      "Word": "buz",
+      "Category": "Ħwejjeġ",
+      "Image": "buz"
+    },
+    {
+      "id": 402,
+      "Word": "dublett",
+      "Category": "Ħwejjeġ",
+      "Image": "dublett"
+    },
+    {
+      "id": 403,
+      "Word": "fardal",
+      "Category": "Ħwejjeġ",
+      "Image": "fardal"
+    },
+    {
+      "id": 404,
+      "Word": "flokk",
+      "Category": "Ħwejjeġ",
+      "Image": "flokk"
+    },
+    {
+      "id": 405,
+      "Word": "ingravata",
+      "Category": "Ħwejjeġ",
+      "Image": "ingravata"
+    },
+    {
+      "id": 406,
+      "Word": "ingwanta",
+      "Category": "Ħwejjeġ",
+      "Image": "ingwanta"
+    },
+    {
+      "id": 407,
+      "Word": "ingwanti",
+      "Category": "Ħwejjeġ",
+      "Image": "ingwanti"
+    },
+    {
+      "id": 408,
+      "Word": "kalzetta",
+      "Category": "Ħwejjeġ",
+      "Image": "kalzetta"
+    },
+    {
+      "id": 409,
+      "Word": "kalzetti",
+      "Category": "Ħwejjeġ",
+      "Image": "kalzetti"
+    },
+    {
+      "id": 410,
+      "Word": "kappell",
+      "Category": "Ħwejjeġ",
+      "Image": "kappell"
+    },
+    {
+      "id": 411,
+      "Word": "karkur",
+      "Category": "Ħwejjeġ",
+      "Image": "karkur"
+    },
+    {
+      "id": 412,
+      "Word": "karkura",
+      "Category": "Ħwejjeġ",
+      "Image": "karkura"
+    },
+    {
+      "id": 413,
+      "Word": "kowt",
+      "Category": "Ħwejjeġ",
+      "Image": "kowt"
+    },
+    {
+      "id": 414,
+      "Word": "libsa",
+      "Category": "Ħwejjeġ",
+      "Image": "libsa"
+    },
+    {
+      "id": 415,
+      "Word": "malja",
+      "Category": "Ħwejjeġ",
+      "Image": "malja"
+    },
+    {
+      "id": 416,
+      "Word": "nuċċali",
+      "Category": "Ħwejjeġ",
+      "Image": "nuċċali"
+    },
+    {
+      "id": 417,
+      "Word": "papoċċ",
+      "Category": "Ħwejjeġ",
+      "Image": "papoċċ"
+    },
+    {
+      "id": 418,
+      "Word": "papoċċa",
+      "Category": "Ħwejjeġ",
+      "Image": "papoċċa"
+    },
+    {
+      "id": 419,
+      "Word": "piġama",
+      "Category": "Ħwejjeġ",
+      "Image": "piġama"
+    },
+    {
+      "id": 420,
+      "Word": "qalziet",
+      "Category": "Ħwejjeġ",
+      "Image": "qalziet"
+    },
+    {
+      "id": 421,
+      "Word": "qmis",
+      "Category": "Ħwejjeġ",
+      "Image": "qmis"
+    },
+    {
+      "id": 422,
+      "Word": "sandli",
+      "Category": "Ħwejjeġ",
+      "Image": "sandli"
+    },
+    {
+      "id": 423,
+      "Word": "sandlija",
+      "Category": "Ħwejjeġ",
+      "Image": "sandlija"
+    },
+    {
+      "id": 424,
+      "Word": "uniformi",
+      "Category": "Ħwejjeġ",
+      "Image": "uniformi"
+    },
+    {
+      "id": 425,
+      "Word": "xalla",
+      "Category": "Ħwejjeġ",
+      "Image": "xalla"
+    },
+    {
+      "id": 426,
+      "Word": "xorts",
+      "Category": "Ħwejjeġ",
+      "Image": "xorts"
+    },
+    {
+      "id": 427,
+      "Word": "ċinturin",
+      "Category": "Ħwejjeġ",
+      "Image": "ċinturin"
+    },
+    {
+      "id": 428,
+      "Word": "ċoff",
+      "Category": "Ħwejjeġ",
+      "Image": "ċoff"
+    },
+    {
+      "id": 429,
+      "Word": "ċurkett",
+      "Category": "Ħwejjeġ",
+      "Image": "ċurkett"
+    },
+    {
+      "id": 430,
+      "Word": "ġakketta",
+      "Category": "Ħwejjeġ",
+      "Image": "ġakketta"
+    },
+    {
+      "id": 431,
+      "Word": "ġersi",
+      "Category": "Ħwejjeġ",
+      "Image": "ġersi"
+    },
+    {
+      "id": 432,
+      "Word": "ġins",
+      "Category": "Ħwejjeġ",
+      "Image": "ġins"
+    },
+    {
+      "id": 433,
+      "Word": "ġiżirana",
+      "Category": "Ħwejjeġ",
+      "Image": "ġiżirana"
+    },
+    {
+      "id": 434,
+      "Word": "żarbun",
+      "Category": "Ħwejjeġ",
+      "Image": "żarbun"
+    },
+    {
+      "id": 435,
+      "Word": "żarbuna",
+      "Category": "Ħwejjeġ",
+      "Image": "żarbuna"
+    }
+  ]
+  

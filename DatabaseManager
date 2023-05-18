@@ -1,0 +1,30 @@
+import Database from './Database';
+
+export async function editCategoryName(currentWord, newWord, newNormalisedWord) {
+  // Set query parameters for changing the category name
+  const table = 'Kategoriji';
+  const contentValues = {
+    Word: newWord,
+    NormalisedWord: newNormalisedWord,
+  };
+  const whereClause = 'Word = ?';
+  const whereArgs = [currentWord];
+
+  // Update category name
+  await Database.runQuery(`UPDATE ${table} SET Word = ?, NormalisedWord = ? WHERE ${whereClause}`, [
+    contentValues.Word,
+    contentValues.NormalisedWord,
+    ...whereArgs,
+  ]);
+
+  // Set query parameters for changing the category attribute
+  // of words which were associated with the old category name
+  const tableUnigrams = 'Unigrams';
+  const contentValuesUnigrams = {Category: newWord};
+
+  // Update category attribute
+  await Database.runQuery(`UPDATE ${tableUnigrams} SET Category = ? WHERE ${whereClause}`, [
+    contentValuesUnigrams.Category,
+    ...whereArgs,
+  ]);
+}
