@@ -4,8 +4,8 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 const Category = ({ title, color, onSelect, size }) => {
     const styles = StyleSheet.create({
         container: {
-            width: size, // Use the size prop
-            height: size, // Use the size prop
+            width: size, 
+            height: size, 
             backgroundColor: color,
             borderRadius: 16,
             justifyContent: 'center',

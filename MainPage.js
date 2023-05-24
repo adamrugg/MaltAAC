@@ -50,7 +50,7 @@ const MainPage = ({ navigation }) => {
     const pagerView = useRef(null);
 
     useEffect(() => {
-        console.log("bigrams ", bigrams);
+        // console.log("bigrams ", bigrams);
 
         const backAction = () => {
             BackHandler.exitApp();
@@ -67,7 +67,7 @@ const MainPage = ({ navigation }) => {
 
     useEffect(() => {
         if (!!selectedCategory) {
-            console.log("new category selected: ", selectedCategory);
+            // console.log("new category selected: ", selectedCategory);
             const filteredData = imageData.filter(item => item.Category == selectedCategory);
             setData(filteredData);
         }
@@ -95,7 +95,7 @@ const MainPage = ({ navigation }) => {
         if (!selectedWords.length) return;
         const lastWord = selectedWords[selectedWords.length - 1];
         const secondLastWord = selectedWords[selectedWords.length - 2];
-        console.log("lastword ", lastWord);
+        // console.log("lastword ", lastWord);
 
         // If the last two words exist in the trigrams, use the trigrams
         if (secondLastWord && trigrams[`${secondLastWord.Word} ${lastWord.Word}`]) {
@@ -114,8 +114,8 @@ const MainPage = ({ navigation }) => {
     }, [selectedWords]);
 
     useEffect(() => {
-        console.log("predictions: ", predictions);
-        console.log("prefix", prefix);
+        // console.log("predictions: ", predictions);
+        // console.log("prefix", prefix);
 
         let transPredictions = [];
         predictions.forEach((prediction, index) => {
@@ -130,7 +130,7 @@ const MainPage = ({ navigation }) => {
     }, [prefix, predictions]);
 
     useEffect(() => {
-        console.log("transformedPredictions: ", transformedPredictions);
+        // console.log("transformedPredictions: ", transformedPredictions);
     }, [transformedPredictions]);
 
     const handleBackToCategories = () => {
@@ -396,23 +396,23 @@ const MainPage = ({ navigation }) => {
                     ]}
                     onPresses={[
                         () => {
-                            console.log('Home pressed');
                             setActiveTab('Home');
+                            navigation.navigate('MainPage');  // navigate to HomeScreen
                         },
                         () => {
-                            console.log('Settings pressed');
                             setActiveTab('Settings');
+                            // navigation.navigate('Settings');  // navigate to SettingsScreen
                         },
                         () => {
-                            console.log('Help pressed');
                             setActiveTab('Help');
+                            navigation.navigate('OnBoardingScreen');  // navigate to HelpScreen
                         },
                     ]}
                 />
             )}
-            <TouchableOpacity onPress={toggleNavbar} style={styles.arrowUpButton}>
+            {/* <TouchableOpacity onPress={toggleNavbar} style={styles.arrowUpButton}>
                 <ArrowIcon />
-            </TouchableOpacity>
+            </TouchableOpacity> */}
         </View>
     );
 }
@@ -437,7 +437,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'flex-start',
         width: '100%',
-        paddingBottom: 20, // Add paddingBottom to gridContent
+        paddingBottom: 20,
     },
     category: {
         width: categoryWidth,
@@ -451,8 +451,8 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         alignItems: 'center',
         width: '100%',
-        marginTop: 20, //adjust this value if necessary
-        marginBottom: 20, //adjust this value if necessary
+        marginTop: 20,
+        marginBottom: 20,
     },
     navButton: {
         flexDirection: 'row',
@@ -507,7 +507,7 @@ const styles = StyleSheet.create({
     selectedWord: {
         display: 'flex',
         flexDirection: 'column',
-        alignItems: 'center', // Add alignItems: 'center' to center the text
+        alignItems: 'center',
         margin: 2,
         padding: 15,
         borderRadius: 10,

@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { ScrollView, Dimensions, View, Text, TouchableOpacity, StyleSheet, Image } from 'react-native';
 import OnBoardingContent from './OnBoardingContent';
-import { LinearGradient } from 'expo-linear-gradient';
 
 const OnBoardingScreen = ({ navigation }) => {
     const [currentPage, setCurrentPage] = useState(0);
 
     const handleNext = () => {
-        if (currentPage === 2) {
+        if (currentPage === 4) {
             navigation.navigate('MainPage');
+            setTimeout(() => setCurrentPage(0), 500);
         } else {
             setCurrentPage(currentPage + 1);
         }
@@ -23,9 +23,32 @@ const OnBoardingScreen = ({ navigation }) => {
     };
 
     const pages = [
-        { title: 'Merħba għal MaltAAC! ' },
-        { title: 'Ikkomunika billi tagħfas il-kaxex' },
-        { title: 'Żid kliem u frażijiet favoriti!' },
+        {
+            title: 'Merħba għal MaltAAC! ',
+            description: 'Fil-paġni li jmiss, ser jiġi spjegat kif tuża din l-applikazzjoni.',
+            image: require('./assets/images/maltaac-transparent.png'),
+        },
+        {
+            title: 'Tkellem billi tagħfas il-kaxex',
+            description: 'Kull kaxxa fiha kategorija, li fiha numru ta\' kliem relatati ma\' dik il-kategorija. Tista\' tmur minn paġna għall-oħra billi tmexxi subgħajk lejn ix-xellug jew il-lemin. ',
+            image: require('./assets/images/Onboarding/MainPage.png'),
+        },
+        {
+            title: 'Għaqqad sentenzi b\' mod faċli',
+            description: 'Tista\' żżid il-kliem billi tagħfas fuqhom. Skont il-kelma li tagħżel, titlalek lista ta\' kliem relatati. Biex tneħħi kelma, kemm tagħfas fuqha fil-parti ta\' fuq tal-iskrin.',
+            image: require('./assets/images/Onboarding/Predictions.png'),
+        },
+        {
+            title: 'Tkellem, waqqaf, jew ħassar',
+            description: 'Din ir-ringiela ta\' buttuni tintuża biex l-għażla tal-kliem jiġu mitkellma jew imwaqqfa, kif ukoll biex tħassar l-għażla kollha. ',
+            image: require('./assets/images/Onboarding/Words.png'),
+        },
+        {
+            title: 'Ibda kkomunika issa!',
+            description: 'Jekk tixtieq terġa\' ssegwi din il-gwida, agħfas il-buttuna bit-tikketta "Għajnuna" fuq il-parti t\'isfel tal-iskrin.',
+            image: require('./assets/images/Onboarding/learning!.png'),
+        },
+
     ];
 
 
@@ -33,9 +56,14 @@ const OnBoardingScreen = ({ navigation }) => {
         <View style={styles.container}>
             <View style={styles.contentWrapper}></View>
             <View style={styles.contentContainer}>
-                <OnBoardingContent title={pages[currentPage].title} />
+                <OnBoardingContent
+                    title={pages[currentPage].title}
+                    description={pages[currentPage].description}
+                    image={pages[currentPage].image} // pass the image
+                />
+
                 <View style={styles.paginationContainer}>
-                    {[0, 1, 2].map((index) => (
+                    {[0, 1, 2, 3, 4].map((index) => (
                         <View
                             key={index}
                             style={[
@@ -61,7 +89,7 @@ const OnBoardingScreen = ({ navigation }) => {
                         </TouchableOpacity>
                         <TouchableOpacity style={[styles.nextButton, styles.button]} onPress={handleNext}>
                             <Text style={styles.buttonText}>
-                                {currentPage === 2 ? 'Ibda! ➡️' : 'Kompli ➡️'}
+                                {currentPage === 4 ? 'Ibda! ➡️' : 'Kompli ➡️'}
                             </Text>
                         </TouchableOpacity>
                     </View>
@@ -127,7 +155,7 @@ const styles = StyleSheet.create({
         shadowOffset: { width: 0, height: 1 }, //  iOS drop shadow
         shadowOpacity: 0.2, //  iOS drop shadow
         shadowRadius: 1.41, //  iOS drop shadow
-      },
+    },
 
     nextButton: {
         justifyContent: 'center',
@@ -176,7 +204,7 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontSize: 20,
         marginLeft: 5,
-        paddingTop: 2,
+        paddingTop: 0,
     },
     skipButton: {
         paddingVertical: 12,

@@ -35,11 +35,11 @@ const styles = StyleSheet.create({
         borderRadius: 50,
         overflow: 'hidden',
         backgroundColor: 'orange',
-        elevation: 3, //  Android drop shadow
-        shadowColor: '#000', //  iOS drop shadow
-        shadowOffset: { width: 0, height: 1 }, //  iOS drop shadow
-        shadowOpacity: 0.2, //  iOS drop shadow
-        shadowRadius: 1.41, //  iOS drop shadow
+        elevation: 3,
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 1 }, 
+        shadowOpacity: 0.2, 
+        shadowRadius: 1.41,
     },
     buttonSegment: (last) => ({
         paddingHorizontal: 25,

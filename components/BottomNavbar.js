@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         alignItems: 'center',
         backgroundColor: '#ffffff', // Change the background color to solid white
-        paddingVertical: 12.5,
+        paddingVertical: 20,
     },
     navBarItem: {
         justifyContent: 'center',
